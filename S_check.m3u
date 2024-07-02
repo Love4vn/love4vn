@@ -1,0 +1,1226 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="Movies",20415
+https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ABC NEWS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/379
+
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Relax",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",AL JAZEERA ENGLISH
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/7107
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",ANime247
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="Relax",Adult Swim Dream Corp LLC 1080p Geoblocked
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg" group-title="Du lchKhm ph",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Du lchKhm ph",Animated Mrbean Latin
+http://51.159.104.29:8080/mrbean/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arirangtv.png" group-title="Du lchKhm ph",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Du lchKhm ph" tvg-logo="https://www.autentic.com/images/History-Logo-positiv-RGB.svg",Autentic History
+https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BBC WORLD NEWS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/387
+
+#EXTINF:-1 tvg-id="12188" tvg-name="BBC-NEWS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/BBC-NEWS.png" group-title="Du lchKhm ph",BBC新闻
+https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/billiardtv.png" group-title="Selection Sport",BILLIARD TV HD
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BLOOMBERG
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/4922
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/21954
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33225
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43065
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33221
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43066
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/628
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 3
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/21956
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports 3
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/629
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BT Sports ESPN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1375
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Black News Channel
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/65728
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Bonappetite food
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Selection Sport",Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-canal-plus-foot-2808.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CANAL FOOT HD web
+http://balancer.platinum-tv.com:8888/Canal+_sport_HD/index.m3u8?token=c3d422c608a2449ce5f9efda00c5e4dc
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-plus-sport-360-2807.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CANAL FOOT360 HD web
+http://balancer.platinum-tv.com:8888/canalplus_360/index.m3u8?token=9938a4720790817b185533b70455664c
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",CBC Comedy 1080p Geoblocked
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="Du lchKhm ph",CBN
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Du lchKhm ph" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/CGTN-Documentary.png",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CHEDDAR
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/413
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CHEDDAR BUSINESS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/332
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX 5 STARMAX
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/61919
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX ACTION MAX
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/634
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX EAST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/414
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX MOREMAX
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/636
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX OUTERMAX
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13503
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX THRILLERMAX East
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13504
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CINEMAX WEST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/415
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CNBC
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/407
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CNBC WORLD
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/408
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CNN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/6943
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CNN INTERNATIONAL
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/28606
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CNN en Espanol
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/260
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CSPAN 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/400
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CSPAN 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/401
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",CSPAN 3
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/402
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="247",Cats 247
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CV.png" group-title="Du lchKhm ph",Cinevault80s
+https://lnc-cinevault-80s.tubi.video/3000.m3u8
+
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="Relax",Comedia Made in Spain 720p Not 247
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Relax",Comedy Central East 720p Not 247
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Comedy Channel 1080p
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Relax",Comedy Play 720p
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",CookingPanda food
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8?c
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",DEPORTES  M  LIGA CAMPEONES 2 HD
+http://cartatv.es:8080/Bernardo/123456789/399379
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",DEPORTES M DEPORTE 2 Solo Eventos
+http://cartatv.es:8080/Bernardo/123456789/93361
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",DEPORTES M DEPORTES HD 720P
+http://cartatv.es:8080/Bernardo/123456789/93142
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Du lchKhm ph",DISCOVERY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57409.m3u8
+
+#EXTINF:-1 group-title="Du lchKhm ph" tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png",DISCOVERY HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 group-title="Du lchKhm ph" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png",DISCOVERY SCIENCE
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NtNxV9Z/Disney-Channel.jpg" group-title="Kids",DISNEY CHANNEL
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57183.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KV0mJw0/Disney-Jr.jpg" group-title="Kids",DISNEY JUNIOR
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQL8SRw/Disney-XD.jpg" group-title="Kids",DISNEY XD
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57232.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CC7vpkK.png" group-title="Kids",Discovery Kids
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GY1jxgh.jpeg" group-title="Du lchKhm ph",Discovery Turbo
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8j4tT41.jpeg" group-title="Du lchKhm ph",Dmax
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Drybar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Eksyen1
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Eksyen2
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Eksyen3
+https://hls1a-akm.douyucdn.cn/live/747764rY8y36S2GJ_4000/playlist.m3u8?wsAuth=add6ea7bc8ccf126b8aadcbeca021e6f&token=web-h5-0-747764-72757a48f7b39f8dc0eb3fd426b2fc1abfaf404dc637efd3&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391588617&mcid2=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",EksyenV
+https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1364
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/21959
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/33209
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43096
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 1
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80554
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1363
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/21960
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/28661
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/28662
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/43098
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",EuroSport 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80555
+
+#EXTINF:-1 group-title="Selection Sport",Eurosport 1
+http://135.181.115.81:8000/play/a01e/index.m3u8?token=livetv
+
+#EXTINF:-1 group-title="Selection Sport",Eurosport 1 HD
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Eurosport 2
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Eurosport 2 HD
+http://81.7.108.21:9000/play/Eurosport2HD-DVBC386-sti4400018360108
+
+#EXTINF:-1 group-title="Selection Sport",Extreme Sports
+http://91.90.255.235:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="Selection Sport",FIFA
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fifa%2B.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",FOX BUSINESS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/461
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",FOX NEWS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/4228
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",FRIGHTFLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2253&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Frightflix&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
+
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Relax",FailArmy
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Relax" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png",FailArmy
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-name="" group-title="Relax" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png",FailArmy Internacional
+https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.it" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Relax",Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="Du lchKhm ph",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",FastFunBox
+http://188.113.190.15/208/video.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",FastFunBox HD
+http://81.7.108.21:9000/play/FastAndFunBOXHD-DVBC346-sti4400019110542
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FN.png" group-title="Du lchKhm ph",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",FightBox
+https://stream01.vnet.am/Fightbox/mono.m3u8
+
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Relax",Fora Tdio TV 720p Not 247
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/17hqLxR.png" group-title="Relax",Funny or Die 720p
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="Du lchKhm ph",GB
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Selection Sport" tvg-logo="http://elgarage.com/wp-content/uploads/2021/04/favicon-150x150.png",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",GustoTv food
+https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/16806
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO COMEDY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/638
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO EAST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3796
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO FAMILY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3797
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO SIGNATURE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3798
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO WEST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO ZONE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HDNET MOVIES
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/15818
+
+#EXTINF:-1 tvg-logo="" group-title="Du lchKhm ph",Hit History
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hub Sports 1" tvg-id="HubSports1" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Hub Sports 1 HD
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=783618&extension=m3u8
+
+#EXTINF:-1 tvg-name="Hub Sports 2" tvg-id="HubSports2" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Hub Sports 2 HD
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=783619&extension=m3u8
+
+#EXTINF:-1 tvg-name="Hub Sports 3" tvg-id="HubSports3" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Hub Sports 3 HD
+http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=783620&extension=m3u8
+
+#EXTINF:-1 tvg-name="Hub Sports UHD" tvg-id="HubSportsUHD" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Hub Sports UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350568_&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 1" tvg-id="HubPremier1" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 1
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554980&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 2" tvg-id="HubPremier2" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 2
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554979&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 3" tvg-id="HubPremier3" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 3
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554978&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 4" tvg-id="HubPremier4" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 4
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554977&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 5" tvg-id="HubPremier5" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 5
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554976&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 6" tvg-id="HubPremier6" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 6
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554975&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 7" tvg-id="HubPremier7" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 7
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554974&extension=m3u8
+
+#EXTINF:-1 tvg-name="HubPremier 8" tvg-id="HubPremier8" tvg-logo="" group-title="Selection Sport" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier 8
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554973&extension=m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier1FHD
+https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 tvg-name="" tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier2FHD
+https://7pal.short.gy/HPremier2
+
+#EXTINF:-1 tvg-name="" tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HubPremier3FHD
+https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",INFO WARS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1121
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",Jbioskop3
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",Jseries1
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="Relax",Just for Laughs Italy 720p
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="JustepourRire.us" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="Relax",Juste pour Rire 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",K1  Live
+http://is.am/5nv4
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",K2  Live
+http://is.am/5ngn
+
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSNEWS.png" group-title="Du lchKhm ph",KBS
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-id="kxl",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-id="kxl-hd",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsJmxqJ/Lingua.jpg" group-title="Du lchKhm ph",LINGUA
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Relax",LOL Network
+https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LOLStandUp.us" tvg-logo="https://i.imgur.com/qgsyzW4.png" group-title="Relax",LOL Standup 1080p
+https://lnc-lol-stand-up.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="Du lchKhm ph",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 group-title="Du lchKhm ph" tvg-id="lovenature.id" tvg-logo="https://iptv.urfan.web.id/logo/lovenature.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MBC TV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MGM
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/637
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MGM 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13470
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MGM DRIVEIN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13468
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MGM HITS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13469
+
+#EXTINF:-1 group-title="Selection Sport" tvg-id="m1global",MMATV
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MOVIE PLEX
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/15820
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MSNBC
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/510
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="Kids",MentariTV
+https://okegas.transvision.workers.dev/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-id="moonbugkids.us" tvg-logo="https://iptv.urfan.web.id/logo/moonbug.png",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="localnow_MotoAmerica" group-title="Selection Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MotoAmerica.png",MotoAmerica
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Movistar  LIGA CAMPEONES HD 720p
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55577&extension=ts&play_token=TalZniWzqE&sn2=062014N014671
+
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-logo="https://i.imgur.com/8KWjY4o.png" group-title="Relax",Mystery Science Theater 3000 1080p
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",NECN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1168
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",NEWSMAX TV
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/1167
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",NEWSY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13460
+
+#EXTINF:-1 group-title="Kids" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",New Movies
+https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="Du lchKhm ph",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ONE AMERICA NEWS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/9309
+
+#EXTINF:-1 group-title="Kids" tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Kids" tvg-id="pbskids.us" tvg-logo="https://iptv.urfan.web.id/logo/pbskids.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Relax",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Du lchKhm ph" tvg-logo="https://i.postimg.cc/yYrqgVTB/image.jpg",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Pixl
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/87423
+
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.uk" tvg-logo="https://i.imgur.com/hGdXRMd.png" group-title="Relax",Pluto TV Classic TV 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc
+
+#EXTINF:-1 tvg-id="ClassicTVComedy.us" tvg-logo="https://i.imgur.com/wg5I5Fb.png" group-title="Relax",Pluto TV Classic TV Comedy 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e32b297f96000768f928&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=501&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVComedie.fr" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="Relax",Pluto TV Comdie 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="Relax",Pluto TV Comedy 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Pluto TV Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://i.imgur.com/jmudbCz.png" group-title="Relax",Pluto TV Comedy Central 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4947590ba40f75dc29c26b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Relax",Pluto TV Comedy Central Animation 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-logo="https://i.imgur.com/FiM7Rbz.png" group-title="Relax",Pluto TV Comedy Central Latino 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Pluto TV Comedy Central Made in Germany 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4948418101147596fd6c5a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=91083755-0728-11eb-aeab-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Pluto TV Comedy Central Made in Germany 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="FunnyAF.us" tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="Relax",Pluto TV Funny AF 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="https://i.imgur.com/9PAY5Xz.png" group-title="Relax",Pluto TV Kenan y Kel 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="Relax",Pluto TV RiffTrax 720p Not 247
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58d947b9e420d8656ee101ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=489&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-logo="https://i.imgur.com/INcTSkj.png" group-title="Relax",Pluto TV Series Comedia 360p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Relax",Pluto TV Sitcoms 720p
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d767ab2b456c8cf265ce921&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7e35daaa-06ef-11eb-9df2-0242ac110002&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="SlightlyOffIFC.us" tvg-logo="https://i.imgur.com/zMPpMbV.png" group-title="Relax",Pluto TV Slightly Off By IFC 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="Relax",Pluto TV Sony Canal Comedias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="Relax",Pluto TV Stand Up 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d135e29a52c94dfe543c5d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Relax",Pluto TV TV Land Sitcoms 720p
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="Selection Sport",Premier Sports 1
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 group-title="Selection Sport",Premier Sports 2
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 group-title="Selection Sport",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",R Action
+https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",RTP
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13464
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Selection Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RacingAmerica.webp",Racing America
+https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Rakuten Comedy
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Relax",Rakuten Comedy 720p
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten Comedy Movies
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.it" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten Comedy Movies
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.fr" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten Comedy Movies France 720p
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.de" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten Comedy Movies Germany 720p
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten Comedy Movies UK 720p
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RKT.png" group-title="Du lchKhm ph",Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.fi" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Relax",Rakuten TV Komedia
+https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Relax",Redbox 2 Comedy 1080p
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Redbull TV
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/4478
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",Rtopfree
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",Rtvshows
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Selection Sport" tvg-id="russian-extreme-uhd",Russian Extreme UHD Архив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SBS TV
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME 2
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/646
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME EAST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/268
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME EXTREME
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/32841
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME NEXT
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3815
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME SHOWCASE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3814
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME WEST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3813
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWTIME WOMEN
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/13471
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SHOWxBET
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/61958
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="Du lchKhm ph",SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SONY MOVIE CHANNEL
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3812
+
+#EXTINF:-1 tvg-name="" tvg-id="ksport1hd" tvg-logo="" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SPORT1K FHD
+http://is.am/5nvs
+
+#EXTINF:-1 tvg-name="" tvg-id="ksport2hd" tvg-logo="" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SPORT2K FHD
+http://is.am/5nvt
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ CINEMA
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3811
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ COMEDY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/649
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ EAST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3810
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ EDGE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3809
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ EDGE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/645
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ ENCORE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3805
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ ENCORE CLASSIC
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/93202
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ ENCORE FAMILY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3804
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ ENCORE SUSPENSE
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3803
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ ENCORE WESTERNS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ IN BLACK
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3808
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ KIDS  FAMILY
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3807
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",STARZ WEST
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3806
+
+#EXTINF:-1 tvg-id="Scherzierisate.it" tvg-logo="https://i.imgur.com/jVWPVvJ.png" group-title="Relax",Scherzi e risate Italy 720p
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ScreenPix
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/92269
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ScreenPix Action
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/92268
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ScreenPix Voices
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/92270
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ScreenPix Westerns
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/92271
+
+#EXTINF:-1 group-title="Selection Sport",Setanta Sports 1 HD
+http://45.93.46.27:8887/8565/video.m3u8
+
+#EXTINF:0 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="Selection Sport",Sky Sport PL
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports 1 NZ
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports 2 NZ
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports 4 NZ
+https://7pal.short.gy/skyspt4nz
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Action
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73784
+
+#EXTINF:-1 group-title="Selection Sport" tvg-id="sky-sports-action",Sky Sports Action
+https://7pal.short.gy/ssportsat
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-arena" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Arena
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73792
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Cricket
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73793
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports F1
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports F1 4K
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73791
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-football" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Football
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73785
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-football" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Football
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80620
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Golf
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73790
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-maine" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Main Event
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73795
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-maine" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Main Event
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80622
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports Main Event
+https://7pal.short.gy/skspmaine
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Mix
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73787
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports News
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73788
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports News
+https://7pal.short.gy/ssportsnw
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-apl" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Premier League
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73789
+
+#EXTINF:-1 tvg-name="" tvg-id="sky-sports-apl" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Premier League
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80626
+
+#EXTINF:-1 group-title="Selection Sport",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Racing
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/73794
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Sports Racing
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80627
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sky Witness
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80628
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Selection Sport" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Snowboarder.webp",Snowboarder tv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg13231-actve-snowboarder-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/9e/Sony_Sports_Ten_1_2022.png/revision/latest?cb=20221211181900" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sony Sports Ten 1 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55284
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sony Sports Ten 2 HD DFB
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55282
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/All-logos4.gif" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Sony Sports Ten 3 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55281
+
+#EXTINF:-1 group-title="Kids" tvg-id="spacetoonarabic.ae" tvg-logo="https://iptv.urfan.web.id/logo/spacetoon.png",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Selection Sport",Sportsnews US
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-1-226.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Star Sports 1 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55273
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-2-227.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Star Sports 2 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55272
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-3-228.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Star Sports 31 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55271
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-1-230.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Star Sports Select 1 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55270
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-star-sports-select-2-231.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Star Sports Select 2 HD
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/55269
+
+#EXTINF:-1 tvg-logo="" group-title="Du lchKhm ph",Starsports
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-name="suanrtm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg" tvg-id="belarus5" group-title="Selection Sport",Sukan RTM Champions League
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperSport Football" tvg-id="SuperSportFootball.za" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SuperSport Football
+https://7pal.short.gy/sperspfb
+
+#EXTINF:-1 tvg-name="SuperSport PSL" tvg-id="SuperSportPSL.za" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SuperSport PSL
+https://7pal.short.gy/spersppsl
+
+#EXTINF:-1 tvg-name="SuperSport Premier League" tvg-id="SuperSportPremierLeague.za" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="SPORT EUROPE" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SuperSport Premier League
+https://7pal.short.gy/spersppl
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Action HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/312
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Cricket HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/310
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Football HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/307
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Golf HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/306
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports GrandStand HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/305
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports La Liga HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/304
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Maximo HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/303
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports MotorSport HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/302
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports PSL HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Premier League HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/300
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Tennis HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 1 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 2 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 3 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title="Du lchKhm ph",TECHSTORM
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 1
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 2
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 3
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 group-title="Selection Sport",TNT Sport 4
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="Du lchKhm ph",TVB2
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="Kids",TalkingTom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",TastemadeTravel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANNEL.png" group-title="Du lchKhm ph",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-name="" group-title="Relax" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/thepetcolletive.webp",The Pet Collective
+https://bit.ly/3sYLlrg?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Top Gear cars
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/08ugoWy.jpeg" group-title="Du lchKhm ph",Trvl Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="USUK SPORT" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",UFC FIGHT PASS
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/80640
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.postimg.cc/9Fp86Hp6/Unbeaten-TV.png",Unbeaten TV
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Vice Tv features
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Viju Sport
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Wion news
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foreignSportsFree" channelID="foreignSportsFree" tvg-logo="https://dartswdf.com/images/opengraph.png" group-title="Selection Sport",World Darts Federation
+https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="zoomoo.sg" tvg-logo="https://iptv.urfan.web.id/logo/zoomoo.png",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" group-title="Selection Sport" tvg-logo="https://i.imgur.com/6hQkqEL.png",beIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",kartun247
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",kids movies
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",korus247
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="PPTVHD36.th" tvg-logo="https://cms.dmpcdn.com/livetv/2021/01/23/2c564460-5d75-11eb-9b73-89c5b53fdd5d_original.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko Chrome8104044138 Safari53736PPTV HD AIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tinyurl.com/PPTVTHLAND
+
+#EXTINF:-1 tvg-name="" tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="https://weblivehdplay.ru/premiumtv/daddyhd.php" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko Chrome9104472124 Safari53736 Edg91086459Astro SuperSport 1 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="https://weblivehdplay.ru/premiumtv/daddyhd.php" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko Chrome9104472124 Safari53736 Edg91086459Astro SuperSport 2 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="astrosupersport4.my" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN" catchup="" catchup-source="" catchup-days="" :http-referrer="https://weblivehdplay.ru/premiumtv/daddyhd.php" :http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko Chrome9104472124 Safari53736 Edg91086459Astro SuperSport 4 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",movies
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",movies01
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",movies02
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
+
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Movies",movies03
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",rush cine
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="Du lchKhm ph",spotlight cine
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png",Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч
+http://streamer2.fokks.ru:10003/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Selection Sport" tvg-id="match-tv",Матч 7 Архив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч HD
+http://tv.streams.baikal-telecom.net:8080/MatchHD/mpegts
+
+#EXTINF:-1 group-title="Selection Sport",Матч Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1 group-title="Selection Sport",Матч Арена HD
+http://188.113.190.15/325/video.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Selection Sport" tvg-id="match-tv",Матч Архив
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Боец
+http://91.90.255.235:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Боец HD
+http://92.242.110.52:9835/udp/238.1.2.7:1234
+
+#EXTINF:-1 group-title="Selection Sport",Матч Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 group-title="Selection Sport",Матч Игра HD
+http://188.113.190.15/326/video.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Премьер
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Страна
+http://188.113.190.15/95/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 1
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 2
+http://188.113.190.15/176/video.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 2 HD
+http://45.93.46.27:8887/8237/video.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3
+http://188.113.190.15/177/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Матч Футбол 3 HD
+http://45.93.46.27:8887/8238/video.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Мир баскетбола
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+
+#EXTINF:-1 group-title="Selection Sport",Спортивный
+https://bl.webcaster.pro/media/playlist/free_c7a42136a22dcc4c7c1c4318957e5b79/33_90563280/480q/1b6d7c2dd2f44c77f26d7ffa2897399f/4867405759.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Старт Триумф HD
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Старт Туран
+https://streams.qazcdn.net/live2/bQS3PALvoU/live/bQS3PALvoU_1080/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru" tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="Relax",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Футбольный HD
+https://bl.webcaster.pro/media/playlist/free_4826041ac19d24905b2b303254662b17/33_94615152/720q/95829aead81db732e4cf1a7bb22ab598/4867406070.m3u8
+
+#EXTINF:-1 group-title="Selection Sport",Хоккейный
+https://bl.webcaster.pro/media/playlist/free_8e7441d1ce4776f0e1b921e9abc8f799/33_92079550/480q/1b7b4c6773c34a4abd51718269a8a089/4867406233.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",ช่อง Astro SuperSport 2 HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59219
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",ช่อง Astro SuperSport 3 HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59218
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ช่อง Astro SuperSport 4 HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59217
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",ช่อง Astro SuperSport HD
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59220
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://i.pinimg.com/564x/c5/7e/f6/c57ef60c450a421d4ed6c8241e430443.jpg",ช่อง FW Skynet Sports HD
+https://www.inwiptv.com/player_demo.php?channel=89782
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://media.glassdoor.com/sqll/1374572/lax-sports-network-squarelogo-1513143171554.png",ช่อง Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Premier Sports 1
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69854
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Premier Sports 2
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69855
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Premier Sports 3
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69856
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Premier Sports 4
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69857
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",ช่อง Now Sports 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=594627
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",ช่อง Now Sports Premier League 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=594611
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",ช่อง Optus Sport 1
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63928
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",ช่อง Optus Sport 2
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63929
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",ช่อง Optus Sport 7
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/59250
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://tv.assets.pressassociation.io/efd15b54-5dc8-5bd1-b3cb-d120d1bbb7b5.png",ช่อง Premier Sport 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=1071686
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://tv.assets.pressassociation.io/f63b9244-174e-58ac-8f9b-ac2f18ae8e4f.png",ช่อง Premier Sport 2
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=1071687
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png",ช่อง Premier Sports
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/71108
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",ช่อง Premier Sports 1
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53942
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",ช่อง Premier Sports 2
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/53943
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",ช่อง SUPERSPORTS VARIETY 1
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=531510
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",ช่อง SUPERSPORTS VARIETY 2
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=531511
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",ช่อง SUPERSPORTS VARIETY 3
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=531512
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",ช่อง SUPERSPORTS VARIETY 4
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=531513
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://yt3.googleusercontent.com/c4ht1v6TleNsx_3x7FWvClxF24VawKVHkwuLjGG1h7G4gFtqQUktfwMalREwhUsQlNSz8zeAUw=s900-c-k-c0x00ffffff-no-rj",ช่อง Sky Sports Football
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/62555
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",ช่อง Sky Sports Main Event
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/62553
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj",ช่อง Sky Sports Premier League
+http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/62554
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://yt3.googleusercontent.com/u4uCgiRmOXphVRqfsMT22DFbMGm6A8qIM2qO4bJ2x95BN2LG0aT46YFNGqBcbVGRkXWIycHusQ=s900-c-k-c0x00ffffff-no-rj",ช่อง T Sports 7
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
+
+#EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Sports
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
+
+#EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Sports Bureau
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+
+#EXTINF:-1 group-title="TVS NETWORK" tvg-logo="https://www.tvstvnetworks.com/wp-content/uploads/2020/06/cropped-TVSTVLogo2.png",ช่อง TVS Women Sports
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",ช่อง WSport
+http://newlife3.wanicelife.com:8880/6mmk170005/92179118/1713
+
+#EXTINF:-1 group-title="Selection Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymAiK1B1uXt3Vq4FcJxTXAl2QuTyQj8kTig&s",ช่อง beIN Sports 2
+http://wayforward.xyz/uugjnauw/zNtU7zdSk/112416
+
+#EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="CNA-NEWS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="Du lchKhm ph",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="半岛新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="Du lchKhm ph",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="TAIWANPLUS" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TAIWANPLUS-light.png" group-title="Du lchKhm ph",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
