@@ -1,0 +1,61 @@
+name: Check Sport IPTV link
+
+on:
+  watch:
+    types: [started]
+  # schedule:
+  #  - cron:  '0 8 * * *' # every day at 8am
+  workflow_dispatch:
+  push:
+    paths:
+      - 'S_check.m3u'
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+    
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install selenium requests futures eventlet
+             pip install tqdm
+         
+      #- name: Run Check IPTV link
+      #  run: python ${{ github.workspace }}/Sport_check.py
+
+      - name: Run Find Xtream link
+        run: python ${{ github.workspace }}/Xtream.py
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "Love4vn@gmail.com" # Set Git user email
+          git config --local user.name "Love4vn" # Set Git username
+          # git checkout --orphan latest_branch
+          # git add tv/* # Add all files under the tv/ directory
+          # git add .
+          # git commit *.txt -m "Add generated file"
+          # git commit *.m3u -m "Add generated file"
+          # git pull --rebase
+          # git push -f
+          # git add -A
+          
+          #-------***--------
+          #git add S_check.m3u
+          git add Xtream.txt
+          #-------***--------
+          
+          git commit -m "$(TZ=Asia/Ho_Chi_Minh date +'%Y-%m-%d %H:%M:%S') ：Collect"
+          # git pull --rebase
+          # git branch -D main
+          # git branch -m main
+          git push -f
