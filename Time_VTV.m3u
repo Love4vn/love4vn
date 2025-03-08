@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" group-title="Kenh VTV",VTV2
+http://pcriptv.ddns.net:9981/stream/channelid/809295875?ticket=30FEB8DFA095C20F2203CFA02F5F127ED1E1EE6C&profile=pass#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://125hvt.ddns.net:21585/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/fZeRYbp.png" group-title="🇻🇳VTV",VTV1 1080
+https://iptv.gaixixon.workers.dev/?channel=vtv1
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/p2g104x.png" group-title="🇻🇳VTV",VTV3
+https://iptv.gaixixon.workers.dev/?channel=vtv3
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/LxgClF3.png" group-title="🇻🇳VTV",VTV2
+https://iptv.gaixixon.workers.dev/?channel=vtv2
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.postimg.cc/mk3tGrJq/VTV1.png" group-title="Kenh VTV",VTV1
+http://p1.cvtv.xyz/vtv1?token=live
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png" group-title="Kenh VTV",VTV1ᴺᴱᵂˢ ˢᶜᵗᵛ
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1ᴺᴱᵂˢ ᴼᴺᴸᵞ ᶠᴾᵀ
+https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.postimg.cc/8kYyFzFW/VTV2.png" group-title="Kenh VTV",VTV2
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kenh VTV",VTV2ˢᶜᵗᵛ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2 ᴼᴺᴸᵞ ᶠᴾᵀ
+https://live.fptplay53.net/fnxhd1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.postimg.cc/3JDt2Qpq/VTV3.png" group-title="Kenh VTV",VTV3
+http://p1.cvtv.xyz/vtv3?token=live
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kenh VTV",VTV3ˢᶜᵗᵛ
+https://202x.io.vn/tv/vieon?id=vtv3
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3 ᴼᴺᴸᵞ ᶠᴾᵀ
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kenh VTV",VTV4³⁶⁰
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4  ᴼᴺᴸᵞ ᶠᴾᵀ
+http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="Kenh VTV",VTV5 Tây Nam Bộ³⁶⁰
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5tn" group-title="Kenh VTV",VTV5 Tây Nguyên³⁶⁰
+http://118.69.97.51:9981/stream/channelid/847816171?ticket=6E0D4C4FAB8042AA2174F8901F3238D4A4855821&profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png" group-title="Kenh VTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kenh VTV",VTV5 ˢᶜᵗᵛ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5
+http://p1.cvtv.xyz/vtv5?token=live
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kenh VTV",VTVCầnThơˢᶜᵗᵛ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png" group-title="Kenh VTV",VTV_Can_Tho
+https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kenh VTV",VTV7ˢᶜᵗᵛ
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7 ᴼᴺᴸᵞ ᶠᴾᵀ
+https://tv.TruyenHinh.Click/CoBan/vtv7hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kenh VTV",VTV8ˢᶜᵗᵛ
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8 ᴼᴺᴸᵞ ᶠᴾᵀ
+https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kenh VTV",VTV9ˢᶜᵗᵛ
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png" group-title="Kenh VTV",VTV9
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ (HD 8Mbps)
+udp://@225.1.2.236:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên (HD 8Mbps)
+udp://@225.1.1.108:30120
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.imgur.com/ALDt1JX.png" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+udp://@225.1.1.112:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1 (HD 8.5Mbps)
+udp://@225.1.3.1:30120
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2 (HD 8.5Mbps)
+udp://@225.1.3.5:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3 (HD 8.5Mbps)
+udp://@225.1.3.2:30120
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4 (HD 8.5Mbps)
+udp://@225.1.3.6:30120
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5 (HD 8.5Mbps)
+udp://@225.1.3.4:30120
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho (HD 8.5Mbps)
+udp://@225.1.3.3:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7 (HD 8.5Mbps)
+udp://@225.1.3.15:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8 (HD 8.5Mbps)
+udp://@225.1.3.11:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9 (HD 8.5Mbps)
+udp://@225.1.3.9:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ (HD 8.5Mbps)
+udp://@225.1.3.42:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên (HD 8.5Mbps)
+udp://@225.1.3.30:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png" group-title="Quốc Tế (HD)",HBO HD
+udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.postimg.cc/wBTN9Dkp/VTV7.png" group-title="Kenh VTV",VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.postimg.cc/5t7CyjPF/VTV9.png" group-title="Kenh VTV",VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png" group-title="Kenh VTV",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png" group-title="Kenh VTV",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V3.png" group-title="Kenh VTV",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.postimg.cc/y6w00g7m/VTV4.png" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png" group-title="Kenh VTV",VTV5
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_480_270.png" group-title="Kenh VTV",VTV_Can_Tho
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png" group-title="Kenh VTV",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png" group-title="Kenh VTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4
+http://14.166.137.127:9981/stream/channelid/1100489344?ticket=7E59B95FE65DC57AEB3E0C376D9B25674C1F2E02&profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ
+http://14.166.137.127:9981/stream/channelid/1858322002?ticket=7D024138C85AF061FF62266485FE53C73A72B006&profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png" group-title="Kenh VTV",VTV5 Tây Nguyên
+http://14.166.137.127:9981/stream/channelid/1648410580?ticket=43A4494E5BF9CF01B4224647B0648840B84F7306&profile=pass
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png" group-title="Kenh VTV",VTV_Can_Tho
+http://14.166.137.127:9981/stream/channelid/1010518358?ticket=2AF0AD2E9F3AECE37B1A0E002E5F28517E284BE8&profile=pass
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png" group-title="Kenh VTV",VTV7
+http://14.166.137.127:9981/stream/channelid/166848052?ticket=ECEBFE18EF9E75FE624914005F0F8452B34082D4&profile=pass
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png" group-title="Kenh VTV",VTV8
+http://14.166.137.127:9981/stream/channelid/106360627?ticket=654B726011675BA71447DEEBE44AD32CC3DA7DC7&profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.postimg.cc/MKVV56Gh/VTV5.png" group-title="Kenh VTV",VTV5
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" group-title="Kenh VTV",VTV_Can_Tho
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.postimg.cc/6phRsMnc/VTV8.png" group-title="Kenh VTV",VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/fTkch3Q2/vtv5TNB.png" group-title="Kenh VTV",VTV5 TÂY NAM BỘ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png" group-title="Kenh VTV",VTV5 TÂY NGUYÊN
+#EXTVLCOPT:http-user-agent="khichTV"
+
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://i.postimg.cc/9QhP9SmS/vtvcab1.png" group-title="Kenh VTV",VTVcab1 - Vie GIẢI TRÍ
+https://hqth.me/getlinkvieonvtvcab1?viegiaitri/id=392/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://i.postimg.cc/mgSM34SN/vtvcab2.png" group-title="Kenh VTV",VTVcab 2 - ON PHIM VIỆT
+#http://s2live.tv1asia.com:21585/vtvcab2/index.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.postimg.cc/433X3ykX/VTVcab-4.png" group-title="Kenh VTV",VTVcab 4 - ON MOVIE
+https://hqth.me/getlinkmytvtvcab4?onmovies/id=921/v5live.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://i.postimg.cc/0yDRLqZ4/VTVCAB5.png" group-title="Kenh VTV",VTVcab5 - E CHANNEL
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://i.postimg.cc/rskDQHwh/VTVcab7.png" group-title="Kenh VTV",VTVcab7 - SỨC KHỎE
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Info_TV_%25_282015-present%25_29.png" group-title="Kenh VTV",VTVcab 9 - Info TV
+#https://vtsstr7.tv24.vn/live/VTVcab9.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://i.postimg.cc/WzNKcmbs/VTVCAB10.png" group-title="Kenh VTV",VTVcab10 - ON CINE
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://i.postimg.cc/HkGF0hH9/VVCAB12.png" group-title="Kenh VTV",VTVcab12 - STYLE TV
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://i.postimg.cc/W1MC5w1L/VTVCAV17.png" group-title="Kenh VTV",VTVcab17 - Yeah1!TV
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://i.postimg.cc/mgyYywhr/vtvcab10.png" group-title="Kenh VTV",VTVcab19 - Vie Dramas
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://i.postimg.cc/CKsDR9VH/VFamily.png" group-title="Kenh VTV",VTVcab20 - V Family
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="🌏| Quốc tế",HBO
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/te4Rb7f.png" group-title="Kenh VTV",VTV1 HD
+udp://@225.1.2.249:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmngEnt.png" group-title="Kenh VTV",VTV2 HD
+udp://@225.1.2.13:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNiXZri.png" group-title="Kenh VTV",VTV3 HD
+udp://@225.1.2.247:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WG3Wi0q.png" group-title="Kenh VTV",VTV4 HD
+udp://@225.1.2.20:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOvwbNQ.png" group-title="Kenh VTV",VTV5 HD
+udp://@225.1.1.131:30120
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png/150px-Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="Kenh VTV",VTV_Can_Tho HD
+udp://@225.1.2.245:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8m5lWk.png" group-title="Kenh VTV",VTV7 HD
+udp://@225.1.2.96:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIjvO6X.png" group-title="Kenh VTV",VTV8 HD
+udp://@225.1.2.166:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GDP5zVb.png" group-title="Kenh VTV",VTV9 HD
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Gtp7WP.png" group-title="Quốc Tế (HD)",AXN HD
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Quốc Tế (HD)",Cinemax (HD 8Mbps)
+udp://@225.1.2.86:30120
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/586908601471541249/YNyI8_YG.jpg" group-title="Quốc Tế (HD)",Dreamworks
+udp://@225.1.1.136:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="FPT Play",AXN (HD 4Mbps)
+udp://@225.1.4.9:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="FPT Play",Dreamworks (HD 4Mbps)
+udp://@225.1.4.39:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="FPT Play",HBO (HD 4Mbps)
+udp://@225.1.4.183:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" group-title="Kenh VTV",VTV2 S1
+http://p1.cvtv.xyz/vtv2?token=live
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs33Ph4c/VTVCAB15.png" group-title="Kenh VTV",VTVcab15
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="🌏| Quốc tế",WBTV
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
+
