@@ -1,0 +1,82 @@
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png", Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎎|Selection Sport|🎎" tvg-id="match-tv", Матч! (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Матч! Боец 
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Матч! Планета
+http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Мир баскетбола 
+http://130.193.73.10:8937/play/a04m
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Eurosport 1
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Extreme Sports
+http://109.200.130.123:7537/play/a02p
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="kxl", KHL 
+http://stream01.vnet.am/Channel_113/mono.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="kxl-hd", KHL Prime
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-id="kxl-hd", KHL Prime HD 
+http://radio.tvs.by:8088/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Okko Спорт
+http://89.23.113.132/oksphd/video.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Golf Channel English
+http://78.130.250.2:8023/play/a02q/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎎|Selection Sport|🎎" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Russian Extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport 1 HD 
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport 1
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport 2
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport 3
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport 3 HD 
+http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport Premium 1 Super HD
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport Premium 2 Super HD
+https://cdn-nvm-chicago3.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎", Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Cricket HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/310
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Cricket HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/310
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Golf HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/306
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Golf HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/306
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports GrandStand HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/305
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Maximo HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/303
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports PSL HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports PSL HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/317
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Tennis HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/313
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 1 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 1 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/314
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 2 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 2 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/315
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 3 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
+#EXTINF:-1 group-title="🎎|Selection Sport|🎎" tvg-logo="https://i.postimg.cc/yNCTVtBG/SUPERSPORT.png" ,SuperSports Variety 3 HD 1080p
+http://185.180.223.89:25461/sfojuve@gmail.com/Qcm5Rje9/316
