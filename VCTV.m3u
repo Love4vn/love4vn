@@ -1,0 +1,47 @@
+#EXTM3U
+#=============SCTV================
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/KqXMPzc/ccsctv1.webp",SCTV1
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/92YZY2r/ccsctv2.webp",SCTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv3hd" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp",SCTV3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv4hd" tvg-logo="https://i.ibb.co/j4VVdqw/ccsctv4.webp",SCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv5hd" tvg-logo="https://i.ibb.co/gWFjqpV/ccsctv5.webp",SCTV5
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/3NRzyxG/ccsctv6.webp",SCTV6
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv7hd" tvg-logo="https://i.ibb.co/k9Jzkbw/ccsctv7.webp",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv8hd" tvg-logo="https://i.ibb.co/r7dgp4P/ccsctv8.webp",SCTV8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/Vt8Kwdr/ccsctv9.webp",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv10hd" tvg-logo="https://i.ibb.co/4sN9Rnm/ccsctv10.webp",SCTV10
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/Y34fcYr/ccsctv11.webp",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/R7pf1yP/ccsctv12.webp",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/cY8cvmn/ccsctv13.webp",SCTV13
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv14hd" tvg-logo="https://i.ibb.co/SBh0RGm/ccsctv14.webp",SCTV14
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv15hd" tvg-logo="https://i.ibb.co/VjJLPd9/ccsctv15.webp",SCTV15
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv16hd" tvg-logo="https://i.ibb.co/PDhcf74/ccsctv16.webp",SCTV16
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/bv5J3hr/ccsctv17.webp",SCTV17
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/3Ss3ng4/ccsctv18.webp",SCTV18
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/JKLDCDd/ccsctv19.webp",SCTV19
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/ZGjbN3r/ccsctv20.webp",SCTV20
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/k1gY4R8/ccsctv21.webp",SCTV21
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/HtK3MyT/ccsctv22.webp",SCTV22
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTINF:0 type="stream" group-title="🔵 SCTV" tvg-id="sctv1hd" tvg-logo="https://i.ibb.co/wQdDQXn/ccsctvpth.webp",SCTV •PTH
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
