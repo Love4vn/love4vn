@@ -1,0 +1,679 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="📦| Phim",Warner TV Asia (3.7s)
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9 (3.8s)
+http://125hvt.ddns.net:21585/vtv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4 (4.1s)
+http://125hvt.ddns.net:21585/vtv4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K+ Sport 2" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Pro main (4.4s)
+http://vuikhoetv.online:80/live/beo123/tr1234/4962.ts
+
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ (4.9s)
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰ (5.4s)
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K+ Sport 2 | LINKPRO" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Faster T7 CN (5.6s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7148.ts
+
+#EXTINF:-1 tvg-name="K+ Sport 1 Link Phụ" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="K+ Channels",K+ Sport 1 | Bigboss (5.7s)
+http://vuikhoetv.online:80/live/beo123/tr1234/5409.ts
+
+#EXTINF:-1 tvg-name="K+ Sport 1 Link Phụ" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="K+ Channels",K+ Sport 1 | Bigboss (5.9s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7139.ts
+
+#EXTINF:-1 tvg-name="K+ Cine (6.0s)" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042536&path-prefix=vi" group-title="K+ Channels",K+ Cine (6.0s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7136.ts
+
+#EXTINF:-1 tvg-name="K+ Sport 1 | LINKPRO" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="K+ Channels",K+ Sport 1 | Faster T7 CN (6.2s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7147.ts
+
+#EXTINF:-1 tvg-name="K+ Sport 1 | MAIN" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="K+ Channels",K+ Sport 1 | Pro one (6.3s)
+http://vuikhoetv.online:80/live/beo123/tr1234/5247.ts
+
+#EXTINF:-1 tvg-name="K+ Action (6.4s)" tvg-id="kaction" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042537&path-prefix=vi" group-title="K+ Channels",K+ Action (6.4s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7137.ts
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion Show ¹⁰⁸⁰ (6.5s)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K+ Kids (6.9s)" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Kplus_Kids_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042543&path-prefix=vi" group-title="K+ Channels",K+ Kids (6.9s)
+http://vuikhoetv.online:80/live/beo123/tr1234/7143.ts
+
+#EXTINF:-1 tvg-id="hits" tvg-logo="https://i.ibb.co/M9LfBRM/Gottalent.png" group-title="📽️| Minh Đức Giải Trí",America's Got Talent¹⁰⁸⁰ (7.1s)
+https://jmp2.uk/sam-GBBC2300002GG.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="📦| Phim",AXN (20.8s)
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="📦| Phim",Cinemax (21.8s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="📦| Phim",HBO (22.4s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertv" tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="📦| Phim",Warner TV (23.4s)
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="📦| Phim",CinemaWorld (27.6s)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Quốc tế",Dreamworks (28.0s)
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV 1
+#/storage/emulated/0/bacninh.mp4
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV2
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3 HD
+http://p1.cvtv.xyz/vtv3?token=live
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV5
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" group-title="Kenh VTV",VTV_Can_Tho
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.postimg.cc/fTkch3Q2/vtv5TNB.png" group-title="Kenh VTV",VTV5 TÂY NAM BỘ
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png" group-title="Kenh VTV",VTV5 TÂY NGUYÊN
+https://tbientv.xyz/channel/vtvgo/?id=163
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",VTV2
+http://pcriptv.ddns.net:9981/stream/channelid/809295875?ticket=30FEB8DFA095C20F2203CFA02F5F127ED1E1EE6C&profile=pass#EXTINF:-1 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png", VTV1 HD
+http://p1.cvtv.xyz/vtv1?token=live
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2 HD
+http://p1.cvtv.xyz/vtv2?token=live
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5 HD
+http://p1.cvtv.xyz/vtv5?token=live
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1
+http://125hvt.ddns.net:21585/vtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3
+http://125hvt.ddns.net:21585/vtv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5
+http://125hvt.ddns.net:21585/vtv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho
+http://125hvt.ddns.net:21585/vtv6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Quốc tế",History
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg" group-title="📦| Phim",Box Movie 1
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/boxmovie/01.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg" group-title="📦| Phim",Hollywood Classics
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/hollywood/01.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg" group-title="📦| Phim",In The Box
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg" group-title="📦| Phim",Box Hits
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="THỬ NGHIỆM",Cinemax HD
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/cinemax/01.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1 HD
+udp://@225.1.2.249:30120
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2 HD
+udp://@225.1.2.13:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3 HD
+udp://@225.1.2.247:30120
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4 HD
+udp://@225.1.2.20:30120
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5 HD
+udp://@225.1.1.131:30120
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho HD
+udp://@225.1.2.245:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7 HD
+udp://@225.1.2.96:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8 HD
+udp://@225.1.2.166:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9 HD
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ HD
+udp://@225.1.2.236:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên HD
+udp://@225.1.1.108:30120
+
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp" group-title="📽️| Minh Đức Giải Trí",▶️| AXN ¹⁰⁸⁰
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="Quốc Tế (HD)",Dreamworks
+udp://@225.1.1.136:30120
+
+#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV ¹⁰⁸⁰
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO
+udp://@225.1.1.112:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV1 ¹⁰⁸⁰
+udp://@225.1.3.1:30120
+
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV2 ¹⁰⁸⁰
+udp://@225.1.3.5:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV3 ¹⁰⁸⁰
+udp://@225.1.3.2:30120
+
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV4 ¹⁰⁸⁰
+udp://@225.1.3.6:30120
+
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV5 ¹⁰⁸⁰
+udp://@225.1.3.4:30120
+
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp" group-title="Kenh VTV",❤️| VTV6 ¹⁰⁸⁰
+udp://@225.1.3.3:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV7 ¹⁰⁸⁰
+udp://@225.1.3.15:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="Kenh VTV" group-title="Kenh VTV",❤️| VTV8 ¹⁰⁸⁰
+udp://@225.1.3.11:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" group-title="Kenh VTV",❤️| VTV9 ¹⁰⁸⁰
+udp://@225.1.3.9:30120
+
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="📽️| Minh Đức Giải Trí",▶️| HBO ¹⁰⁸⁰
+udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Quốc Tế (HD)",Cinemax
+udp://@225.1.3.14:30120
+
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Quốc Tế (HD)",Cinema World
+udp://@225.1.3.81:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtnb",VTV5 Tây Nam Bộ
+udp://@225.1.4.184:30120
+
+#EXTINF:-1 tvg-id="vtv5hdtn",VTV5 Tây Nguyên
+udp://@225.1.4.179:30120
+
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png" group-title="📦| In The Box",Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg" group-title="📦| In The Box",Box Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg" group-title="📦| In The Box",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="happykids" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" group-title="📦| In The Box",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://i.ibb.co/hJbxfGBn/kix.webp" group-title="📽️| Minh Đức Giải Trí",▶️| KIX ¹⁰⁸⁰
+udp://@225.1.3.78:30120
+
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png" group-title="📽️| Minh Đức Giải Trí",▶️| WBTV ¹⁰⁸⁰
+udp://@225.1.1.139:30120
+
+#EXTINF:-1 tvg-id="kbsworld" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png" group-title="📽️| Minh Đức Giải Trí",▶️| KBS WORLD ¹⁰⁸⁰
+udp://@225.1.1.196:30120
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="📽️| Minh Đức Giải Trí",Action Hollywood Movies
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66be944f8711311880995280.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp" group-title="📽️| Minh Đức Giải Trí",▶️| Hollywood Classics
+https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" group-title="📽️| Minh Đức Giải Trí",▶️| In The Box
+https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp" group-title="📽️| Minh Đức Giải Trí",▶️| BOX Movie¹
+https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp" group-title="📽️| Minh Đức Giải Trí",▶️| Box Hits
+https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="man" tvg-logo="https://i.ibb.co/0CPzK4F/Man-150x901j3.png" group-title="📽️| Minh Đức Giải Trí",▶️| Man
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="woman" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png" group-title="📽️| Minh Đức Giải Trí",▶️| Woman
+https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/0K7HcKn/static-assets-upload13174741322686086309.png" group-title="📽️| Minh Đức Giải Trí",▶️| Dr.Fit
+https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7429/1gq1cqgyy91h.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (LS) BLV MÃ SIÊU m3u (2.1s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/MASIEU/index.m3u8?expire=1873178820&sign=240918b2de9a58552df97efe05b2f16e
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165819298639.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (W) vs Bolivia (W) (LS) BLV THẠCH TÚ m3u (2.2s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/THACHTU/index.m3u8?expire=1872315180&sign=18ecac18499a7e056b3424339a7e819f
+
+#EXTINF:-1 tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg" group-title="📽️| Minh Đức Giải Trí",TVB VIỆT NAM (2.7s)
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f01ecc34c5814c9b486657bc3143b3b0.png" group-title="[⚽🥎Livestream🏆🏅]",05h20 Carabobo vs Academia Puerto Cabello 1 (Bc) (3.4s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/2e89d0f4e39a25e3e7e01b2b7bb6eb3a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield 1 (Bc) (3.5s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/0fe31b0a6d2f63b291cb6b745f788181/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9AVT2i.png" group-title="🌏| Quốc tế",WBTV (3.6s)
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4f7a0095b9a3a4756318efd55451badb.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Coritiba PR vs SC Paysandu Para 1 (Bc) (3.6s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/98ac52f0333104caf74e39ddb49c235b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/242d6977e9b86cba5cea704d996edbf8.png" group-title="[⚽🥎Livestream🏆🏅]",04h10 Alianza Fútbol Club vs Deportivo Pereira 1 (Bc) (3.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d7f293740753e05c3f0f001b89ae5da3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9d3195be22d95cf5d35790272afc724a.png" group-title="[⚽🥎Livestream🏆🏅]",05h30 Londrina PR vs Itabaiana(SE) 1 (Bc) (3.7s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/e01fe14b6e5cca4a57cf59866458dc3e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="🌏| Quốc tế",HBO (3.8s)
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3656d046d7ca027ff1aa38d4b5e4b6bb.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Universidad Central de Venezuela vs Deportivo Tachira 1 (Bc) (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/0e87a83aea1cce03e31223d543b0576a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Orense SC vs CD El Nacional 1 (Bc) (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/9df17c05e001ba6e0e3b26b1dfa98def/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e62f69a9de87796972eb59d19c27e59c.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Coquimbo Unido vs Municipal Iquique 1 (Bc) (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a1b4958ed091ea8cbc45a38bc474749c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="[⚽🥎Livestream🏆🏅]",05h30 Ponte Preta vs Floresta CE 1 (Bc) (3.8s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/c0e868a44248f2b611f16180377cbeef/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.rapid-api.icu/football/team/49d7d1860f0dc2bfcb95ea0fe787c98b.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Linense(BRA) vs Atletico Aracatuba 1 (Bc) (4.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/f1d51726ba2292c26e1e22a2b9361b86/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940931449.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h45 Godoy Cruz Antonio Tomba vs Sarmiento Junin (LS) BLV TỪ NINH m3u (4.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/TUNINH1/index.m3u8?expire=1891146780&sign=21db2bd274e66eaaae0e233d68ac0778
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="🌏| Quốc tế",AXN (4.1s)
+http://125hvt.ddns.net:21585/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e5dc58845ec4d74525de5bf71bd21e61.png" group-title="[⚽🥎Livestream🏆🏅]",05h00 Leones vs Orsomarso 1 (Bc) (4.1s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/fb83ee7f8285778dcdad44f94e30c090/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2a03043e8cdc7dc57bfafe720b41ee7d.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (w) vs Bolivia (w) 1 (Bc) (4.2s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/9324376b3f47c37a8cffafd6f7a8fcce/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940937293.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield (LS) BLV BRUNO m3u (6.0s)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lpcltL9.png" group-title="Kenh VTV",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFVxJx4.png" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NzROY7r.png" group-title="Quốc Tế (HD)",Cinemax (HD 8Mbps)
+udp://@225.1.2.86:30120
+
+#EXTINF:-1 group-title="Kenh VTV",VTV5 HD - Tây Nam Bộ
+udp://@225.1.3.42:30120
+
+#EXTINF:-1 group-title="Kenh VTV",VTV5 HD - Tây Nguyên
+udp://@225.1.3.30:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rwm7Lod.png" group-title="FPT Play",AXN (HD 4Mbps)
+udp://@225.1.4.9:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N69Cori.png" group-title="FPT Play",Dreamworks (HD 4Mbps)
+udp://@225.1.4.39:30120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7nIUtCU.png" group-title="FPT Play",HBO (HD 4Mbps)
+udp://@225.1.4.183:30120
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="Kenh VTV",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="Kenh VTV",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rLCvgS.png" group-title="Kenh VTV",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zVTtsA.png" group-title="Kenh VTV",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qPKNFU.png" group-title="Kenh VTV",VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCpqatZ.png" group-title="Kenh VTV",VTV_Can_Tho
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIUWkDx.png" group-title="Kenh VTV",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8c2swd.png" group-title="Kenh VTV",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AgamSNe.png" group-title="Kenh VTV",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ex1VkGQ.png" group-title="Kenh VTV",VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2a03043e8cdc7dc57bfafe720b41ee7d.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (w) vs Bolivia (w) [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c119217f02_161/index.m3u8?expire=1753566226&sign=dd842cd5db6745f55e8933352ca4d99d
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2a03043e8cdc7dc57bfafe720b41ee7d.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (w) vs Bolivia (w) [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c119217f02_161.flv?expire=1753566226&sign=dd842cd5db6745f55e8933352ca4d99d
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/242d6977e9b86cba5cea704d996edbf8.png" group-title="[⚽🥎Livestream🏆🏅]",04h10 Alianza Fútbol Club vs Deportivo Pereira [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c089c827af_4579/index.m3u8?expire=1753563932&sign=b18a78f62addc8245000c528cb9c1b0b
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/242d6977e9b86cba5cea704d996edbf8.png" group-title="[⚽🥎Livestream🏆🏅]",04h10 Alianza Fútbol Club vs Deportivo Pereira [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c089c827af_4579.flv?expire=1753563932&sign=b18a78f62addc8245000c528cb9c1b0b
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/17e9ee0a347f67c16baa94333f4bd4e6.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Quilmes vs Arsenal de Sarandi 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/12381a2c4ef664c379aaceed8d5e448f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d790c903117459a4afb308ad63d353f9.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Avaí FC vs Vila Nova 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/1242eb525023efa6a88c19663c4d9ae7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c084817f02_1343/index.m3u8?expire=1753563848&sign=7e5b6af06c0886885fb72bd06718c088
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c084817f02_1343.flv?expire=1753563848&sign=7e5b6af06c0886885fb72bd06718c088
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Bolivar vs Oriente Petrolero 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/a065a1d0ae50e6f2bb4104cc16e10b7f/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d6e78ecc939ce8a547c948fb894d7a32.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Olimpia Asuncion vs Atlético Tembetary 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/e4e11fe1b93e5fee8de059173841f1b0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Minnesota Timberwolves vs Houston Rockets [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c0a8d827af_4439/index.m3u8?expire=1753564429&sign=42c2dda77c2ed5d60f3eb45e69c03045
+
+#EXTINF:-1 tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Minnesota Timberwolves vs Houston Rockets [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c0a8d827af_4439.flv?expire=1753564429&sign=42c2dda77c2ed5d60f3eb45e69c03045
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a5f4e3112868e5c8a21b1cd87e9393f0.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 Los Andes vs Atletico Atlanta 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/d26009c9a65c2424e4ae07ab5cb06551/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c005d827af_4915/index.m3u8?expire=1753561821&sign=d6e70bdb6a05ab96813e62f6f7d5baf9
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c005d827af_4915.flv?expire=1753561821&sign=d6e70bdb6a05ab96813e62f6f7d5baf9
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/37869351904578ff964a25ce93b800fd.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 Godoy Cruz Antonio Tomba vs Sarmiento Junin 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/26da1af5964714bd4d8d79c93bb771c0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png" group-title="[⚽🥎Livestream🏆🏅]",05h00 Oklahoma City Thunder vs Charlotte Hornets [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/687c179317f02_3207/index.m3u8?expire=1753567763&sign=1192a6c4da4bae7e92b4cdb6ec975ec8
+
+#EXTINF:-1 tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/4fe44502af5fe078532e6d7f968ef76e.png" group-title="[⚽🥎Livestream🏆🏅]",05h00 Oklahoma City Thunder vs Charlotte Hornets [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/687c179317f02_3207.flv?expire=1753567763&sign=1192a6c4da4bae7e92b4cdb6ec975ec8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (w) vs Bolivia (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m304qt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5aacd2f1c2440fc050e5fef23efa1d91.png" group-title="[⚽🥎Livestream🏆🏅]",04h10 Alianza Petrolera vs Deportivo Pereira (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m305qt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e62f69a9de87796972eb59d19c27e59c.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Coquimbo Unido vs Municipal Iquique (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m306qt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/37869351904578ff964a25ce93b800fd.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 Godoy Cruz Antonio Tomba vs Sarmiento Junin (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m308qt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/m307qt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoisd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179245845.cdnfree.pro/live/chuoihd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/chuoisd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://chcdn.livestreameuro.live/live/chuoihd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/efb322615dcf7cb51dc6c75a79d38d32.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Loudoun United vs Oakland Roots (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/bc9a9643f03c6f876f1ca9a48bdb2687.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 CD Universitario vs CA Independente (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/709fd97eaf9a55aa43638746010d287a.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Cusco FC vs Alianza Lima (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d91b2d80126742d8195a693ac4d7d6e0.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Crown Legacy FC vs Philadelphia Union II (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Toluca (w) vs Santos Laguna (w) (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/8afa9625ba59bd9bd11a87b403861293.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Monagas SC vs Estudiantes Merida FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m403nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/58acfb611aacd5c14358ff8f94004f70.png" group-title="[⚽🥎Livestream🏆🏅]",06h00 Chattanooga vs International Miami B (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoi8.link
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b20645448c644b701286477f55b11e24.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165819298639.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h00 Venezuela (W) vs Bolivia (W) (LS) BLV THẠCH TÚ flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165819298639.png?win007=sell",04h00 Venezuela (W) vs Bolivia (W) (LS) BLV THẠCH TÚ flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7429/1gq1cqgyy91h.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (LS) BLV MÃ SIÊU flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/7429/1gq1cqgyy91h.png?win007=sell",04h30 Mirassol vs Santos (LS) BLV MÃ SIÊU flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940937293.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h45 CA Platense vs Velez Sarsfield (LS) BLV BRUNO flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940937293.png?win007=sell",04h45 CA Platense vs Velez Sarsfield (LS) BLV BRUNO flv
+
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940931449.png?win007=sell" group-title="[⚽🥎Livestream🏆🏅]",04h45 Godoy Cruz Antonio Tomba vs Sarmiento Junin (LS) BLV TỪ NINH flv
+#EXTINF:0 group-title="[⚽🥎Livestream🏆🏅]" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940931449.png?win007=sell",04h45 Godoy Cruz Antonio Tomba vs Sarmiento Junin (LS) BLV TỪ NINH flv
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SUmYTyAr-xxPxlUp4.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cuonHD.flv?expire=1752981784&sign=8a6caa265b54689a4caee064dfa73a30
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SUmYTyAr-xxPxlUp4.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/1id724ncfWsaTKwS2aGZfg/295c8ca83541966399d34da8d431f57c/1752981784/live/_definst_/stream_1_1bda7@cuonHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SUmYTyAr-xxPxlUp4.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+hotlivezz179602324.akainu.xyz/uKkVXHJlBCz6ijCiVdi9Tw/E2r2To2TWalGKV7ZTAFgDw/1752981784/live/cuonSD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/SUmYTyAr-xxPxlUp4.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Mirassol vs Santos (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/v5nanfov9jPqlZ5Tlcv50Q/ecdd2fe3d570b8f38d7664bb44af6d73/1752981784/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9a0ee0a9e7a42d2d69b8f86b3a0756b1.jpg" group-title="[⚽🥎Livestream🏆🏅]",05h00 Ferrol Carril Oeste vs Deportivo Madryn (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+apisportzz179528093.nsnd.live/jkkxgfIMY703EsDUCk7kww/9sF_tJhqylw_MbMEml2Swg/1752984307/live/sd-6MtN8htUvswUxkSDbq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/49d7d1860f0dc2bfcb95ea0fe787c98b.png" group-title="[⚽🥎Livestream🏆🏅]",04h00 Linense(BRA) vs O Lhasa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+apisportzz179528093.nsnd.live/5g26VPozTQrXVjfwS0dH4Q/KZ8NkkA0sZQLOTL-fKxECQ/1752986404/live/sd-6MuT7UjzwYvYAWQ3HV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/17e9ee0a347f67c16baa94333f4bd4e6.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Quilmes vs Arsenal de Sarandi (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+apisportzz179528093.nsnd.live/DVa9YjB9sNum5kugyd4uKg/KZ8NkkA0sZQLOTL-fKxECQ/1752987008/live/sd-6MtN8htUw78NBdPiXD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d790c903117459a4afb308ad63d353f9.png" group-title="[⚽🥎Livestream🏆🏅]",04h30 Avai FC SC vs Vila Nova (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+apisportzz179528093.nsnd.live/KvrLTerVrnhewlRX6LSDBQ/NCsvV-7Z-ELdbyv5g7Vgfg/1752986778/live/sd-6MuS7qWh3o4iqzXQEX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="[⚽🥎Livestream🏆🏅]",05h30 Ponte Preta vs Floresta CE (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+apisportzz179528093.nsnd.live/n8Aw84SSC8qEP4LB6anIAw/KZ8NkkA0sZQLOTL-fKxECQ/1752987010/live/sd-6MtJR2PCwgXoBwr87m/playlist.m3u8
+
