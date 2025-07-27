@@ -1,0 +1,51 @@
+name: 🔁 Xtream to M3U Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # ⏰ Hourly refresh
+  push:
+    paths:
+      - 'Xtream2M3u.py'
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: 📦 Install Dependencies
+        run: |
+          #pip install --upgrade pip
+          #pip install beautifulsoup4 playwright
+          #python -m playwright install --with-deps
+          pip install requests
+          pip install tqdm
+          pip install aiohttp async-timeout pytz
+          #pip install aiohttp
+
+      - name: ⚙️ Run Xtream to M3U Playlist
+        run: python Xtream2M3u.py
+       
+      #- name: ⚙️ Run Mac to M3U Playlist
+      #  run: python Mac2M3u.py
+
+      - name: ⚙️ Run Xtreamlist to M3U Playlist
+        run: python Xtreamlist2M3u.py
+
+      - name: 💾 Commit & Push Playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🔁 Auto-refresh Xtream 2 M3U playlist" || echo "🟡 No changes to commit"
+          git push origin main --force
