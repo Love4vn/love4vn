@@ -1,0 +1,429 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="antvhd" tvg-link="https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8 và http://4.3.2.1:0000/udp/225.1.2.169:30120 và https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8" group-title="KNH C SC" group-title="Kenh VTV" group-title="KÊNH THIẾT YẾU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png",ANTV  TH AN NINH HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ANTV-Truyen_hinh_An_Ninh_HD
+
+#EXTINF:-1 group-title="Truyn Hnh"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://125hvt.ddns.net:21585/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="axn" group-title="Phim" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD 4Mbps
+udp://@225.1.4.9:30120
+
+#EXTINF:0 tvg-id="axnhd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN HD 8Mbps
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="Minh c Gii Tr",Action Hollywood Movies
+
+#EXTINF:-1 tvg-id="hits" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/M9LfBRM/Gottalent.png",Americas Got Talent
+https://jmp2.uk/sam-GBBC2300002GG.m3u8
+
+#EXTINF:-1  tvg-id="boxhits" group-title="KNH C SC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD
+
+#EXTINF:-1  tvg-id="boxmovie1" group-title="KNH C NHIU LT XEM CAO NHT" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20BOX.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",BOX MOVIE 1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Box_Movie_1_HD
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",BOX Movie
+https://xem.TruyenHinh.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",Box Hits
+
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",Box Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://sgchill.io.vn/v1/b521/239/index.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",Box Hits
+https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",Box Movie 1
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/boxmovie/01.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/159/index.m3u8
+
+#EXTINF:-1 group-title="Truyn Hnh"tvg-logo="https://hls.mskycdn.online/logo/cinemaworldhd.png",Cinema World
+https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
+
+#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
+udp://@225.1.3.81:30120
+
+#EXTINF:-1 group-title="Quc T HD" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World HD 8Mbps
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 tvg-id="cinemaworld" group-title="Phim" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Truyn Hnh"tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png",Cinemax
+https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" group-title="Phim" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:0 tvg-id="cinemaxhd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+udp://@225.1.3.14:30120
+
+#EXTINF:-1 group-title="Quc T HD" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax HD 8Mbps
+udp://@225.1.2.86:30120
+
+#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=https://sctvonline.vn/" group-title="KNH GII TR" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",DR FIT HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Dr_Fit_HD
+
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png",DrFit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/162/index.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/0K7HcKn/static-assets-upload13174741322686086309.png",DrFit
+https://xem.TruyenHinh.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quc t" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks HD 4Mbps
+udp://@225.1.4.39:30120
+
+#EXTINF:0 tvg-id="dreamworks" group-title="Quc T HD" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks HD 8Mbps
+udp://@225.1.1.136:30120
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Minh c Gii Tr",Fashion Show
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png",Fashion TV
+
+#EXTINF:0 tvg-id="fashionhd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV HD 8Mbps
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="Minh c Gii Tr",Fashion TV Midnight Secrets
+
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="Minh c Gii Tr",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=https://sctvonline.vn/" group-title="KNH C SC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Happy%20Kids%20HD.png",HAPPY KIDS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Happy_Kids_HD
+
+#EXTINF:-1 tvg-id="hbohd" group-title="Minh c Gii Tr" tvg-logo="https://i.imgur.com/w5u4IrO.png",HBO
+
+#EXTINF:-1 tvg-id="hbohd"  group-title="Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png",HBO
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" group-title="Phim" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD 4Mbps
+udp://@225.1.4.183:30120
+
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD 4Mbps
+udp://@225.1.4.90:30120
+
+#EXTINF:0 tvg-id="hbohd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD 8Mbps
+udp://@225.1.1.112:30120
+
+#EXTINF:0 tvg-id="hbohd" group-title="Quc T HD" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO HD 8Mbps
+udp://@225.1.2.233:30120
+
+#EXTINF:-1  tvg-id="hollywoodclassics" group-title="KNH C NHIU LT XEM CAO NHT" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",HOLLYWOOD CLASSICS HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD
+
+#EXTINF:-1  tvg-id="hungyen" tvg-link="https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",HYTV HD  TH HNG YN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
+
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png",Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://sgchill.io.vn/v1/b521/212/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",Hollywood Classics
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/hollywood/01.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",Hollywood Classics
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
+https://sgchill.io.vn/v1/b521/160/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",Hollywood Classics
+https://xem.TruyenHinh.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1  tvg-id="hue" tvg-link="https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh và https://abcd.site/360/63/index.m3u8 và https://live.trt.com.vn/TRT-Online/chunklist.m3u8" group-title="KNH C SC" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png",HueTV HD  TH TP HU
+https://HaNoiIPTV.short.gy/HaNoiIPTV-HueTV-Truyen_hinh_Thanh_pho_Hue_HD
+
+#EXTINF:-1  tvg-id="inthebox" group-title="KNH C NHIU LT XEM CAO NHT" group-title="KÊNH PHIM TRUYỆN" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",IN THE BOX CHANNEL
+https://HaNoiIPTV.short.gy/HaNoiIPTV-In_The_Box_Channel
+
+#EXTINF:-1 tvg-id="inthebox" group-title="Minh c Gii Tr" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The Box
+
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgchill.io.vn/v1/b521/235/index.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="Phim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",In The Box
+https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="kbsworld" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",KBS WORLD
+
+#EXTINF:-1 tvg-id="quochoi" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/hJbxfGBn/kix.webp",KIX
+
+#EXTINF:-1  group-title="KNH GII TR" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png",MAN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-MAN
+
+#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=https://sctvonline.vn/" group-title="KNH GII TR" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",MUSIC BOX HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Music_BOX_HD
+
+#EXTINF:-1 tvg-id="manhd" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/237/index.m3u8
+
+#EXTINF:-1 tvg-id="man" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/0CPzK4F/Man-150x901j3.png",Man
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png",Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/289/index.m3u8
+
+#EXTINF:-1  tvg-id="vtvcab21hd" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" group-title="KÊNH BOX" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD_catchup",ON Kids HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD
+
+#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=https://sctvonline.vn/" group-title="KNH C SC" group-title="KÊNH GIẢI TRÍ" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",PLANET EARTH HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Planet_Earth_HD
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png",Planet Earth
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/135/index.m3u8
+
+#EXTINF:-1  tvg-id="hanoi1" tvg-link="https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w1699606010_b3128000_slen.m3u8 và http://4.3.2.1:0000/rtp/232.84.3.143:10738 và http://4.3.2.1:0000/udp/225.1.2.186:30120" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20s%C3%A1u%20-%20B%E1%BA%A3n%202.png" catchup-days="4" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD_catchup",TH H NI 1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
+
+#EXTINF:-1  tvg-name="KÊNH 13 - TH H NI 2 4K 50fps" tvg-id="hanoi2" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%204K%20%E2%80%A2%20B%E1%BA%A3n%202.png",TH H NI 2 4K
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_4K
+
+#EXTINF:-1 group-title="Minh c Gii Tr" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="Kenh VTV"  ,VTV 1
+#/storage/emulated/0/bacninh.mp4
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="vtv1hd" tvg-link="https://tthd.site/360/2/index.m3u8 và http://4.3.2.1:0000/rtp/232.84.1.117:10254 và http://4.3.2.1:0000/udp/225.1.2.249:30120 và https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w2127434941_b2289152.m3u8 và https://vuathongtin.com/tivi/vtv1.m3u8" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" group-title="KÊNH THIẾT YẾU" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20t%E1%BB%95ng%20h%E1%BB%A3p.png" tvg-logo="Kenh VTV" catchup="default" catchup-days="3" catchup-source="Kenh VTV",VTV1 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.1.117:10254
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD 85Mbps
+udp://@225.1.3.1:30120
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD 8Mbps
+udp://@225.1.2.249:30120
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="Kenh VTV"  ,VTV2
+http://pcriptv.ddns.net:9981/stream/channelid/809295875?ticket=30FEB8DFA095C20F2203CFA02F5F127ED1E1EE6C&profile=pass#EXTINF:-1 tvg-id="History" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",History
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="Kenh VTV"  ,VTV2
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1  tvg-id="vtv2hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.31:10594 và http://4.3.2.1:0000/udp/225.1.3.5:30120" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" group-logo="Kenh VTV" tvg-logo="Kenh VTV" catchup="default" catchup-days="3" catchup-source="Kenh VTV",VTV2 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.2.31:10594
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD 85Mbps
+udp://@225.1.3.5:30120
+
+#EXTINF:0 tvg-id="vtv2hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 HD 8Mbps
+udp://@225.1.2.13:30120
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kenh VTV" tvg-logo="Kenh VTV" ,VTV3
+http://p1.cvtv.xyz/vtv3?token=live
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="vtv3hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.1.118:10260 và http://4.3.2.1:0000/udp/225.1.3.2:30120" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup="default" catchup-days="3" catchup-source="Kenh VTV",VTV3 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD
+
+#EXTINF:0 tvg-id="vtv3hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.1.118:10260
+
+#EXTINF:0 tvg-id="vtv3hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD 85Mbps
+udp://@225.1.3.2:30120
+
+#EXTINF:0 tvg-id="vtv3hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 HD 8Mbps
+udp://@225.1.2.247:30120
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="Kenh VTV" tvg-logo="Kenh VTV" ,VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1  tvg-id="vtv4hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.32:10600 và http://4.3.2.1:0000/udp/225.1.2.20:30120" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV4 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
+
+#EXTINF:0 tvg-id="vtv4hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD 85Mbps
+udp://@225.1.3.6:30120
+
+#EXTINF:0 tvg-id="vtv4hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD 8Mbps
+udp://@225.1.2.20:30120
+
+#EXTINF:0 tvg-id="vtv4hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD 9Mbps
+http://192.168.11.1:61292/udp/232.84.3.106:10600
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="Kenh VTV" ,VTV5
+https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1  tvg-id="vtv5hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.33:10606 và http://4.3.2.1:0000/udp/225.1.3.4:30120" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV5 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD 85Mbps
+udp://@225.1.3.4:30120
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD 8Mbps
+udp://@225.1.1.131:30120
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD 9Mbps
+http://192.168.11.1:61292/udp/232.84.2.33:10606
+
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Kenh VTV" tvg-logo="https://i.postimg.cc/fTkch3Q2/vtv5TNB.png",VTV5 TY NAM B
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
+
+#EXTINF:-1  tvg-id="vtv5hdtnb" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.86:11542 và http://iptvquan.duckdns.org:9876/udp/225.1.2.236:30120" group-title="KNH C SC" group-title="Kenh VTV" tvg-logo="Kenh VTV",VTV5 TY NAM B HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
+
+#EXTINF:-1  tvg-id="vtv5hdtn" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.66:11656 và http://iptvquan.duckdns.org:9876/udp/225.1.3.30:30120" group-title="Kenh VTV" tvg-logo="Kenh VTV",VTV5 TY NGUYN
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_Tay_Nguyen
+
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Taynguyen-small.png",VTV5 TY NGUYN
+https://tbientv.xyz/channel/vtvgo/?id=163
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Ty Nam B
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="vtv5hdtnb",VTV5 Ty Nam B
+udp://@225.1.4.184:30120
+
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Ty Nam B HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.3.86:11542
+
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Ty Nam B HD 85Mbps
+udp://@225.1.3.42:30120
+
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Ty Nam B HD 8Mbps
+udp://@225.1.2.236:30120
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Ty Nguyn
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="vtv5hdtn",VTV5 Ty Nguyn
+udp://@225.1.4.179:30120
+
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Ty Nguyn HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.3.66:11656
+
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Ty Nguyn HD 85Mbps
+udp://@225.1.3.30:30120
+
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Ty Nguyn HD 8Mbps
+udp://@225.1.1.108:30120
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="Kenh VTV" ,VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="vtv7hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.202:10996 và http://4.3.2.1:0000/udp/225.1.2.96:30120" group-title="KNH DY HC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV7 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
+
+#EXTINF:0 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.2.202:10996
+
+#EXTINF:0 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD 85Mbps
+udp://@225.1.3.15:30120
+
+#EXTINF:0 tvg-id="vtv7hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD 8Mbps
+udp://@225.1.2.96:30120
+
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Kenh VTV" tvg-logo="Kenh VTV",VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="vtv8hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.34:10612 và http://4.3.2.1:0000/udp/225.1.2.166:30120" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV8 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
+
+#EXTINF:0 tvg-id="vtv8hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.3.104:10612
+
+#EXTINF:0 tvg-id="vtv8hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD 85Mbps
+udp://@225.1.3.11:30120
+
+#EXTINF:0 tvg-id="vtv8hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD 8Mbps
+udp://@225.1.2.166:30120
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Kenh VTV" tvg-logo="Kenh VTV" ,VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="vtv9hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.35:10618 và http://4.3.2.1:0000/udp/225.1.1d.128:30120" group-title="KNH C SC" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTV9 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
+
+#EXTINF:0 tvg-id="vtv9hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 85Mbps
+http://192.168.11.1:61292/udp/232.84.2.35:10618
+
+#EXTINF:0 tvg-id="vtv9hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 85Mbps
+udp://@225.1.3.9:30120
+
+#EXTINF:0 tvg-id="vtv9hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD 8Mbps
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTVCanTho
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Kenh VTV" tvg-logo="https://i.postimg.cc/vT1r3xnV/vtvct.webp" ,VTVCanTho
+https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+
+#EXTINF:-1  tvg-id="vtv6hd" tvg-link="Kenh VTV" group-title="KNH C SC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="Kenh VTV" tvg-logo="Kenh VTV" catchup-days="3" catchup-source="Kenh VTV",VTVCanTho HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTVCanTho HD 85Mbps
+udp://@225.1.3.3:30120
+
+#EXTINF:0 tvg-id="vtv6hd" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTVCanTho HD 8Mbps
+udp://@225.1.2.245:30120
+
+#EXTINF:0 tvg-id="vtvcantho" group-title="Kenh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTVCanTho HD 9Mbps
+http://192.168.11.1:61292/udp/232.84.1.119:10266
+
+#EXTINF:-1 group-title="Quc t"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png",WBTV
+udp://@225.1.1.139:30120
+
+#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=https://sctvonline.vn/" group-title="KNH GII TR" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-WOMAN_HD
+
+#EXTINF:-1 tvg-id="warnertv" group-title="Phim" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Phim" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner TV Asia
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="woman" group-title="Minh c Gii Tr" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",Woman
+
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png",Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://sgchill.io.vn/v1/b521/163/index.m3u8
+
