@@ -1,0 +1,20 @@
+# Đây là dòng chú thích, sẽ được bỏ qua
+# Định dạng URL đầy đủ
+#http://line.4k-soy.cc:80/get.php?username=101558&password=0C447C&type=m3u
+# http://d4k4u.com:80/get.php?username=02092021iptv&password=pwqopprrct&type=m3u_plus&output=ts
+# http://groundhogday.in:80/get.php?username=Jok123&password=Jok123&type=m3u_plus&output=m3u8
+#http://ukmonster2017.org:80/get.php?username=Lee1234&password=Lee1234&type=m3u_plus&output=m3u8
+# http://top102856-4k.org:8080/get.php?username=abderahimkangoo201&password=pk6o5g2s9o&type=m3u_plus
+# http://tv.8dott.xyz:80/get.php?username=samuel&password=samuel123456&type=m3u_plus
+# http://zaintv.xyz:8080/get.php?username=197719771977&password=197719771977&type=m3u_plus&output=m3u8
+http://cuvillier.gentv.to:8080/get.php?username=MdFRHosNUm&password=FD8dfVeIjE&type=m3u&output=ts
+http://proxpanel.pro/get.php?username=112233&password=332211&type=m3u_plus
+# Định dạng CSV (host, port, username, password)
+# cistakosuza.petica.info, 80, MalbasaNenad02, uzVIRqpSopwlljWJ1Z
+# sky-glass.live,80,Amanda123,Amanda321
+
+# Mac List
+# http://mag.ukhd.tv/c/,00:1A:79:5F:CD:59
+# http://egaletv.cc:80/,00:1a:79:74:ca:ec
+# http://4kplay.nl:80/c/,00:1A:79:39:14:69
+# http://ip.king-cobra.eu:8080/c/,00:1a:79:b7:bd:66
