@@ -1,0 +1,72 @@
+name: IPTV Playlist Checker
+on:
+  workflow_dispatch:
+    inputs:
+      PLAYLIST_URL:
+        description: 'URL of the playlist to check'
+        required: true
+        default: 'https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/Grab_VTV.m3u'
+      NUM_THREADS:
+        description: 'Number of threads to use'
+        type: number
+        required: true
+        default: '4'
+      TIMEOUT:
+        description: 'Timeout for FFmpeg'
+        type: number
+        required: true
+        default: '25'  
+# schedule:
+#   - cron: '0 0 * * *'
+
+jobs:
+  build:  
+    name: IPTV Playlist Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout ♻️
+        uses: actions/checkout@v4
+
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13' 
+
+      - name: Install FFMPEG Dependencies 🧑‍🏭
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies 🧑‍🏭    
+        run:
+            pip install -r requirements.txt
+
+      - name: Download playlist to check 📥
+        run: |
+          wget -q $PLAYLIST_URL -O playlist.m3u8
+        env:
+          PLAYLIST_URL: ${{ inputs.PLAYLIST_URL }}    
+
+      - name: Download script and check playlist 📺    
+        run: |
+          python iptv-checker.py -p playlist.m3u8 -s playlistchecked.m3u8 -t $NUM_THREADS -ft $TIMEOUT
+        env:
+          NUM_THREADS: ${{ inputs.NUM_THREADS }}
+          TIMEOUT: ${{ inputs.TIMEOUT }}  
+
+      - name: Check Files and Folders and Subfolders 📂
+        run: |
+          ls -lahR
+  
+#     - name: Compare the results 🧐
+#       run: |
+#         python compareplaylists.py    
+
+      - name: Upload Results to artifacts 📤
+        uses: actions/upload-artifact@v4
+        with:
+           name: playlistchecked
+           path: playlistchecked.m3u8
+           retention-days: 0
+           compression-level: 6

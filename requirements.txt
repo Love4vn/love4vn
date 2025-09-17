@@ -1,0 +1,7 @@
+requests
+argparse
+logging
+tqdm
+colorama
+urllib3
+concurrent.futures; python_version<"3.9"

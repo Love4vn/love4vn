@@ -1,0 +1,7 @@
+# Đây là dòng chú thích, sẽ được bỏ qua
+# Định dạng URL đầy đủ
+http://line.4k-soy.cc:80/get.php?username=101558&password=0C447C&type=m3u
+http://zaintv.xyz:8080/get.php?username=197719771977&password=197719771977&type=m3u_plus&output=m3u8
+
+# Định dạng CSV (host, port, username, password)
+cistakosuza.petica.info, 80, MalbasaNenad02, uzVIRqpSopwlljWJ1Z
