@@ -1,0 +1,392 @@
+name: Check IPTV link
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '*/10 * * * *'
+    #- cron:  '0 8 * * *' # every day at 8am
+    #- cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+   inputs:
+      PLAYLIST_URL:
+        description: 'URL of the playlist to check'
+        required: true
+        default: 'https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/hubsport.m3u'
+      NUM_THREADS:
+        description: 'Number of threads to use'
+        type: number
+        required: true
+        default: '4'
+      TIMEOUT:
+        description: 'Timeout for FFmpeg'
+        type: number
+        required: true
+        default: '25'
+  push:
+    paths:
+      - 'Grab_VTV.m3u'
+      - 'Relax.m3u'
+      - 'Live.m3u'
+      - 'Live_check.m3u'
+      - 'VTV_sort.m3u'
+      - 'Time_VTV.m3u'
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+    
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+           python-version: 3.x
+        #   python-version: '3.11.1'
+
+      - name: Install dependencies
+        run: |
+             python -m pip install --upgrade pip
+             pip install selenium requests futures eventlet
+             pip install tqdm
+             pip install requests tqdm colorama
+         
+      - name: Install FFMPEG Dependencies 🧑‍🏭
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies 🧑‍🏭    
+        run:
+            pip install -r requirements.txt
+
+      - name: Update
+        run: |
+          # VTV Source
+          rm -f Grab_VTV.m3u && touch Grab_VTV.m3u
+          wget https://raw.githubusercontent.com/ngvhiem/IPTV/refs/heads/main/IPTV-FPT.m3u -O 000VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/# VTV/d;/#KODIPROP/d' 000VTV.m3u
+          sed -i -n '/"VTV"/,+1p;/,AXN/,+1p;/,Cinema/,+1p;/,CINEMAX/,+1p;/,Dreamworks/,+1p;/,Fashion/,+1p;/,HBO/,+1p;/,Warner/,+1p;/,Vietnam Today/,+1p' 000VTV.m3u
+          # wget https://github.com/gaixixon/gaixixon.github.io/raw/refs/heads/master/iptv -O 00VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/# VTV/d;/#KODIPROP/d' 00VTV.m3u
+          # sed -i -n '/,[^"]*VTV/,+1p' 00VTV.m3u
+          #wget https://raw.githubusercontent.com/frumos96/gemtv/main/TVPLUSVN.m3u -O 0VTV.m3u
+          #sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/# VTV/d;/#KODIPROP/d' 0VTV.m3u
+          #sed -i -n '/,[^"]*VTV/,+1p' 0VTV.m3u
+          #sed -i '/IVTV/{N; /IVTV/d;};/"vovtvhd"/{N; /"vovtvhd"/d;}' 0VTV.m3u
+          wget https://raw.githubusercontent.com/ngtrian/IPTV-List/refs/heads/main/fpt-udp-list -O 1VTV.m3u
+          sed -i '/#EXTM3U url/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/"Others"/d;/#KODIPROP/d' 1VTV.m3u
+          # sed -i '/"hollywood"/{N; /"hollywood"/d;};/"vinhlong1hd"/{N; /"vinhlong1hd"/d;}' 1VTV.m3u
+          sed -i -n '/"VTV"/,+1p;/,AXN/,+1p;/,Cinema/,+1p;/,CINEMAX/,+1p;/,Dreamworks/,+1p;/,Fashion/,+1p;/,HBO/,+1p;/,Warner/,+1p;/,Vietnam Today/,+1p' 1VTV.m3u
+          # wget https://raw.githubusercontent.com/tongbinhnguyen/iptv/main/tbn -O 1VTV.m3u
+          # sed -i '/#EXTM3U url/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 1VTV.m3u
+          # sed -i '/"hollywood"/{N; /"hollywood"/d;};/"vinhlong1hd"/{N; /"vinhlong1hd"/d;}' 1VTV.m3u
+          # sed -i -n '/"🌺| VTV"/,+1p' 1VTV.m3u
+          #wget https://github.com/ngvhiem/IPTV/raw/refs/heads/main/DuPhong.m3u -O 2VTV.m3u
+          #sed -i '/#EXTM3U url/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 2VTV.m3u
+          #sed -i '/"hollywood"/{N; /"hollywood"/d;};/"vinhlong1hd"/{N; /"vinhlong1hd"/d;}' 2VTV.m3u
+          #sed -i -n '/"VTV (50fsp)"/,+1p;/"VTV"/,+1p;/,AXN/,+1p;/,HBO/,+1p;/,WBTV/,+1p;/,Dreamworks/,+1p' 2VTV.m3u
+          wget https://raw.githubusercontent.com/pipitivi/iptv/refs/heads/main/IPTV.m3u -O 2VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 2VTV.m3u
+          sed -i -n '/"VTV"/,+1p' 2VTV.m3u
+          wget https://raw.githubusercontent.com/pipitivi/iptv/refs/heads/main/FPT.m3u -O 3VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 3VTV.m3u
+          sed -i -n '/"VTV"/,+1p' 3VTV.m3u
+          # wget https://raw.githubusercontent.com/thikbdx/m3u/main/LICENSE.md -O 3VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 3VTV.m3u
+          # sed -i -n '/"VTV"/,+1p' 3VTV.m3u
+          wget https://raw.githubusercontent.com/thoike84/iptv-vn/refs/heads/main/phattai84.txt -O 4VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 4VTV.m3u
+          sed -i -n '/"🇻🇳| VTV"/,+1p;/,Vietnam Today/,+1p' 4VTV.m3u
+          # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/tivi.m3u -O 5VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 5VTV.m3u
+          # sed -i -n '/"🇻🇳| VTV"/,+1p' 5VTV.m3u
+          wget https://raw.githubusercontent.com/boss379/fpt/refs/heads/main/fpt -O 5VTV.m3u
+          #sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 5VTV.m3u
+          sed -i -n '/"VTV"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 5VTV.m3u
+          wget https://raw.githubusercontent.com/boss379/Fpt_da_mang/refs/heads/main/FPT -O 6VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 6VTV.m3u
+          sed -i -n '/"VTV [^"]*"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 6VTV.m3u
+          # wget https://raw.githubusercontent.com/teohdtv/teohdtv.github.io/master/vietngatv.m3u -O 7VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 7VTV.m3u
+          # sed -i -n '/"❤| VTV"/,+1p' 7VTV.m3u
+          wget https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/IPTV/TV1.m3u -O 7VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 7VTV.m3u
+          sed -i -n '/,VTV/,+1p' 7VTV.m3u
+          sed -i 's/F:-1 /F:-1 group-title="Kenh VTV" /g' 7VTV.m3u
+           wget https://raw.githubusercontent.com/pqtrung94/pqtrung94.github.io/refs/heads/main/IPTV/TV2.m3u -O 77VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 77VTV.m3u
+          sed -i -n '/,VTV/,+1p' 77VTV.m3u
+          sed -i 's/F:-1 /F:-1 group-title="Kenh VTV" /g' 77VTV.m3u
+          # wget https://raw.githubusercontent.com/luongtamlong/Dak-Lak-IPTV/main/daklakiptv.m3u -O 8VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 8VTV.m3u
+          # sed -i -n '/"VTV"/,+1p' 8VTV.m3u
+          # wget https://raw.githubusercontent.com/Duonghoangbn2001/LinhTinh/master/fpt -O 9VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 9VTV.m3u
+          # sed -i -n '/,VTV/,+1p' 9VTV.m3u
+          # sed -i '/,VTVcab/{N; /,VTVcab/d;}' 9VTV.m3u
+          # wget https://raw.githubusercontent.com/thevinhnbvn35/iptvlink/main/hovantam.m3u -O 9VTV.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 9VTV.m3u
+          # sed -i -n '/,VTV/,+1p' 9VTV.m3u
+          # sed -i '/,VTVcab/{N; /,VTVcab/d;}' 9VTV.m3u
+          # sed -i 's/F:-1 /F:-1 group-title="Kenh VTV" /g' 9VTV.m3u
+          wget https://raw.githubusercontent.com/doxuanhoa/IPTV/refs/heads/main/list -O 9VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/vtvcab/d;/#KODIPROP/d' 9VTV.m3u
+          sed -i -n '/"VTV[^"]*"/,+1p;/,Vietnam Today/,+1p' 9VTV.m3u
+          # wget https://bit.ly/3OBKjOi -O 10VTV.m3u
+          # sed -i -n '/"VTV"/,+1p;/,AXN/,+1p;/,Box Hits/,+1p;/,Cinema/,+1p;/,Dreamworks/,+1p;/,Fashion TV/,+1p;/,HBO/,+1p' 10VTV.m3u
+          wget https://raw.githubusercontent.com/boss379/vtv/refs/heads/main/vtvpro -O 10VTV.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 10VTV.m3u
+          sed -i '/,LẠNG SƠN TV/{N; /,LẠNG SƠN TV/d;};/QPVN/{N; /QPVN/d;};/ANTV/{N; /ANTV/d;};/quocphongvn/{N; /quocphongvn/d;}' 10VTV.m3u
+          sed -i -n '/"VTV [^"]*"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 10VTV.m3u
+          
+          #wget https://raw.githubusercontent.com/frumos96/gemtv/main/TVPLUSVN.m3u -O 2Movie.m3u
+          #sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 2Movie.m3u
+          #sed -i -n '/"🌿⭐️ Lifestyle ⭐️🔍"/,+1p' 2Movie.m3u
+          # wget https://raw.githubusercontent.com/teohdtv/teohdtv.github.io/master/vietngatv.m3u -O 3Movie.m3u
+          # sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 3Movie.m3u
+          # sed -i -n '/HBO Asia/,+1p;/AXN Asia/,+1p;/History Asia/,+1p' 3Movie.m3u
+          wget https://raw.githubusercontent.com/thoike84/iptv-vn/refs/heads/main/phattai84.txt -O 3Movie.m3u
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 3Movie.m3u
+          sed -i -n '/"🇻🇳| K+"/,+1p;/,AXN/,+1p;/,HBO/,+1p;/,WBTV/,+1p;/,History/,+1p;/,Vietnam Today/,+1p' 3Movie.m3u
+
+          wget https://hanoiiptv.short.gy/HaNoiIPTV -O BOX1.m3u && sed -i -n '/"KÊNH VTV"/,+1p;/"KÊNH BOX"/,+1p;/,VIETNAM TODAY/,+1p' BOX1.m3u
+          wget https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv -O BOX2.m3u && sed -i -n '/"📦| In The Box"/,+2p;/,Vietnam Today/,+2p' BOX2.m3u
+          wget https://raw.githubusercontent.com/BlackHawk80/Funy/refs/heads/main/Funy -O BOX3.m3u && sed -i '/#EXTVLCOPT/d;/#http/d' BOX3.m3u && sed -i -n '/"💕| VTV"/,+1p;/"📽️| Minh Đức Giải Trí"/,+2p;/,Vietnam Today/,+1p' BOX3.m3u
+          wget https://raw.githubusercontent.com/thaichieucm92/MyTV/refs/heads/main/MyTVnew -O BOX4.m3u && sed -i -n '/"VTV"/,+1p;/" In the box"/,+2p;/,Vietnam Today/,+2p' BOX4.m3u
+          
+          cat 9VTV.m3u 10VTV.m3u 000VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 4VTV.m3u 5VTV.m3u 6VTV.m3u 7VTV.m3u 77VTV.m3u 3Movie.m3u BOX1.m3u BOX2.m3u BOX3.m3u BOX4.m3u >> Grab_VTV.m3u
+          rm -f 00VTV.m3u 0VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 4VTV.m3u 5VTV.m3u 6VTV.m3u 7VTV.m3u 77VTV.m3u 8VTV.m3u 9VTV.m3u 10VTV.m3u 0Movie.m3u 1Movie.m3u 2Movie.m3u 3Movie.m3u BOX1.m3u BOX2.m3u BOX3.m3u BOX4.m3u
+          sed -i 's/,Chanel 249/,VTV1/g;s/"Others"/"Kenh VTV"/g;s/"Truyền hình trong nước"/"Kenh VTV"/g;s/"VTV[^"]*"/"Kenh VTV"/g;s/"📦🍬 VTV💯🔔"/"Kenh VTV"/g;s/"🌺| VTV"/"Kenh VTV"/g;s/"💕| VTV HD"/"Kenh VTV"/g;s/"[^"]*VTV[^"]*"/"Kenh VTV"/g;s/"🇻🇳| VTV"/"Kenh VTV"/g;s/"🇻🇳| VTV Dự Phòng"/"Kenh VTV"/g;s/"❤| VTV"/"Kenh VTV"/g;s/VTV Cần Thơ/VTV_Can_Tho/g;s/VTV CẦN THƠ/VTV_Can_Tho/g;s/VTV Can Tho/VTV_Can_Tho/g' Grab_VTV.m3u
+          # sed -i '1i #EXTM3U' Grab_VTV.m3u
+          sed -i '/,ON SPORT/{N; /,ON SPORT/d;}' Grab_VTV.m3u
+          sed -i '/^\s*$/d' Grab_VTV.m3u
+
+          #wget https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u -O bongda3.m3u
+          #sed -i -n '/BÚN CHẢ/,+3p;/CÁ HEO/,+3p;/CÀ KHỊA/,+3p;/LƯƠNG SƠN/,+3p;/RA KHƠI/,+3p;/VỀ BỜ/,+3p' bongda3.m3u
+          #sed -i 's/BÚN CHẢ/⚽🥎Livestream🏆🏅/g;s/CÁ HEO/⚽🥎Livestream🏆🏅/g;s/CÀ KHỊA/⚽🥎Livestream🏆🏅/g;s/LƯƠNG SƠN/⚽🥎Livestream🏆🏅/g;s/RA KHƠI/⚽🥎Livestream🏆🏅/g;s/VỀ BỜ/⚽🥎Livestream🏆🏅/g' bongda3.m3u
+          #cat bongda3.m3u >> Grab_VTV.m3u
+
+          # Relax & hubsport Source
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Relax1.m3u
+          sed -i -n '/"Comedy"/,+1p' Relax1.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax2.m3u
+          # sed -i -n '/Sport/,+1p' Relax2.m3u
+          # sed -i 's/"ALTERNATIVE"/"Selection Sport"/g' Relax2.m3u
+          
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax2.m3u
+          sed -i -n '/"Movies"/,+1p' Relax2.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax3.m3u
+          sed -i -n '/"Comedy"/,+1p' Relax3.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/refs/heads/master/iptv/United%20States%20free%20Plex.m3u -O Relax33.m3u
+          sed -i -n '/"Comedy"/,+1p' Relax33.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax8.m3u
+          sed -i -n '/"Classic TV"/,+1p' Relax8.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax9.m3u
+          sed -i -n '/"Westerns"/,+1p' Relax9.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax10.m3u
+          sed -i -n '/"Sci-Fi"/,+1p' Relax10.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax11.m3u
+          sed -i -n '/"Drama"/,+1p' Relax11.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax12.m3u
+          sed -i -n '/"True Crime"/,+1p' Relax12.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax13.m3u
+          sed -i -n '/"Reality"/,+1p' Relax13.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax14.m3u
+          sed -i -n '/"Big Brother Live"/,+1p' Relax14.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax15.m3u
+          sed -i -n '/"Competition Reality"/,+1p' Relax15.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax16.m3u
+          sed -i -n '/"Entertainment"/,+1p' Relax16.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax17.m3u
+          sed -i -n '/"Game Shows"/,+1p' Relax17.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax18.m3u
+          sed -i -n '/"Daytime TV"/,+1p' Relax18.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax19.m3u
+          sed -i -n '/"History + Science"/,+1p' Relax19.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax20.m3u
+          sed -i -n '/"Home + Food"/,+1p' Relax20.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Relax21.m3u
+          sed -i -n '/"Animals + Nature"/,+1p' Relax21.m3u
+             
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax3.m3u
+          # sed -i -n '/SPORT/,+1p' Relax3.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Relax4.m3u
+          sed -i -n '/"Animals‚ Nature & History"/,+1p' Relax4.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Relax5.m3u
+          sed -i -n '/"Home & Food"/,+1p' Relax5.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Relax6.m3u
+          sed -i -n '/"Life Stories & Culture"/,+1p' Relax6.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Relax7.m3u
+          sed -i -n '/"Ambiance"/,+1p' Relax7.m3u
+          
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax8.m3u
+          # sed -i -n '/"Home"/,+1p' Relax8.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax9.m3u
+          # sed -i -n '/"Cars"/,+1p' Relax9.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax10.m3u
+          # sed -i -n '/"Doc"/,+1p' Relax10.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax11.m3u
+          # sed -i -n '/"Lifestyle"/,+1p' Relax11.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax12.m3u
+          # sed -i -n '/"Knowledge"/,+1p' Relax12.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax13.m3u
+          # sed -i -n '/"KNOWLEDGE"/,+1p' Relax13.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax14.m3u
+          # sed -i -n '/"knowledge"/,+1p' Relax14.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax15.m3u
+          # sed -i -n '/"ALTERNATIVE"/,+1p' Relax15.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax16.m3u
+          # sed -i -n '/"4K"/,+1p' Relax16.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax17.m3u
+          # sed -i -n '/"Pet club"/,+1p' Relax17.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Relax18.m3u
+          # sed -i -n '/Cats 24/,+1p' Relax18.m3u
+
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film1.m3u
+          sed -i -n '/"Reality Competition"/,+1p' Film1.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film2.m3u
+          sed -i -n '/"Movies"/,+1p' Film2.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film3.m3u
+          sed -i -n '/"Western & Classic TV"/,+1p' Film3.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film4.m3u
+          sed -i -n '/"Action & Drama"/,+1p' Film4.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film5.m3u
+          sed -i -n '/"Crime"/,+1p' Film5.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film6.m3u
+          sed -i -n '/"Reality TV"/,+1p' Film6.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film7.m3u
+          sed -i -n '/"Game Shows"/,+1p' Film7.m3u
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Film8.m3u
+          sed -i -n '/"Sci-Fi & Horror"/,+1p' Film8.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film9.m3u
+          sed -i -n '/"Movies & Hiburan 2"/,+1p' Film9.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film10.m3u
+          sed -i -n '/"Films"/,+1p' Film10.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film11.m3u
+          sed -i -n '/"dramafilm"/,+1p' Film11.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film12.m3u
+          sed -i -n '/"eksyensinema"/,+1p' Film12.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film13.m3u
+          sed -i -n '/"🎥"/,+1p' Film13.m3u
+          sed -i 's/"🎥"/"Movies"/g' Film13.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Film14.m3u
+          sed -i -n '/filem/,+1p' Film14.m3u
+
+          wget https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u -O Kid1.m3u
+          sed -i -n '/"Kids"/,+1p' Kid1.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Kid2.m3u
+          sed -i -n '/"Kids"/,+1p' Kid2.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Kid2.m3u
+          # sed -i -n '/"kids_film"/,+1p' Kid2.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Kid3.m3u
+          sed -i -n '/"KIDS"/,+1p' Kid3.m3u
+          wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Kid4.m3u
+          sed -i -n '/"kartun"/,+1p' Kid4.m3u
+          # wget https://raw.githubusercontent.com/olraits/wakandafrvr/main/622120242025.m3u -O Kid5.m3u
+          # sed -i -n '/"anime"/,+1p' Kid5.m3u
+          wget https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u -O Kid5.m3u
+          sed -i -n '/"Anime"/,+1p' Kid5.m3u
+
+          # Live Source
+          # wget https://raw.githubusercontent.com/Vipdt5k49/linh_tinh/main/thapcam.m3u -O Live1.m3u
+          # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live3.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live3.m3u
+          # sed -i -n '/"Trực tiếp Euro 2024"/,+1p' Live3.m3u
+          # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live4.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live4.m3u
+          # sed -i -n '/"⚽[^"]*"/,+1p' Live4.m3u
+          # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live5.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live5.m3u
+          # sed -i -n '/"⚽ Vebo"/,+1p' Live5.m3u
+          # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live6.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live6.m3u
+          # sed -i -n '/"⚽ Lương Sơn TV"/,+1p' Live6.m3u
+          # wget https://raw.githubusercontent.com/tpk792023/euromoi2024/main/xemuero -O Live6.m3u
+          # sed -i '/#EXTVLCOPT/d;/#http/d' Live6.m3u
+          # sed -i -n '/"⚽ Lương Sơn TV"/,+1p' Live6.m3u
+          
+          cat Relax1.m3u Relax2.m3u Relax3.m3u Relax33.m3u Relax4.m3u Relax5.m3u Relax6.m3u Relax7.m3u Relax8.m3u Relax9.m3u Relax10.m3u Relax11.m3u Relax12.m3u Relax13.m3u Relax14.m3u Relax15.m3u Relax16.m3u Relax17.m3u Relax18.m3u Relax19.m3u Relax20.m3u Relax21.m3u Film1.m3u Film2.m3u Film3.m3u Film4.m3u Film5.m3u Film6.m3u Film7.m3u Film8.m3u Film9.m3u Film10.m3u Film11.m3u Film12.m3u Film13.m3u Film14.m3u Kid1.m3u Kid2.m3u Kid3.m3u Kid4.m3u Kid5.m3u >> hubsport.m3u
+
+          # cat Live1.m3u Live3.m3u Live4.m3u Live.m3u >> Live2.m3u
+          # sed -i 's/"⚽[^"]*"/"⚽🥎Livestream🏆🏅"/g;s/"⚽ Vebo"/"⚽🥎Livestream🏆🏅"/g;s/"⚽ Lương Sơn TV"/"⚽🥎Livestream🏆🏅"/g;s/"LIVE[^"]*"/"⚽🥎Livestream🏆🏅"/g' Live2.m3u
+          
+          sed -i 's/"Sportss"/"Selection Sport"/g;s/"Sports & Outdoors"/"Selection Sport"/g;s/"Motor Sports"/"Selection Sport"/g;s/"Extreme Sports"/"Selection Sport"/g;s/"Sporty"/"Selection Sport"/g;s/"SPORT LOKAL"/"Selection Sport"/g;s/"JSport"/"Selection Sport"/g;s/"Sports"/"Selection Sport"/g;s/"SPORTS"/"Selection Sport"/g;s/"SPORTZ"/"Selection Sport"/g;s/"SPORT TV"/"Selection Sport"/g;s/"SPORT PREMIUM"/"Selection Sport"/g;s/"OLAHRAGA"/"Selection Sport"/g;s/"Fishsports"/"Selection Sport"/g;s/"Bolaa"/"Selection Sport"/g;s/"updetCHANNEL"/"Selection Sport"/g' hubsport.m3u
+          
+          sed -i 's/"Home & Food"/"Du lịch-Khám phá"/g;s/"Life Stories & Culture"/"Du lịch-Khám phá"/g;s/"Ambiance"/"Du lịch-Khám phá"/g;s/"Home"/"Du lịch-Khám phá"/g;s/"Cars"/"Du lịch-Khám phá"/g;s/"Doc"/"Du lịch-Khám phá"/g;s/"Lifestyle"/"Du lịch-Khám phá"/g;s/"Knowledge"/"Du lịch-Khám phá"/g;s/"KNOWLEDGE"/"Du lịch-Khám phá"/g;s/"knowledge"/"Du lịch-Khám phá"/g;s/"ALTERNATIVE"/"Du lịch-Khám phá"/g;s/"4K"/"Du lịch-Khám phá"/g;s/"Pet club"/"Du lịch-Khám phá"/g;s/"History + Science"/"Du lịch-Khám phá"/g;s/"Home + Food"/"Du lịch-Khám phá"/g;s/"Animals + Nature"/"Du lịch-Khám phá"/g' hubsport.m3u
+          
+          sed -i 's/"Reality[^"]*"/"Movies"/g;s/"Western[^"]*"/"Movies"/g;s/"Action & Drama"/"Movies"/g;s/"Crime"/"Movies"/g;s/"Reality TV"/"Movies"/g;s/"Game Shows"/"Movies"/g;s/"Sci-Fi[^"]*"/"Movies"/g;s/"Movies & Hiburan 2"/"Movies"/g;s/"Films"/"Movies"/g;s/"dramafilm"/"Movies"/g;s/"eksyensinema"/"Movies"/g;s/"filems"/"Movies"/g;s/"filem"/"Movies"/g;s/"Drama"/"Movies"/g;s/"True Crime"/"Movies"/g;s/"Big Brother Live"/"Movies"/g;s/"Competition Reality"/"Movies"/g;s/"Entertainment"/"Movies"/g;s/"Game Shows"/"Movies"/g;s/"Daytime TV"/"Movies"/g;s/"Classic TV"/"Movies"/g' hubsport.m3u
+          
+          sed -i 's/"kids_film"/"Kids"/g;s/"KIDS"/"Kids"/g;s/"kartun"/"Kids"/g;s/"anime"/"Kids"/g;s/"Anime"/"Kids"/g' hubsport.m3u
+          
+          rm -f Relax1.m3u Relax.m3u Relax2.m3u Relax3.m3u Relax33.m3u Relax4.m3u Relax5.m3u Relax6.m3u Relax7.m3u Relax8.m3u Relax9.m3u Relax10.m3u Relax11.m3u Relax12.m3u Relax13.m3u Relax14.m3u Relax15.m3u Relax16.m3u Relax17.m3u Relax18.m3u Relax19.m3u Relax20.m3u Relax21.m3u Film1.m3u Film2.m3u Film3.m3u Film4.m3u Film5.m3u Film6.m3u Film7.m3u Film8.m3u Film9.m3u Film10.m3u Film11.m3u Film12.m3u Film13.m3u Film14.m3u Kid1.m3u Kid2.m3u Kid3.m3u Kid4.m3u Kid5.m3u Live1.m3u Live3.m3u Live4.m3u Live5.m3u Live6.m3u 000VTV.m3u bongda3.m3u
+          
+          sed -i '/^\s*$/d' hubsport.m3u
+        
+      #- name: Run Check VTV link
+      #  run: python ${{ github.workspace }}/IPTV_Playlist_Check.py
+
+      - name: Run Sort VTV link
+        run: python ${{ github.workspace }}/VTV_sort.py
+
+      - name: Run Check Sport link
+        run: python ${{ github.workspace }}/Sport_check.py
+
+      #- name: Run Check Live link
+      #  run: python ${{ github.workspace }}/Live_check.py
+
+      - name: Run Check Live link
+        run: python ${{ github.workspace }}/Time_sort.py
+
+      #- name: Download playlist to check 📥
+      # run: |
+      #    wget -q $PLAYLIST_URL -O playlist.m3u8
+      #  env:
+       #   PLAYLIST_URL: ${{ inputs.PLAYLIST_URL }}    
+
+      #- name: Download script and check playlist 📺    
+       # run: |
+        #  python iptv-checker.py -p playlist.m3u8 -s playlistchecked.m3u8 -t $NUM_THREADS -ft $TIMEOUT
+        #env:
+         # NUM_THREADS: ${{ inputs.NUM_THREADS }}
+         # TIMEOUT: ${{ inputs.TIMEOUT }}  
+
+      #- name: Update
+      # run: |
+          # Live Source
+      #    rm -f Live2.m3u
+             
+      - name: Commit changes
+        run: |
+          git config --local user.email "Love4vn@gmail.com" # Set Git user email
+          git config --local user.name "Love4vn" # Set Git username
+          git checkout --orphan latest_branch
+          # git add tv/* # Add all files under the tv/ directory
+          # git add .
+          # git commit *.txt -m "Add generated file"
+          # git commit *.m3u -m "Add generated file"
+          # git pull --rebase
+          # git push -f
+          git add -A
+          
+          #-------***--------
+          # git add Grab_VTV.m3u
+          # git add VTV_sort.m3u
+          # git add Out_Iptv_CXT.m3u
+          # git add S_check.m3u
+          # git add Live_check.m3u
+          # git add Time_VTV.m3u
+          #-------***--------
+          
+          git commit -m "$(TZ=Asia/Ho_Chi_Minh date +'%Y-%m-%d %H:%M:%S') ：💡Update "
+          # git pull --rebase
+          git branch -D main
+          git branch -m main
+          # git push -f
+      - name: Push
+        run: git push -f origin main
