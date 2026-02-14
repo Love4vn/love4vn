@@ -1,0 +1,1084 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vtvcantho" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Kênh VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [Lửng Mật] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lsd.flv?auth_key=1771103855-0-0-b6a254a3512c20d4059c6848b741ed6c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [Lửng Mật] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-566705_lhd.flv?auth_key=1771103855-0-0-9811055597381e818e4f4cb5429cd270
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [Lửng Mật] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lhd.m3u8?auth_key=1771103855-0-0-e902c23f80b65af156e83803fcbb34a6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [Lửng Mật] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-566705_lsd.m3u8?auth_key=1771103855-0-0-80209a040646198b2d0c4a4eaf75667c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [NGƯỜI THÉP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1771103135-0-0-0ced7c0fd9bfb3cf8d514039269f8ae4
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [NGƯỜI THÉP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1771103135-0-0-d78ae0f36d7a20d001e92b98f3cc91ff
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [NGƯỜI THÉP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1771103135-0-0-b1174a39f64bff19cad42be5d06511e0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/4bca9ae2805519b954a3ac8e704cd09b.png",02h00 ngày 15/02 AFC Ajax vs Fortuna Sittard [NGƯỜI THÉP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1771103135-0-0-645e34f812a889301a95d0b9edbfb87a
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260214/2b89504cae9b192da96d70e3849082c7.png",02h00 ngày 15/02 Tenerife vs Breogan [HUNTER] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1771103495-0-0-d69297e51cf16275dfe2f0ab68114685
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260214/2b89504cae9b192da96d70e3849082c7.png",02h00 ngày 15/02 Tenerife vs Breogan [HUNTER] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1771103495-0-0-a5c1b7fe556f8eac4c9b33448535104c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260214/2b89504cae9b192da96d70e3849082c7.png",02h00 ngày 15/02 Tenerife vs Breogan [HUNTER] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1771103495-0-0-05b1e8de9351431515b9c657ea287cbc
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260214/2b89504cae9b192da96d70e3849082c7.png",02h00 ngày 15/02 Tenerife vs Breogan [HUNTER] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1771103495-0-0-d6ef4de32a0cd0ba43198c28d84c2552
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",02h45 15/02 Inter Milan vs Juventus F.C.
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.api-sports.io/football/teams/505.png",02h45 15/02 Inter vs Juventus (Hội Quán) FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV DƯƠNG QUÁ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV DƯƠNG QUÁ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV LƯU BỊ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV LƯU BỊ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV TÔN LẬP flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/140_1jgj8z3paw1g.png",02h45 ngày 15/02 Inter Milan vs Juventus (Lương Sơn) BLV TÔN LẬP m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VIP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=fcc267d646bea8dabb43160e8eceae82&txTime=69912b57
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VIP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=73e3cb9d109f5e6778b99f77e070aba4&txTime=69912b57
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VIP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=73e3cb9d109f5e6778b99f77e070aba4&txTime=69912b57
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VIP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=fcc267d646bea8dabb43160e8eceae82&txTime=69912b57
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VOI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1771103855-0-0-dc99781197c1065a1f95afba9d14135b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VOI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1771103855-0-0-02041636811711632e4656b6ecad2151
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VOI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1771103855-0-0-9c2e4cc983a2a41e249da67049e399ce
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BLV VOI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1771103855-0-0-f6e43a13d9291ef83bcfeb5d33da1b0d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BÚA TẠ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=af56e90017f52950d75d7589cedf72a8&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BÚA TẠ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=4ab9a6048bd6c160f78ebd51faa0a086&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BÚA TẠ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=4ab9a6048bd6c160f78ebd51faa0a086&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [BÚA TẠ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=af56e90017f52950d75d7589cedf72a8&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [RED BULL] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1771103495-0-0-a4faa5af39acf88a35a0a25b2ac2c379
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [RED BULL] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1771103495-0-0-18a7571455dfa633cbedda4e546634f2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [RED BULL] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1771103495-0-0-b9ec912bc78f038c6a6749687d64b1a3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [RED BULL] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1771103495-0-0-12e087144673b12b3bb363b4e7e357f8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SAO LA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=540ee8f38532ef32acb02b0493c78669&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SAO LA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=94fb1db1be79a9252d980938e85050a2&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SAO LA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=94fb1db1be79a9252d980938e85050a2&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SAO LA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=540ee8f38532ef32acb02b0493c78669&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SÙNG A MÚP] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1771103495-0-0-cbfe5a97244e9d9c10c40cb3750bf641
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SÙNG A MÚP] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1771103495-0-0-45580d7fe66cc8bf1009cbce7a09ac1f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SÙNG A MÚP] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1771103495-0-0-6d9a4d701f74268ee3745b40df450ad1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/a6f3b6052579fc1dad9c70b0c73ba0ca.png",02h45 ngày 15/02 Inter Milan vs Juventus [SÙNG A MÚP] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1771103495-0-0-fbff4573bf0a609b3de73356d0d608fb
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 15/02 Inter vs Juventus (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 15/02 Inter vs Juventus (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoihot.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 15/02 Inter vs Juventus (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125605_14c915ad.png",02h45 ngày 15/02 Inter vs Juventus (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoihot.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/119_1j3veftre2e.png",02h45 ngày 15/02 Standard Liege vs Saint Gilloise (Lương Sơn) BLV TẦN CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/119_1j3veftre2e.png",02h45 ngày 15/02 Standard Liege vs Saint Gilloise (Lương Sơn) BLV TẦN CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/119_1j3veftre2e.png",02h45 ngày 15/02 Standard Liege vs Saint Gilloise (Lương Sơn) BLV VÕ TÒNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/119_1j3veftre2e.png",02h45 ngày 15/02 Standard Liege vs Saint Gilloise (Lương Sơn) BLV VÕ TÒNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",03h00 15/02 Liverpool vs Brighton & Hove Albion FC
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97312754.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",03h00 15/02 Liverpool vs Brighton (Hội Quán) FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",03h00 15/02 Real Madrid CF vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",03h00 15/02 Real Madrid vs Real Sociedad (Hội Quán) FULL HD
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",03h00 ngày 15/02 Liverpool vs Brighton (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoidoo/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",03h00 ngày 15/02 Liverpool vs Brighton (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoidoo.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",03h00 ngày 15/02 Liverpool vs Brighton (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoidoo/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125546_c0f632e4.png",03h00 ngày 15/02 Liverpool vs Brighton (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoidoo.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV LÝ ỨNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV LÝ ỨNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV PHONG VÂN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV PHONG VÂN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV THỜI THIÊN flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/THOITHIEN.flv?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV THỜI THIÊN m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV VĂN VỸ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANVY.flv?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/19_1jq85dyw7v2x.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion (Lương Sơn) BLV VĂN VỸ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV ENZO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1771103135-0-0-374503a4aeb763ea3c2fd8fd61575d43
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV ENZO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1771103135-0-0-a7744e51d1cae39a3d9243231e14fa75
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV ENZO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1771103135-0-0-bdd28852cbca06974f0f7786e826d707
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV ENZO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1771103135-0-0-56cf1b914d95a339aa55a0f45502d31d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV KEM] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1771103855-0-0-f91b97a6e83a5c46b0234084a29594e0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV KEM] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1771103855-0-0-2d0bc1d68d7791544ed27f693677ce25
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV KEM] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1771103855-0-0-87629984e290a02a31c9b05e0564105d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV KEM] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1771103855-0-0-d441565076e5885487c67a7eee4d6039
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV LIO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1771103855-0-0-35b9c467e93017dcbcd15739758d8d3d
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV LIO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1771103855-0-0-cb406d640d090bd15e6c5075d0073f0c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV LIO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1771103855-0-0-d0fe2a64dc85e2357616d51241ccdd82
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV LIO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1771103855-0-0-f82730dfb630165ee3af676ab6af7afd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV MESSI] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1771103135-0-0-d51a1d096a4110baff851a6610d6daa1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV MESSI] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1771103135-0-0-b6c888a3e226d9fbec4a25c242d11f7c
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV MESSI] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1771103135-0-0-497636c404e38efc542384ad21b50cb7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV MESSI] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1771103135-0-0-76841226bdc6112f88f159855fa458aa
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV PEWPEW] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1771103855-0-0-9daa1bcabdad764e02b802ff2bed4037
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV PEWPEW] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1771103855-0-0-f7b312eb52c8e695f0b2368d94d65018
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV PEWPEW] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1771103855-0-0-1b1fe1c9b2d01e21b2321583be3371a9
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [BLV PEWPEW] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1771103855-0-0-29d0bf931dac8256956dfaeacc231257
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [THẠCH TÚ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=a134af196ebb6bbdfd9f133832a3835e&txTime=699129ef
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [THẠCH TÚ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=b8793b956c1b47d7b5140c263779811a&txTime=699129ef
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [THẠCH TÚ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b8793b956c1b47d7b5140c263779811a&txTime=699129ef
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260211/9a1dd85ee8573f8c8b0da6621be02746.png",03h00 ngày 15/02 Liverpool vs Brighton Hove Albion [THẠCH TÚ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=a134af196ebb6bbdfd9f133832a3835e&txTime=699129ef
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125625_9a1b10da.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125625_9a1b10da.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Chuối Chiên) HD4
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoi99.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125625_9a1b10da.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125625_9a1b10da.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoi99.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV LEO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV LEO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV NHỊ KA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV NHỊ KA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/74_164871252161.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad (Lương Sơn) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV COCA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1771103135-0-0-839df61759a264cec081857e03f9da72
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV COCA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1771103135-0-0-7ac1af8dc35e4d3369f8b5f12c2fbbb3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV COCA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1771103135-0-0-0edc1eb7f6ab0d68626cb3ea0bd04c24
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV COCA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1771103135-0-0-dd51c674d41c735c1cd2181938c10c67
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV DECO] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1771103135-0-0-947ebc1e89a09d94d05d7b3bc4cf1a55
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV DECO] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1771103135-0-0-bbe7acb45ffe8221af2283536e9a7f2f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV DECO] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1771103135-0-0-05eabdbe70e63e735dc3d13991c15165
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV DECO] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1771103135-0-0-3c592dc26dc3f1db0e9a432a989c2cb1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV KINH TẾ] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.flv?txSecret=843cb2086a96f8fef1e6d9fa63802b08&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV KINH TẾ] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.flv?txSecret=326a9d958e9fa00b9561b4f770d45eda&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV KINH TẾ] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lhd.m3u8?txSecret=326a9d958e9fa00b9561b4f770d45eda&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV KINH TẾ] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-532999_lsd.m3u8?txSecret=843cb2086a96f8fef1e6d9fa63802b08&txTime=69912cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV TOMMY] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1771103495-0-0-de7aa906fda6369c12271a0381c0c884
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV TOMMY] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1771103495-0-0-589e27b01cc972a30d521c3a20dc8b5e
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV TOMMY] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1771103495-0-0-096684d899d13438ece8ad63180a6be8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV TOMMY] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1771103495-0-0-738d0103813b441b2ad74b18008b5bd5
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV VODKA] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lsd.flv?auth_key=1771103495-0-0-4427be0dbbd48dd30b3e4b0a2f0b7690
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV VODKA] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-500605_lhd.flv?auth_key=1771103495-0-0-328bf750599b71f33d704c62e2ba250e
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV VODKA] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1771103495-0-0-0509e0f7bfb99f8c8462cef6934dcaec
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [BLV VODKA] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-500605_lsd.m3u8?auth_key=1771103495-0-0-963281f3401e6e234aa1dfa0ad1aaf5b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [LOGAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1771103855-0-0-485fafbc5eb6426f1aae6a3324fca7ba
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [LOGAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1771103855-0-0-12f06fc2985688cc84ab75c8595b03f8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [LOGAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1771103855-0-0-0fda2e49bd571f1789fddd6850036be0
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/d92660b5f036d8c7aaea8cb20252faaa.png",03h00 ngày 15/02 Real Madrid vs Real Sociedad [LOGAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1771103855-0-0-fc4f6da96022f1ea651696ab595e8f06
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://img.colatv88xd.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80",03h05 15/02 Paris FC vs RC Lens
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1500_1h56c0xwvqd.png",03h05 ngày 15/02 Paris FC vs Lens (Lương Sơn) BLV DƯƠNG CHÍ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1500_1h56c0xwvqd.png",03h05 ngày 15/02 Paris FC vs Lens (Lương Sơn) BLV DƯƠNG CHÍ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1500_1h56c0xwvqd.png",03h05 ngày 15/02 Paris FC vs Lens (Lương Sơn) BLV MÃ SIÊU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://cdn-img.cdnokvip.com/logos/1500_1h56c0xwvqd.png",03h05 ngày 15/02 Paris FC vs Lens (Lương Sơn) BLV MÃ SIÊU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV EDRIC] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lsd.flv?auth_key=1771103495-0-0-f6d06d8cfa7f7fdc7a41c698c4086aed
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV EDRIC] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-5126499_lhd.flv?auth_key=1771103495-0-0-c060e9f19dd496a5c74111fa2087fe6e
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV EDRIC] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lhd.m3u8?auth_key=1771103495-0-0-8742189e0761f88fccc9b5669aaa6bc9
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV EDRIC] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-5126499_lsd.m3u8?auth_key=1771103495-0-0-894ccc8e2fff79a093a25a34f5a39cbf
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV ROBBEN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1771103495-0-0-1581fe7c3ac854788ea14be8e29ca99e
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV ROBBEN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1771103495-0-0-a518de9cc740a65d93cf3e218b44b667
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV ROBBEN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1771103495-0-0-a9e8a6d89dbd17627e9549f70f97440f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/4efbbd8792b4bcbb8b1f05b8a22a2c2b.png",03h05 ngày 15/02 Paris FC vs RC Lens [BLV ROBBEN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1771103495-0-0-889b162252c12544dcc03332779951f3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [BLV FIREMAN] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1771103855-0-0-d659bc5ac811c0f2fb191edcc79df1e2
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [BLV FIREMAN] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1771103855-0-0-7bb2d0e69e5c2aa5f28da10e0765c14f
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [BLV FIREMAN] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1771103855-0-0-26e19df3b637899ac8bd5c45c5ec9ec7
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [BLV FIREMAN] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1771103855-0-0-5ecc250556fe62433b2259d3a4320874
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [MR BÍCH] (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1771103855-0-0-8641f3129a1f1dd1bbdd4c290a047542
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [MR BÍCH] (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1771103855-0-0-c3ff45ed6a99d0f096289f92d102c81e
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [MR BÍCH] (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1771103855-0-0-5bd45e05d6d727cc1892a81209488126
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://sta.vnres.co/file/common/20260212/9b4a06f9bd03afaa8c4b4af487cb87e4.png",03h30 ngày 15/02 Gil Vicente vs Sporting Braga [MR BÍCH] (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1771103855-0-0-a3f0c1b4287ff0635ce8e78afde01af1
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131434_2bc770b2.png",06h00 ngày 15/02 Pachuca vs Atlas (Chuối Chiên) HD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://cyber.chuoichien.tv/chuoitong/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131434_2bc770b2.png",06h00 ngày 15/02 Pachuca vs Atlas (Chuối Chiên) SD1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitong/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131434_2bc770b2.png",06h00 ngày 15/02 Pachuca vs Atlas (Chuối Chiên) SD2
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://stream.chuoichien.tv/chuoitong.flv
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[ATP Dallas] Taylor Fritz vs Marin Čilić lúc 03:16 ngày 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6990d05326632_110198/index.m3u8?expire=1771702995&sign=f3b11e7ec201b7104a78a9616a723c00
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[FA Cup] 02h30 15/02 Liverpool vs Brighton [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[FA Cup] 02h30 15/02 Liverpool vs Brighton [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[FA Cup] 02h30 15/02 Liverpool vs Brighton [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[FA Cup] Liverpool vs Brighton Hove Albion lúc 03:16 ngày 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6990d065fe25d_79/index.m3u8?expire=1771703013&sign=8609e141a07d7dce16cfdeebc1afb401
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[French Ligue 1] Paris FC vs RC Lens lúc 03:16 ngày 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6990d00d26632_68958/index.m3u8?expire=1771702925&sign=a6127ce2e111646b6583b075c8d78bdd
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Italian Serie A] Inter Milan vs Juventus lúc 03:16 ngày 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6990c8fc26632_4908/index.m3u8?expire=1771701116&sign=da38b145a243bdef1076342739fac9d3
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[La Liga] 02h30 15/02 Real Madrid vs Real Sociedad [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[La Liga] 02h30 15/02 Real Madrid vs Real Sociedad [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[La Liga] 02h30 15/02 Real Madrid vs Real Sociedad [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A1 Women] 02h30 15/02 UYBA Busto Arsizio W vs Vero Volley W [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A1 Women] 02h30 15/02 UYBA Busto Arsizio W vs Vero Volley W [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A1 Women] 02h30 15/02 UYBA Busto Arsizio W vs Vero Volley W [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_sd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Serie A] 02h30 15/02 Inter vs Juventus [FHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Trực tiếp",[Spanish La Liga] Real Madrid vs Real Sociedad lúc 03:16 ngày 15/02/2026 [HLS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/6990cb02fe25d_28/index.m3u8?expire=1771701634&sign=420f2b70c2811a5dbb3a287fccbd911c
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/51-copa-del-rey.png?q=75&w=50",02/05 Soccer 03:00pm Real Betis vs Atlético Madrid = SkySportsLaLiga (Z)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/175721.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png",038. SkySportsLaliga
+https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",1 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a016
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",2 SPORT 🇮🇱
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",2 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a019
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",3 SPORT 🇮🇱
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",3 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01a
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",4 SPORT 🇮🇱
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",4 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01b
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",5 SPORT 🇮🇱
+http://77.137.40.221:8000/play/a01c
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",6 SPORT 🇮🇱
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",AF SUPERSPORT GOLF
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4429
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="4️⃣🇰 🇺 🇭 🇩",AF SUPERSPORT LALIGA
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/4431
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ARENA SPORT 1 🇨🇿
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ARENA SPORT 2 🇨🇿
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Africa 24 Sport 🇳🇬
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="Altitude.Sports.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png",Altitude Sports
+http://mytvstream.net:8080/live/bn80NG/909467/79545.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro" group-title="Thể Thao" tvg-logo="https://yt3.googleusercontent.com/mXF6CZIe_yJNlPPQdqVvGNUbLY6V6N38hLKnWWKcOMhCDjuLTFZZ4QH_faUmo0pPXQBEIIIa=s512-c-k-c0x00ffffff-no-rj",AntenaSport (720p) [Not 24/7] - 720P
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 1 HD 🇷🇸
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 1 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 10 HD 🇷🇸
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 10 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 2 HD 🇷🇸
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 2 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 3 HD 🇷🇸
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 3 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 4 HD 🇷🇸
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 4 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 5 HD 🇷🇸
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 5 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 6 HD 🇷🇸
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 6 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 7 HD 🇷🇸
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 7 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 8 HD 🇷🇸
+http://169.150.223.25/ArenaSport8HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 8 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport8HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Arena Sport 9 HD 🇷🇸
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 1 HD 🇽🇰
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 2 HD 🇽🇰
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 3 HD 🇽🇰
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 4 HD 🇽🇰
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 5 HD 🇽🇰
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Art Sport 6 HD 🇽🇰
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 1 🇶🇦
+http://77.137.40.221:8000/play/a01e
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 2 🇶🇦
+http://77.137.40.221:8000/play/a01g
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 3 🇶🇦
+http://77.137.40.221:8000/play/a01h
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 4 🇶🇦
+http://77.137.40.221:8000/play/a01i
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 5 🇶🇦
+http://77.137.40.221:8000/play/a01j
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT 6 🇶🇦
+http://77.137.40.221:8000/play/a01k
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="BEKSports.us@West" group-title="Thể Thao" tvg-logo="https://i.imgur.com/1l3t5jd.png",BEK TV Sports West (720p) - 720P
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" group-title="Thể Thao" tvg-logo="https://i.imgur.com/fBpLsbC.png",Bahrain Sports 1 (720p) [Not 24/7] - 720P
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ZkuZmIo.png",Bahrain Sports 2 (720p) [Not 24/7] - 720P
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/V562tpO.png",BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked] - 720P
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga
+http://supersonictv.live:8080/Bobby1/Bobby1/22196
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png",BeIN Sports LaLiga (FHD)
+http://supersonictv.live:8080/006779/439866/22196
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Bein Sport 1 🇫🇷
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Bein Sport 3 🇫🇷
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Bein Sport 3 🇫🇷
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",Bein Sports 1
+https://wahyu1ptv.pages.dev/AstroBein1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png",Bein Sports 2
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png",Bein Sports 3
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",BeinSport Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://image.tmdb.org/t/p/w500/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",Bloodsport [31.01.2026]
+https://vidmody.com/vs/tt0092675/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",CANAL + Sport 🇫🇷
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/uo7pHjF.png",CBS Sport Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
+http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",CT SPORT HD 🇨🇿
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (720p) - 720P
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/logo/countries/germany/new/SKY_SPORT_GOLF_720P.png",DE SKYSPORT GOLF  720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P - 720P
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/135342
+#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png",DEPORTES - SKY Sports La liga (TV)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/9601.m3u8
+#EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/HxqZ8WFB/Sky-sports-proyectox.png",DEPORTES - SKY Sports La liga (TV)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/9601
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DEPORTES - SKY Sports LaLiga (Z)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/164158.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DEPORTES - SKY Sports LaLiga (Z)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/164158
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 1 🇦🇷
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 1 🇦🇷
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",DSPORTS 🇦🇷
+http://201.230.121.186:8000/play/a0od/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Digi Sport 2 🇷🇴
+http://91.201.172.14:35006/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",EKOL SPORTS 🇹🇷
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/161872
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/161872.m3u8
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" group-title="Thể Thao" tvg-logo="https://i.imgur.com/DVSdQFj.png",EuroSport 4K
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Eurosport 🇭🇷
+http://23.88.66.93/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png",FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png",FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-1.png",Fox Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png",Fox Sports 1
+http://mytvstream.net:8080/live/bn80NG/909467/1846.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://enz.gdplayertv.to/assets/img/logo/fox-sports-2.png",Fox Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png",Fox Sports 2
+http://mytvstream.net:8080/live/bn80NG/909467/1847.m3u8
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="Thể Thao" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png",Fox Sports 501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 tvg-id="FoxSports503.au" group-title="Thể Thao" tvg-logo="https://i.imgur.com/fndl6gs.png",Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 tvg-id="FoxFooty.au" group-title="Thể Thao" tvg-logo="https://i.imgur.com/0tZxstM.png",Fox Sports 504
+https://7pal.short.gy/fox504au
+#EXTINF:-1 tvg-id="FoxSports506.au" group-title="Thể Thao" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title=",Fox Sports 506
+https://7pal.short.gy/fox506au
+#EXTINF:-1 tvg-id="FoxSportsMore.au" group-title="Thể Thao" tvg-logo="https://i.imgur.com/PeDP6zC.png",Fox Sports 507
+https://7pal.short.gy/fox507au
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",GB: Sky Sports Golf HD
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/112692
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",INFOSPORT 🇫🇷
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",KTV SPORTS 🇮🇳
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/195/669d08c859.png",Kuwait Sport 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",LaLiga SmartBank 9:15 Cultural Leonesa vs Sporting Gijón
+http://tv.zapping.life:8080/milagrosherrera/syETesGFmN/167997
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/512px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",LaLiga SmartBank | 9:15 Eibar vs Sporting Gijón
+http://tv.zeuspro.xyz:8080/live/Derkai/zAsnLNB8QY/174674.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/7k8ar1Z.png",M-Net Sport (720p) - 720P
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAX SPORT 1 🇧🇬
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAX SPORT 2 🇧🇬
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAX SPORT 3 🇧🇬
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAX SPORT 4 🇧🇬
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAXSPORT_1 🇭🇷
+http://23.88.66.93/MAXSPORT_1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MAXSPORT_2 🇭🇷
+http://23.88.66.93/MAXSPORT_2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MMN Sport 🇸🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" group-title="Thể Thao",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",MTR Sports-1 🇬🇧
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png",Marquee Sports Network
+http://mytvstream.net:8080/live/bn80NG/909467/13379.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" group-title="Thể Thao" tvg-logo="https://i.imgur.com/SLrjImc.png",More Than Sports TV (1080p) - 1080P
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" group-title="Thể Thao" tvg-logo="https://iili.io/Jp5oxpt.png",NBC SPORTS
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png",NBC Sports Bay Area
+http://mytvstream.net:8080/live/bn80NG/909467/9900.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/MTgUVKx.png",NBC Sports Bay Area (720p) - 720P
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png",NBC Sports Boston
+http://mytvstream.net:8080/live/bn80NG/909467/20939.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.California.SAT.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png",NBC Sports California
+http://mytvstream.net:8080/live/bn80NG/909467/20940.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png",NBC Sports Philadelphia
+http://mytvstream.net:8080/live/bn80NG/909467/20943.m3u8
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png",NBC Sports Philadelphia (720p) - 720P
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",OTHER-SPORT_30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.pinimg.com/236x/99/bc/ca/99bccae1b719e496bce9789997aea217.jpg",PEACOOCK SPORTS
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://www.hdfilmizle.life/v/500245/poster/thumb/passport-to-love.jpg",Passport to Love [28.01.2026]
+https://vs7.pictureflix.org/v/Passport.To.Love.2024.1080p.WEBRip/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://image.tmdb.org/t/p/w500/pArr12pr825SWb06ihiWesJsuR0.jpg",Perde Arkası: Sportmenlik Dışı Faul Operasyonu (2022) [27.01.2026]
+https://vidmody.com/vs/tt21448508
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79027_dark_360w_270h.png",Premier Sports 1
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5029.ts
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109162_dark_360w_270h.png",Premier Sports 2
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/5030.ts
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" group-title="Thể Thao" tvg-logo="https://i.imgur.com/1Ob8v6K.png",PremierSports1-HD
+https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" group-title="Thể Thao" tvg-logo="https://i.imgur.com/IwezEnz.png",PremierSports2-HD
+https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="PrimaSport4.ro" group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947",Prima Sport 4
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",RTA SPORT 🇸🇦
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-id="RTASport.af" group-title="Thể Thao" tvg-logo="https://i.imgur.com/lEXrwos.jpg",RTA Sport (1080p) - 1080P
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",RTSH Sport 🇦🇱
+http://217.73.139.200:5443/play/a01d
+#EXTINF:-1 tvg-id="RaiSport.it@HD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/6PEevOM.png",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SCTV 22 - SSPORT 1 🇻🇳
+https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.92.10.66:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://167.250.223.26:8085/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://45.5.117.57:8200/play/a050/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://181.78.109.48:9998/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://tv.zapping.life:8080/abelardo2020/ES4G1y3eXX/9599
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SKY SPORT LALIGA 🇲🇽
+http://190.14.10.19:16000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT 1 HD 🇨🇿
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT 2 HD 🇨🇿
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT 2 HD 🇨🇿
+http://185.98.211.8:81/sport2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT ITALIA 🇮🇹
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT ONE 2 HD 🇮🇱
+http://77.137.40.221:8000/play/a01f
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT ONE HD 🇮🇱
+http://77.137.40.221:8000/play/a01d
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT5LIVEHD 🇮🇱
+http://77.137.40.221:8000/play/a00i
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORT5PLUSHD 🇮🇱
+http://77.137.40.221:8000/play/a001
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="Thể Thao" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",SPORTSTARS 2
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="MNCSports4.id" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",SPORTSTARS 4 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",SPORTYTV 🇨🇿
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" group-title="Thể Thao" tvg-logo="https://i.imgur.com/PGm944g.png",San Marino RTV Sport (720p) - 720P
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Setanta Sport 1 🇬🇪
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Setanta Sport 2 🇬🇪
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Setanta Sport 🇺🇦
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 1 🇷🇺
+http://cdntv.online/low/9mlxywika2/1021.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Setenta Sport 2 🇷🇺
+http://cdntv.online/low/9mlxywika2/1022.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" group-title="Thể Thao" tvg-logo="https://i.imgur.com/CsEElsJ.png",Sharjah Sports (1080p) [Geo-blocked] - 1080P
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySport1.nz" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ThJHEuN.png",Sky Sport 1 (1080p) - 1080P
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
+#EXTINF:-1 tvg-id="SkySport2.nz" group-title="Thể Thao" tvg-logo="https://i.imgur.com/cu8yB69.png",Sky Sport 2 (1080p) - 1080P
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+#EXTINF:-1 tvg-id="SkySport5.nz" group-title="Thể Thao" tvg-logo="https://i.imgur.com/xgpKcYh.png",Sky Sport 5 (1080p) - 1080P
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png",Sky Sport Premier League HD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png",Sky Sport1 NZ HD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png",Sky Sport2 NZ HD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png",Sky Sport3 NZ HD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png",Sky Sport4 NZ HD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png",Sky Sport5 NZ HD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png",Sky Sport6 NZ HD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png",Sky Sport7 NZ HD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/mssdWvm.png",Sky Sports F1 HD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/9wrgXyy.png",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/V5FbXRm.png",Sky Sports Football HD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="b2d5d52b-a280-41da-b95c-8a53bef2fc1b" group-title="Thể Thao" tvg-logo="https://s3.aynaott.com/storage/bfb81d3b07ce417ba65ecb5132c9f7c3",Sky Sports GOLF
+https://fifabangladesh.site/?id=b2d5d52b-a280-41da-b95c-8a53bef2fc1b
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" group-title="Thể Thao" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png",Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
+http://supersonictv.live:8080/Bobby1/Bobby1/78151
+#EXTINF:-1 tvg-id="sky-sports-golf-hd" group-title="Thể Thao" tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png",Sky Sports Golf HD
+http://supersonictv.live:8080/006779/439866/78151
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/zzeXXYF.png",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/buUigAI.png",Sky Sports News-HD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" group-title="Thể Thao" tvg-logo="https://i.imgur.com/CMChNM4.png",Sky Sports PremierLeague HD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp+.uk" group-title="Thể Thao" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png",Sky Sports+ HD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",SkySport Golf FHD
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/107882
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",SkySports Golf
+http://tvmate.icu:8080/69NpyV/884735/35238
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1024px-Sky_Sport_Golf_-_Logo_2018.svg.png",SkySports Golf FHD
+http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35240
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://mundo2.pro:80/images/9b522a6209596c2b7b32657412962238.png",Skysports LaLiga HD
+http://streamingtv.vip:80//live/PqaWkKz2/XtxFA3Jme/406837.ts
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" group-title="Thể Thao" tvg-logo="https://i.gyazo.com/765cce528ddda366695bb178d9dee6da.png",Spectrum SportsNet LA Dodgers
+http://mytvstream.net:8080/live/bn80NG/909467/31636.m3u8
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77422_dark_360w_270h.png",Spectrum SportsNet Lakers
+http://mytvstream.net:8080/live/bn80NG/909467/20946.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.5.4K.il" group-title="Thể Thao" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png",Sport5_4k
+https://7pal.short.gy/5sport
+#EXTINF:-1 tvg-id="SportsTV.tr" group-title="Thể Thao" tvg-logo="https://i.imgur.com/tGTVcVe.jpg",Sports TV (720p) [Geo-blocked] - 720P
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (1080p) - 1080P
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png",SportsNet New York
+http://212.102.60.231/SNY/index.m3u8
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26028_dark_360w_270h.png",SportsNet Pittsburgh
+http://mytvstream.net:8080/live/bn80NG/909467/108178.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" group-title="Thể Thao" tvg-logo="https://i.imgur.com/oKnzVLr.png",Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png",Sportsnet 360
+https://stream.decentdoubts.net/803/index.m3u8?token=MnJPcXQ1NlRydE9iZ3BqYXNxMjJ5SlNucTV5dG02K0QyNHZJeDZlbmxZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+#EXTINF:-1 tvg-id="Sportsnet.East.ca2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62109_dark_360w_270h.png",Sportsnet East
+http://mytvstream.net:8080/live/bn80NG/909467/57298.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" group-title="Thể Thao" tvg-logo="https://i.imgur.com/ttlElcO.png",Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:-1 tvg-id="Sportsnet.One.ca2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png",Sportsnet One
+http://mytvstream.net:8080/live/bn80NG/909467/57297.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" group-title="Thể Thao" tvg-logo="https://i.imgur.com/UDfhP02.png",Sportsnet Ontario
+https://7pal.short.gy/sptsneton
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" group-title="Thể Thao" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png",Sportsnet Ontario
+https://stream.decentdoubts.net/801/index.m3u8?token=cTREYWhzaWIxOWlhZ3BpcWh0MkduTVdzcGNpdXk2eURxN21hbktxa200TERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-id="MNCSports3.id" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstars 3 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 1 🇦🇱
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 1 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 2 🇦🇱
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 2 🇦🇱
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 3 🇦🇱
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Super Sport 4 🇦🇱
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="ACTION.za" group-title="Thể Thao" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png",Supersport_Action-HD
+https://7pal.short.gy/sperspat
+#EXTINF:-1 tvg-id="FOOTBALL.za" group-title="Thể Thao" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png",Supersport_Football-HD
+https://7pal.short.gy/sperspfb
+#EXTINF:-1 tvg-id="LA.LIGA.za" group-title="Thể Thao" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Supersport_Laliga-HD
+https://7pal.short.gy/sperspllg
+#EXTINF:-1 tvg-id="EPL.za" group-title="Thể Thao" tvg-logo="https://i.imgur.com/Boxa3qc.png",Supersport_Premier_League-HD
+https://7pal.short.gy/spersppl
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png",TDM Desporto
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-id="TDMSports.mo" group-title="Thể Thao" tvg-logo="https://i.imgur.com/AsWLf8S.png",TDM Sports Ch. 93 (720p) - 720P
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" group-title="Thể Thao" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png",TNT Sport Ultimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Thể Thao" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT Sports 3 HD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="Thể Thao" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png",TVRI Sport (720p) - 720P
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/Lwwq62E.png",TVS Sports (720p) [Not 24/7] - 720P
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/pXOyNEy.png",TVS Sports Bureau (720p) - 720P
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/8hC4PfF.png",TVS Women Sports (720p) - 720P
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_FMjpg_UX1000_.jpg",The.Transporter.1.2002 [31.01.2026]
+https://vidmody.com/vs/tt0293662/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MDM0MTI2N15BMl5BanBnXkFtZTcwNTM5NDczMw@@._V1_.jpg",The.Transporter.2.2005 [31.01.2026]
+https://vidmody.com/vs/tt0388482/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzg1OTU4M15BMl5BanBnXkFtZTcwMjcyMjI5MQ@@._V1_FMjpg_UX1000_.jpg",The.Transporter.3.2008 [28.06.2025]
+https://vidmody.com/vs/tt2938956/
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Tigo Sports  🇦🇷
+http://181.78.50.91:4000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Tigo Sports  🇬🇹
+http://181.209.194.14:8001/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Thể Thao" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sport Stars (Australia) (1080p) - 1080P
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Tring Sport 3 🇦🇱
+http://195.181.169.152:8080/Tring_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Tring Sport 4 🇦🇱
+http://195.181.169.152:8080/Tring_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.imghippo.com/files/GzN2868OBA.jpg",Tyc Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151313
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" group-title="Thể Thao",UK Sky Sports Golf FHD
+http://fortv.cc:8080/TJ6258608/5066258608/35240
+#EXTINF:-1 tvg-id="skysportsgolf.uk" group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",UK: SKY SPORTS GOLF FHD
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/47199
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",UK_gs: Sky Sports Golf
+http://gunslingertv.org:8080/q21zxsxvki901ilI0Ooo)ubf51zaxqw/oopllmnb776111ilIoo0OO0o5tfcvszq/114471
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="http://195.154.136.206/Bein/New/bein_SPORTS_FTA_DIGITAL_Mono.png",US beIN SPORTS La Liga
+http://lunar.pm:8080/AHBTjeP45/18Mvz07fBk/108607
+#EXTINF:-1 tvg-id="" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg",V SPORT GOLF HD (SD)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/113865
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport 4 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294042&extension=ts&play_token=kJl61veKrg
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Football 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294068&extension=ts&play_token=X7FgSJ9YKe
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",Vsport Golf 🇸🇪
+http://trxad.top:80/play/live.php?mac=00:1E:B8:C0:dD:25&stream=294066&extension=ts&play_token=1V0qv2EB94
+#EXTINF:-1 tvg-id="W14DKD5.us" group-title="Thể Thao" tvg-logo="https://i.imgur.com/D4mZ8ll.png",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",WIN SPORT 🇨🇴
+http://190.0.247.38:8000/play/a068
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",WIN SPORT 🇨🇴
+http://181.205.205.173:8888/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" group-title="Thể Thao" tvg-logo="https://i.imgur.com/lta5Mog.png",World of Freesports (1080p) - 1080P
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",YAS Sports HD 🇲🇦
+http://154.197.91.169:8000/play/a0ie/index.m3u8
+#EXTINF:-1 tvg-id="ziggosportgolf.nl" group-title="Thể Thao" tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg",Ziggo Sport Golf FHD (HD)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="Thể Thao" tvg-logo="https://i.imgur.com/jVI5bge.png",Ziggo Sport UHD
+https://7pal.short.gy/ZiggoSport
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Thể Thao" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png",[Primeira Liga] Sporting Braga vs Gil Vicente (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=bein+sports+max+5&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/fr-bein-sports-max-5/playlist.m3u8?token=c268dfd64b5cce30ec521bbd508b2d4f466a290dea489570bd3a502a3ebc4791.1771099282.a5dd6fa7562adffc8a548bdd5affa318.03ed959601b1106cb8667a2bf34d1d10.f379f7ea0e26b5f57dd36130571b415e&signature=d794de74d822a1bdd81a011a94c3ef84162362fef32f593741ce09b891963883
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" group-title="Thể Thao" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png",[Primera Division] Sporting Cristal vs Juan Pablo II College (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sky+sport+bundesliga+4&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/de-sky-sport-bundesliga-4/playlist.m3u8?token=9c340f2959443278bf0f92ab70106acb0a69e6cfa4fbde0f17ec9bf383f0a520.1771099268.e8d170e3983608cb5c57b0c7147ef4de.ec66de50389e5619924f94b25f7c7fd9.2998183d9be1266deee1e57dad11819b&signature=4b050b21891c2ae32aba0625589790621d0b3d609ab6a529ebb69a237425922c
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",beIN SPORTS 1 🇶🇦
+http://135.125.109.73:9000/beinsport1_.m3u8
+#EXTINF:-1 tvg-id="" group-title="Thể Thao",beIN SPORTS 🇲🇦
+http://154.197.91.169:8000/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-id="raisport1" group-title="Thể Thao" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png",raisport1
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" group-title="Thể Thao" tvg-logo="https://i.imgur.com/BKaEtqL.png",Астрахань.Ru Sport (720p) - 720P
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
