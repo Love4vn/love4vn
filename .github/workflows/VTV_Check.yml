@@ -1,0 +1,177 @@
+name: Check IPTV link
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      PLAYLIST_URL:
+        description: 'URL of the playlist to check'
+        required: true
+        default: 'https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/hubsport.m3u'
+      NUM_THREADS:
+        description: 'Number of threads to use'
+        type: number
+        required: true
+        default: '4'
+      TIMEOUT:
+        description: 'Timeout for FFmpeg'
+        type: number
+        required: true
+        default: '25'
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+    
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium requests futures eventlet tqdm colorama
+         
+      - name: Install FFMPEG Dependencies 🧑‍🏭
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies 🧑‍🏭    
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Update
+        run: |
+          # Khởi tạo log
+          DATE=$(date +'%Y-%m-%d %H:%M:%S')
+          echo "### Nhật ký lỗi cập nhật ngày $DATE ###" > error_log.txt
+          
+          # Hàm download an toàn
+          download() {
+            wget -q --no-check-certificate "$1" -O "$2" || { echo "- Lỗi tải link: $1" >> error_log.txt; return 0; }
+          }
+
+          # VTV Source
+          rm -f Grab_VTV.m3u && touch Grab_VTV.m3u
+          
+          download "https://raw.githubusercontent.com/ngvhiem/IPTV/refs/heads/main/IPTV-FPT.m3u" "000VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/# VTV/d;/#KODIPROP/d' 000VTV.m3u || true
+          sed -i -n '/"VTV"/,+1p;/,AXN/,+1p;/,Cinema/,+1p;/,CINEMAX/,+1p;/,Dreamworks/,+1p;/,Fashion/,+1p;/,HBO/,+1p;/,Warner/,+1p;/,Vietnam Today/,+1p' 000VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/ngtrian/IPTV-List/refs/heads/main/fpt-udp-list" "1VTV.m3u"
+          sed -i '/#EXTM3U url/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/"Others"/d;/#KODIPROP/d' 1VTV.m3u || true
+          sed -i -n '/"VTV"/,+1p;/,AXN/,+1p;/,Cinema/,+1p;/,CINEMAX/,+1p;/,Dreamworks/,+1p;/,Fashion/,+1p;/,HBO/,+1p;/,Warner/,+1p;/,Vietnam Today/,+1p' 1VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/pipitivi/iptv/refs/heads/main/pipitv" "2VTV.m3u"
+          sed -i -n '/"VTV"/,+1p' 2VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/pipitivi/iptv/refs/heads/main/FPT.m3u" "3VTV.m3u"
+          sed -i -n '/"VTV"/,+1p' 3VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/thoike84/iptv-vn/refs/heads/main/phattai84.txt" "4VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 4VTV.m3u || true
+          sed -i -n '/"🇻🇳| VTV"/,+1p;/,Vietnam Today/,+1p' 4VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/fpt/refs/heads/main/fpt" "5VTV.m3u"
+          sed -i -n '/"VTV"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 5VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ducnt123" "99VTV.m3u"
+          sed -i -n '/"VTV"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 99VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/Fpt_da_mang/refs/heads/main/FPT" "6VTV.m3u"
+          sed -i -n '/"VTV [^"]*"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 6VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/List_Tonghop/refs/heads/main/Total_Channel" "7VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 7VTV.m3u || true
+          sed -i -n '/,VTV/,+1p' 7VTV.m3u || true
+          sed -i 's/F:-1 /F:-1 group-title="Kenh VTV" /g' 7VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/List_Tonghop/refs/heads/main/Total_Channel" "77VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 77VTV.m3u || true
+          sed -i -n '/,VTV/,+1p' 77VTV.m3u || true
+          sed -i 's/F:-1 /F:-1 group-title="Kenh VTV" /g' 77VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/List_Tonghop/refs/heads/main/Total_Channel" "8VTV.m3u"
+          sed -i -n '/,VTV/,+1p;/,Vietnam Today/,+1p' 8VTV.m3u || true
+          sed -i 's/F:0 /F:-1 group-title="Kenh VTV" /g' 8VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/List_Tonghop/refs/heads/main/Total_Channel" "88VTV.m3u"
+          sed -i -n '/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p' 88VTV.m3u || true
+          sed -i 's/F:0 /F:-1 group-title="In The Box" /g' 88VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/doxuanhoa/IPTV/refs/heads/main/list" "9VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/vtvcab/d;/#KODIPROP/d' 9VTV.m3u || true
+          sed -i -n '/"VTV[^"]*"/,+1p;/,Vietnam Today/,+1p' 9VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/boss379/vtv/refs/heads/main/vtvpro" "10VTV.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d;/#KODIPROP/d' 10VTV.m3u || true
+          sed -i '/,LẠNG SƠN TV/{N; /,LẠNG SƠN TV/d;};/QPVN/{N; /QPVN/d;};/ANTV/{N; /ANTV/d;};/quocphongvn/{N; /quocphongvn/d;}' 10VTV.m3u || true
+          sed -i -n '/"VTV [^"]*"/,+1p;/AXN/,+1p;/Box Hits/,+1p;/Cinema/,+1p;/Dreamworks/,+1p;/Fashion TV/,+1p;/HBO/,+1p;/Warner/,+1p;/Box Movie/,+1p;/Hollywood/,+1p;/In The Box/,+1p;/History/,+1p;/"K+ Channels"/,+1p;/,Vietnam Today/,+1p' 10VTV.m3u || true
+
+          download "https://raw.githubusercontent.com/thoike84/iptv-vn/refs/heads/main/phattai84.txt" "3Movie.m3u"
+          sed -i '/#EXTM3U/d;/#list/d;/#EXTVLCOPT/d;/#http/d' 3Movie.m3u || true
+          sed -i -n '/"🇻🇳| K+"/,+1p;/,AXN/,+1p;/,HBO/,+1p;/,WBTV/,+1p;/,History/,+1p;/,Vietnam Today/,+1p' 3Movie.m3u || true
+
+          download "https://hanoiiptv.short.gy/HaNoiIPTV" "BOX1.m3u" && sed -i -n '/"KÊNH VTV"/,+1p;/"KÊNH BOX"/,+1p;/,VIETNAM TODAY/,+1p' BOX1.m3u || true
+          download "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" "BOX2.m3u" && sed -i -n '/"📦| In The Box"/,+1p;/,Vietnam Today/,+1p' BOX2.m3u || true
+          download "https://raw.githubusercontent.com/BlackHawk80/Funy/refs/heads/main/Funy" "BOX3.m3u" && sed -i '/#EXTVLCOPT/d;/#http/d' BOX3.m3u && sed -i -n '/"💕| VTV"/,+1p;/"📽️| Minh Đức Giải Trí"/,+2p;/,Vietnam Today/,+1p' BOX3.m3u || true
+          download "https://raw.githubusercontent.com/thaichieucm92/MyTV/refs/heads/main/MyTVnew" "BOX4.m3u" && sed -i -n '/"VTV"/,+1p;/" In the box"/,+2p;/,Vietnam Today/,+2p' BOX4.m3u || true
+          
+          # Gộp file an toàn
+          cat 99VTV.m3u 9VTV.m3u 10VTV.m3u 000VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 4VTV.m3u 5VTV.m3u 6VTV.m3u 7VTV.m3u 77VTV.m3u 8VTV.m3u 88VTV.m3u 3Movie.m3u BOX1.m3u BOX2.m3u BOX3.m3u BOX4.m3u >> Grab_VTV.m3u 2>/dev/null || true
+          
+          # Clean up và format
+          rm -f 00VTV.m3u 0VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 4VTV.m3u 5VTV.m3u 6VTV.m3u 7VTV.m3u 77VTV.m3u 8VTV.m3u 88VTV.m3u 9VTV.m3u 10VTV.m3u 0Movie.m3u 1Movie.m3u 2Movie.m3u 3Movie.m3u BOX1.m3u BOX2.m3u BOX3.m3u BOX4.m3u 99VTV.m3u
+          sed -i 's/,Chanel 249/,VTV1/g;s/"Others"/"Kenh VTV"/g;s/"Truyền hình trong nước"/"Kenh VTV"/g;s/"VTV[^"]*"/"Kenh VTV"/g;s/"📦🍬 VTV💯🔔"/"Kenh VTV"/g;s/"🌺| VTV"/"Kenh VTV"/g;s/"💕| VTV HD"/"Kenh VTV"/g;s/"[^"]*VTV[^"]*"/"Kenh VTV"/g;s/"🇻🇳| VTV"/"Kenh VTV"/g;s/"🇻🇳| VTV Dự Phòng"/"Kenh VTV"/g;s/"❤| VTV"/"Kenh VTV"/g;s/VTV Cần Thơ/VTV_Can_Tho/g;s/VTV CẦN THƠ/VTV_Can_Tho/g;s/VTV Can Tho/VTV_Can_Tho/g' Grab_VTV.m3u || true
+          sed -i '/,ON SPORT/{N; /,ON SPORT/d;}' Grab_VTV.m3u || true
+          sed -i '/^\s*$/d' Grab_VTV.m3u || true
+
+          # Relax & hubsport Source
+          #rm -f hubsport.m3u && touch hubsport.m3u
+          #download "https://raw.githubusercontent.com/appeloper/contents/master/iptv/United%20States%20free%20Samsung.m3u" "Relax1.m3u" && sed -i -n '/"Comedy"/,+1p' Relax1.m3u || true
+          #download "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u" "Relax2.m3u" && sed -i -n '/"Movies"/,+1p' Relax2.m3u || true
+          
+          # Các link khác làm tương tự để bảo vệ workflow
+          #download "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/tv/m3u/PlutoTV_tv_US.m3u" "Relax3.m3u" && sed -i -n '/"Comedy"/,+1p' Relax3.m3u || true
+          
+          # (Tiếp tục gộp các link Relax/Film khác...)
+          #cat Relax1.m3u Relax2.m3u Relax3.m3u >> hubsport.m3u 2>/dev/null || true
+          
+          # Cuối cùng ghi log vào README
+          echo "Update IPTV in $DATE! ✨CXT✨!" > README.md
+          echo "" >> README.md
+          cat error_log.txt >> README.md
+
+      - name: Run Sort VTV link
+        run: python ${{ github.workspace }}/VTV_sort.py
+
+      - name: Run Check Sport link
+        run: python ${{ github.workspace }}/Sport_check_v2.py
+
+      - name: Run Check Live link
+        run: python ${{ github.workspace }}/Time_sort.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "Love4vn@gmail.com"
+          git config --local user.name "Love4vn"
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -m "$(TZ=Asia/Ho_Chi_Minh date +'%Y-%m-%d %H:%M:%S') ：💡Update " || exit 0
+          git branch -D main
+          git branch -m main
+
+      - name: Push
+        run: git push -f origin main

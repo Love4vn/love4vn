@@ -1,0 +1,161 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Ho_Chi_Minh
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S GMT+7')" >> $GITHUB_ENV
+    
+    - name: Update
+      run: |
+        # Khởi tạo file log
+        echo "### Nhật ký lỗi ngày $DATE ###" > error_log.txt
+        
+        # Hàm hỗ trợ tải và báo lỗi
+        download() {
+          wget --no-check-certificate "$1" -O "$2" || { echo "- Lỗi tải: $1" >> error_log.txt; return 1; }
+        }
+
+        # VTV Source
+        rm -f VTV.m3u && touch VTV.m3u
+        download "https://raw.githubusercontent.com/thaidqt/IPTV/refs/heads/main/NEWS" "1dtVTV.m3u" && sed -i -n '/"🇻🇳| VTV"/,+2p' 1dtVTV.m3u || true
+        download "https://raw.githubusercontent.com/thaidqt/IPTV/refs/heads/main/NEWS" "2dtVTV.m3u" && sed -i -n '/"VTV LCV"/,+2p' 2dtVTV.m3u || true
+        
+        cat 1dtVTV.m3u 2dtVTV.m3u >> VTV.m3u 2>/dev/null || true
+        sed -i '/#EXTVLCOPT/d;/#http/d' VTV.m3u || true
+        sed -i 's/"🇻🇳VTV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/"❤️|VTV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/"🌎| VTV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/"💙| VTC"/"💙|Kênh VTC"/g;s/"🥏| VTVCabSCTV"/"🥏|Kênh VTVCab"/g;s/"🧡| VTVcabTV360"/"🥏|Kênh VTVCab"/g' VTV.m3u || true
+        
+        # VTV Other Sources
+        download "https://raw.githubusercontent.com/tongbinhnguyen/iptv/main/tbn" "0VTV.m3u" && {
+          sed -i '/#EXTM3U url/d;/#list/d' 0VTV.m3u
+          sed -i '1i #EXTINF:-1 group-title="🇻🇳📺| Nhóm Kênh VTV 📢",------------🌟🌟🌟-VTV from TBN Sources-🌟🌟🌟------------' 0VTV.m3u
+        } || true
+        
+        download "https://raw.githubusercontent.com/kupjta/iptv/main/kupjtv.m3u" "1VTV.m3u" && sed -i -n '/"VTV"/,+1p' 1VTV.m3u || true
+        #download "https://raw.githubusercontent.com/huynhconghuong2004/iptv/refs/heads/main/Vi%C3%AA%CC%A3t%20-%20Nga%20TV.m3u" "2VTV.m3u" && sed -i -n '/"KÊNH BOX"/,+1p;/"KÊNH K+"/,+1p' 2VTV.m3u || true
+        download "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv" "3VTV.m3u" && sed -i -n '/"📦| In The Box"/,+2p' 3VTV.m3u || true
+        download "https://raw.githubusercontent.com/BlackHawk80/Funy/refs/heads/main/Funy" "6VTV.m3u" && sed -i -n '/"💕| VTV"/,+1p;/"📽️| Minh Đức Giải Trí"/,+2p' 6VTV.m3u || true
+        
+        cat 1VTV.m3u 2VTV.m3u 3VTV.m3u 6VTV.m3u >> VTV.m3u 2>/dev/null || true
+        rm -f 0VTV.m3u 1VTV.m3u 2VTV.m3u 3VTV.m3u 6VTV.m3u
+        sed -i 's/"VTV LCV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/"🇻🇳| VTV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/"VTV"/"🇻🇳📺| Nhóm Kênh VTV 📢"/g;s/, VTV1/,🌺| VTV1/g' VTV.m3u || true
+
+        # VCTV Source
+        rm -f VCTV.m3u && touch VCTV.m3u
+        download "https://raw.githubusercontent.com/iptivi/apptv1/main/apptv1.m3u" "VCTV_ALL.m3u" && {
+          sed -n '/VTC/,+1p' VCTV_ALL.m3u > VCTV1.m3u
+          sed -n '/Sport/,+1p' VCTV_ALL.m3u > VCTV2.m3u
+          sed -n '/SCTV/,+1p' VCTV_ALL.m3u > VCTV3.m3u
+          cat VCTV1.m3u VCTV2.m3u VCTV3.m3u >> VCTV.m3u
+        } || true
+        rm -f VCTV_ALL.m3u VCTV1.m3u VCTV2.m3u VCTV3.m3u
+        sed -i '1i #EXTM3U' VCTV.m3u || true
+
+        # Hubsport Source (Các nguồn thể thao)
+        rm -f hubsport.m3u && touch hubsport.m3u
+   
+    - name: Download & Filter Sports Channels from Multiple Playlists
+      run: |
+        # DANH SACH LINK (bạn chỉnh ở đây nếu cần thêm)
+        URLS=(
+          "https://raw.githubusercontent.com/atim2515/ATIM_BOSTON/refs/heads/main/A"
+          "https://raw.githubusercontent.com/MaximKiselev/iptv/main/playlist.m3u"
+          "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+          "https://raw.githubusercontent.com/Mr-DS-ML-85/IPTV-98/refs/heads/main/playlist/playtv.m3u"
+          "https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25"
+        )
+
+        echo "#EXTM3U" > combined.m3u
+
+        for url in "${URLS[@]}"; do
+          echo "→ Đang tải: $url"
+          wget -q --show-progress --no-check-certificate "$url" -O temp.m3u || {
+            echo "Không tải được $url" >&2
+            continue
+          }
+          tail -n +2 temp.m3u >> combined.m3u 2>/dev/null || true
+          rm -f temp.m3u
+        done
+
+        echo "Tổng hợp xong $(wc -l < combined.m3u) dòng. Bắt đầu lọc..."
+
+        # AWK DA SUA: pattern rút gọn + tách OR + fallback tolower($0)
+        awk '
+          BEGIN { print "#EXTM3U" }
+
+          /^#EXTINF/ {
+            extinf = $0
+            match($0, /,[^,]+$/)
+            channel_name = (RLENGTH > 0) ? tolower(substr($0, RSTART+1, RLENGTH-1)) : ""
+
+            # Pattern rút gọn, thay " " bằng "_" hoặc loại bỏ
+            match_sport = (channel_name ~ /sport|j_sports|gaora|sky_a|bein|trace|sgrid|liveplus|cbs|nba|nfl|uefa|premier|liga|bundes|serie|laliga|champions|motogp|f1|formula|wwe|ufc|boxing|fight|samurai|redbull|dazn|espn|foxsports|tnt|eurosport|spotv|truesport|pptv|thsport|thsports|vsport|ksport|astro|supersport|starsports/)
+
+            # Fallback: nếu tên kênh không match, check toàn bộ dòng (group-title hoặc tag)
+            if (!match_sport) {
+              match_sport = (tolower($0) ~ /sport|espn|sky|bein|nba|nfl|uefa|спорт/)
+            }
+
+            if (match_sport) {
+              gsub(/group-title="[^"]*"/, "group-title=\"🎎|Selection Sport|🎎\"", extinf)
+              if (extinf !~ /group-title=/) {
+                sub(/,[^,]+$/, " group-title=\"🎎|Selection Sport|🎎\"", extinf)
+              }
+              print extinf
+              waiting = 1
+            } else {
+              waiting = 0
+            }
+          }
+
+          waiting && /^https?:\/\// {
+            print $0
+            waiting = 0
+          }
+        ' combined.m3u > TimIPTV1.m3u
+
+        # Dọn dẹp
+        sed -i 's/  */ /g; s/ *, */,/g; s/" */"/g; s/ *"/"/g' TimIPTV1.m3u
+
+        rm -f combined.m3u
+
+        echo "Hoàn tất!"
+        echo "Số kênh lọc được: $(grep -c "^#EXTINF" TimIPTV1.m3u || echo 0)"
+        echo "Debug: 30 dòng đầu của TimIPTV1.m3u:"
+        head -n 30 TimIPTV1.m3u
+
+        # Ghép Buddy (không lọc)
+        wget -q --no-check-certificate "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8" -O BuddySports.m3u || true
+        cat TimIPTV1.m3u BuddySports.m3u >> hubsport.m3u 2>/dev/null || true
+        rm -f TimIPTV1.m3u BuddySports.m3u || true
+
+        # Cập nhật README với Log lỗi
+        echo "Auto Update IPTV in $DATE! ✨CXT✨!" > README.md
+        echo "" >> README.md
+        cat error_log.txt >> README.md
+    - name: Clean
+      run: |
+        git config --local user.email "Love4vn@gmail.com"
+        git config --local user.name "Love4vn"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "Update $DATE"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main

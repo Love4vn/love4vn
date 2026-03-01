@@ -1,0 +1,255 @@
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hbohd" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HBO_2010_%28Silver%29.png/revision/latest ?cb=20230119144322&path-prefix=vi" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",HBO Việt Nam (SD)
+http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hbohd" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",HBO (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.112:30120
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hbohd" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",HBO (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.233:30120
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hbohd" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",HBO (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.90:30120
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hbohd" tvg-logo="https://img.lichphatsong.xyz/logo/hbohd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",HBO (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.183:30120
+
+#EXTINF:-1 tvg-name="" tvg-id="boxmovie1" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/Box-Movie1-BEARTV.png " group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" catchup="" catchup-source="" catchup-days="" :http-referrer="http://sctvonline.vn" :http-user-agent="ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3",BOX Movie
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-name="" tvg-id="warnertvhd" tvg-logo="https://i.pinimg.com/originals/79/42/27/7942275bccc3ba8a635b9d88d34efdd1.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Warner Bros
+http://gg.gg/HaNoiIPTV-Warner_TV_HD
+
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="axnhd" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",AXN (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.225:30120
+#EXTINF:-1 tvg-name="AXN HD" tvg-id="axnhd" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",AXN (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.9:30120
+#EXTINF:-1 tvg-id="http://viettel.nekocdn.xyz/AXN/index.m3u8" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/AXN%20HD.png",AXN HD
+http://gg.gg/HaNoiIPTV-AXN_HD
+
+#EXTINF:-1 tvg-name="Baby TV" tvg-id="babytvhd" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Baby TV (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.146:30120
+
+#EXTINF:-1 tvg-name="Animax HD" tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Animax (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.135:30120
+#EXTINF:-1 tvg-name="Animax HD" tvg-id="animaxhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Animax HD (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.168:30120
+
+#EXTINF:-1 tvg-name="Dreamworks HD" tvg-id="dreamworks" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Dreamworks (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.136:30120
+#EXTINF:-1 tvg-name="Dreamworks HD" tvg-id="dreamworks" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Dreamworks (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.39:30120
+
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",CARTOON NETWORK (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.231:30120
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-id="cartoonhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",CARTOON NETWORK (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.13:30120
+
+#EXTINF:-1 tvg-name="Cinema World HD" tvg-id="cinemaworldhd" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Cinema World (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.142:30120
+#EXTINF:-1 tvg-name="Cinema World HD" tvg-id="cinemaworldhd" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaworldhd.jpg" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",Cinema World (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.15:30120
+
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-id="cinemaxhd" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",CINEMAX (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.86:30120
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-id="cinemaxhd" tvg-logo="https://img.lichphatsong.xyz/logo/cinemaxhd.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣",CINEMAX (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.205:30120
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" catchup="append" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-9000.m3u8" catchup-days="0.3" :http-referrer="" :http-user-agent="",Cinemax
+http://gg.gg/HaNoiIPTV-Cinemax_HD
+
+#EXTINF:-1 tvg-name="" tvg-id="boxhits" tvg-logo="https://raw.githubusercontent.com/Hannstcott/logo/main/box_hits.png" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Box Hits
+https://hqth.me/hIPQ
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/boxhits
+#EXTINF:-1 tvg-id="manhd" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/manhd
+#EXTINF:-1 tvg-id="musicbox" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/musicbox
+#EXTINF:-1 tvg-id="drfithd" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids TV360
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=https://sctvonline.vn/
+#EXTINF:0 tvg-id="boxhits" group-title="🎬🎞️ 🅼🅾🆅🅸🅴 🔍📣" logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
+https://tth.vn/KhichTV-ok80-box-hits-hd-playlist.m3u8
+
+#EXTINF:-1 group-title="⚽🥎Livestream🏆🏅" tvg-logo="https://tenor.com/view/live-gif-26544558",⚽🥎Livestream🏆🏅
+#EXTINF:-1 tvg-logo="https://tenor.com/view/trip-vacation-mode-fly-flying-plane-gif-18181072424799211887" group-title="😜✨| Relax 😋",😜✨| Relax 😋
+
+#EXTINF:-1 tvg-name="" tvg-id="lovenature4k" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="Du lịch-Khám phá" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="loupe4k" tvg-logo="https://info.loupeart.com/wp-content/uploads/2022/04/Loupe-logo_-disc-icon-300x232.png" group-title="Du lịch-Khám phá" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Loupe 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+
+#-------------------Quốc tế-------------------#
+#EXTINF:-1 group-title="Quốc Tế (HD)",ABC AUSTRALIA (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.231:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.198:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.134:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Lifestyle (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.52:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC News (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.74:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Bloomberg (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.91:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.138:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNA (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.202:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNN (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.242:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.197:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.223:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.238:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.46:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.227:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 (English) (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.211:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.196:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.144:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.235:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.211:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.47:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.2.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.236:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.200:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.139:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Arirang
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.201:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNBC
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",ABC AUSTRALIA (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.19:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.209:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",Asian Food Network (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.36:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",BabyTV (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.207:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC CBeeBies (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.29:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Earth (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Lifestyle (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.23:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC News (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.22:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BLOOMBERG (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.18:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.16:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNA (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.76:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNN (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.17:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.208:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.25:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.24:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.75:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FASHION TV (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.20:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.212:30120
+
+#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.214:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.40:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.83:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.73:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.210:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.26:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.213:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV HD (HD 4Mbps)
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.14:30120
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest?cb= 20170410181255" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest?cb= 20170410181255" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ABC News Australia (Luồng LaoTV)
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/MTV_vietnam_logo_2021.png/revision/latest?cb= 20210926025917&path-prefix=vi" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sbs_Korea_Logo_%28Word_Only%29.svg/revision/ mới nhất/tỷ lệ-to-width-down/250?cb=20210214211744" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",SBS Hàn Quốc
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/MBC_2005.png/revision/latest?cb= 20230916064222&path-prefix=vi" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",MBC Hàn Quốc
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korea_Central_Television_2005.svg/revision/latest?cb= 20180426214949" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",KCTV Triều Tiên
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Lntv1logo.png/revision/latest?cb= 20170730160139" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",LNTV1 Lào (Luồng LaoTV)
+https://edge1.laotv.la/live/LNTV1/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/Lntv3.png/revision/latest?cb= 20220308011555&path-prefix=vi" group-title="Quốc Tế (HD)" catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",LNTV3 Lào (Luồng LaoTV)
+https://edge1.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/ZooMoo_2020.png/revision/latest?cb=20231107095003&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",ZooMoo
+https://cdn-apse1-prod.tsv2.amagi.tv/Tuyến/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/Baby_TV.png/revision/latest?cb=20220208080006&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",BabyTV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Cartoon Network
+http://s4.nihontv.net:21585/cartoon/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Cartoon Network Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Cartoon_Network_logo.svg/revision/latest?cb=20230502034414&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Cartoon Network Asia (Luồng LaoTV)
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Cartoonito_logo.png/revision/latest?cb=20240103022339&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Cartoon Nito Asia
+https://bkm.beetv.kz/btv/live/hls/000000160.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Animax (Luồng NNT1709 Network)
+https://hqth.me/nnt1709animax
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/Animax_2016.png/revision/latest?cb=20231230054213&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Animax Asia
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Disney_Channel_2014_2.png/revision/latest?cb=20231005234741&path-prefix=vi" group-title="Nhóm Kênh Thiếu Nhi " catchup="" catchup-source="" catchup-days="" :http-referrer="" :http-user-agent="",Disney Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/421444
