@@ -180,7 +180,7 @@ def process_playlist(playlist: str, save_file: Optional[str], num_threads: int =
 
     if playlist.startswith('http'):
         try:
-            content = requests.get(playlist).text
+            content = requests.get(playlist, timeout=10.0).text
         except requests.RequestException as e:
             logging.error(f"Failed to download playlist: {e}")
             sys.exit(1)
