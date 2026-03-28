@@ -1,0 +1,52 @@
+name: Clean M3U Playlist
+
+on:
+  schedule:
+    - cron: '45 * * * *'
+  push:
+    paths:
+      - 'output.m3u'
+      - '.github/workflows/clean.yml'
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Rust
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+        with:
+          toolchain: stable
+
+      - name: Cache cargo registry
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Build
+        run: cargo build --release
+
+      - name: Run cleaner
+        run: cargo run --release
+
+      - name: Commit cleaned playlist
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-clean output.m3u [skip ci]"
+          file_pattern: output_clean.m3u
+          commit_user_name: "CXT Cleaner Bot"
+          commit_user_email: "cxt-bot@users.noreply.github.com"
+          skip_fetch: true
+          disable_globbing: true

@@ -1,0 +1,121 @@
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",🌺| VTV1
+https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/01.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" , VTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" , VTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="🇻🇳📺| Nhóm Kênh VTV 📢" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg", Box Hits
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png", Music Box
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png", Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="vtv1hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/NfRs8gt/VTV1.png",❤️| VTV1 ¹⁰⁸⁰
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-id="vtv2hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/pBs0KHnC/VTV2.png",❤️| VTV2 ¹⁰⁸⁰
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-id="vtv3hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/ksR7NgKx/VTV3.png",❤️| VTV3 ¹⁰⁸⁰
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-id="vtv4hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/mCKFb8b6/VTV4.png",❤️| VTV4 ¹⁰⁸⁰
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-id="vtv5hd" group-title="💕| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png",❤️| VTV5 ¹⁰⁸⁰
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-id="vtvcantho" group-title="💕| VTV" tvg-logo="https://i.ibb.co/ycFFS1xF/Logo-vtv-c-n-th-2022.png",❤️| VTV6 ¹⁰⁸⁰
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-id="vtv7hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/Cs0jZTQf/VTV7.png",❤️| VTV7 ¹⁰⁸⁰
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-id="vtv8hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/7tNW1G5h/VTV8.png",❤️| VTV8 ¹⁰⁸⁰
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-id="vtv9hd" group-title="💕| VTV" tvg-logo="https://i.ibb.co/Pz4gGbxh/VTV9.png",❤️| VTV9 ¹⁰⁸⁰
+udp://@225.1.1.128:30120
+#EXTINF:-1 group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/pjnAxys.png" group-title="📽️| Minh Đức Giải Trí",▶️| Cinemax
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/ss7qbgg/Cinema-World-cc.png" group-title="📽️| Minh Đức Giải Trí",▶️| Cinema World
+udp://@225.1.1.142:30120
+#EXTINF:-1 tvg-id="hbohd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.imgur.com/w5u4IrO.png",▶️| HBO ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="warnertvhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/myLbZ8m/8124486-new-wtv-logo.png",▶️| WBTV ¹⁰⁸⁰
+udp://@225.1.1.139:30120
+#EXTINF:-1 tvg-id="axnhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/QHzdjXX/ccaxn.webp",▶️| AXN ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="quochoi" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/hJbxfGBn/kix.webp",▶️| KIX ¹⁰⁸⁰
+udp://@225.1.3.78:30120
+#EXTINF:-1 tvg-id="kbsworld" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/s1Dxmd5/KBSWorld.png",▶️| KBS WORLD ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="hits" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/M9LfBRM/Gottalent.png", America's Got Talent¹⁰⁸⁰
+https://jmp2.uk/sam-GBBC2300002GG.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-logo="https://i.ibb.co/FgymSBY/900.png" group-title="📽️| Minh Đức Giải Trí", Action Hollywood Movies
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/vLLJPWZ/cchollywood.webp",▶️| Hollywood Classics
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/OnliveTV/hollywood-classic-hd/Free.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",▶️| In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/OnliveTV/in-the-box/Free.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",▶️| BOX Movie¹
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/OnliveTV/box-movie-1-hd/Free.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/JsQ2W4Q/Box-Hits-cc.webp",▶️| Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
+#EXTINF:-1 tvg-id="man" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/0CPzK4F/Man-150x901j3.png",▶️| Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/MGcnhnG/Woman-cc.png",▶️| Woman
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://HaNoiIPTV.short.gy/HaNoiIPTV-WOMAN_HD
+#EXTINF:-1 tvg-id="drfithd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/0K7HcKn/static-assets-upload13174741322686086309.png",▶️| Dr.Fit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://toiyeuvietnam.dpdns.org/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion Show ¹⁰⁸⁰
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="📽️| Minh Đức Giải Trí" tvg-logo="https://i.ibb.co/XL02Bpx/pngwing-com.png",▶️| Fashion TV ¹⁰⁸⁰
+#EXTINF:-1 tvg-id="FashionTelevision.uk" tvg-logo="https://i.ibb.co/Vxk95xf/Miss-FTV-FINAL.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV UHD ⁴ᴷ
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-logo="https://i.ibb.co/k3FLSWR/fashion.png" group-title="📽️| Minh Đức Giải Trí",▶️| Fashion TV Midnight Secrets ¹⁰⁸⁰
