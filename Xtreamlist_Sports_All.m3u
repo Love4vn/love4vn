@@ -1715,32 +1715,28 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="live2026miamiopentennisallprimede" tvg-name="Live | 2026 Miami Open Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | 2026 Miami Open Tennis | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="livedeutschlandu19griechenlandallprimede" tvg-name="Live | Deutschland U19 - Griechenland | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Deutschland U19 - Griechenland | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="liveeiskunstlaufweltmeisterschafteiskunstlaufwmallprimede" tvg-name="Live | Eiskunstlauf: Weltmeisterschaft: Eiskunstlauf : WM | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Eiskunstlauf: Weltmeisterschaft: Eiskunstlauf : WM | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="livegrandprixoftheamericasqualifyingallprimede" tvg-name="Live | Grand Prix of the Americas - Qualifying | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Grand Prix of the Americas - Qualifying | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="liveheatvscavaliersallprimede" tvg-name="Live | Heat vs. Cavaliers | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Heat vs. Cavaliers | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="livehungaryvssloveniaallprimede" tvg-name="Live | Hungary vs. Slovenia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Hungary vs. Slovenia | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="livemarseillemontpellierallprimede" tvg-name="Live | Marseille - Montpellier | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Marseille - Montpellier | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="livemoto3gpracingallprimede" tvg-name="Live | Moto3 GP Racing | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Moto3 GP Racing | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="next1103gmtbkfcfightnightportervswilsonallprimede" tvg-name="Next | 11:03 (GMT) | BKFC Fight Night: Porter vs. Wilson | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:03 (GMT) | BKFC Fight Night: Porter vs. Wilson | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="next1103gmtgrandprixoftheamericasqualifyingallprimede" tvg-name="Next | 11:03 (GMT) | Grand Prix of the Americas - Qualifying | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:03 (GMT) | Grand Prix of the Americas - Qualifying | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="next1103gmtpistonsvstimberwolvesallprimede" tvg-name="Next | 11:03 (GMT) | Pistons vs. Timberwolves | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:03 (GMT) | Pistons vs. Timberwolves | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1103gmtsebastianfundoravskeiththurmanallprimede" tvg-name="Next | 11:03 (GMT) | Sebastian Fundora vs. Keith Thurman | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:03 (GMT) | Sebastian Fundora vs. Keith Thurman | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
