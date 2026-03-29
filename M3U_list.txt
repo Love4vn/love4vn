@@ -152,13 +152,13 @@ https://raw.githubusercontent.com/fnsc/stremio-m3u/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/bulbulbalia/BEST_M3U_2026/refs/heads/main/BEST_M3U_2026.M3U
 https://raw.githubusercontent.com/zhlshrimp/HB_m3u/refs/heads/main/all_live.m3u
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/m3u/ser1.m3u
-https://raw.githubusercontent.com/rkbro23/rk_playlist/refs/heads/main/playlist.m3u
+#https://raw.githubusercontent.com/rkbro23/rk_playlist/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/channels/all_sports_sources.m3u8
 https://raw.githubusercontent.com/dokemodo/public_tmp_file/refs/heads/main/FPTLan
 https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 https://raw.githubusercontent.com/quervo/my-playlists/refs/heads/main/ownottlist.m3u
 https://raw.githubusercontent.com/Muji777/Exp/refs/heads/main/Sports.m3u
-
+https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u
 
 
 
