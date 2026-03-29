@@ -1751,18 +1751,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="livearmeniavsbelarusallprimede" tvg-name="Live | Armenia vs. Belarus | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Armenia vs. Belarus | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="liveinflandersfieldsfrommiddelkerketowevelgemuciworldtourmännermiddelkerkewevelgem2408kmallprimede" tvg-name="Live | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="livelarouetourangelleucieuropetourmännerenglischerkommentarallprimede" tvg-name="Live | La Roue Tourangelle UCI Europe Tour | Männer | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | La Roue Tourangelle UCI Europe Tour | Männer | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="livelithuaniavsgeorgiaallprimede" tvg-name="Live | Lithuania vs. Georgia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Lithuania vs. Georgia | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="liveradsportinflandernfieldseintagesrennendermännerallprimede" tvg-name="Live | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="livewmschaulaufenpragallprimede" tvg-name="Live | WM | Schaulaufen Prag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | WM | Schaulaufen Prag | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="next1203gmtathleticsatbluejaysallprimede" tvg-name="Next | 12:03 (GMT) | Athletics at Blue Jays | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Athletics at Blue Jays | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1203gmtradsportinflandernfieldseintagesrennenderfrauenallprimede" tvg-name="Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Frauen | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="next1203gmtradsportinflandernfieldseintagesrennenderfrauenallprimede" tvg-name="Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Frauen | all | PRIME-DE
@@ -1773,10 +1763,20 @@ http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1203gmtrealzaragozavsrealracingcluballprimede" tvg-name="Next | 12:03 (GMT) | Real Zaragoza vs. Real Racing Club | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Real Zaragoza vs. Real Racing Club | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1203gmtredsoxatredsallprimede" tvg-name="Next | 12:03 (GMT) | Red Sox at Reds | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Red Sox at Reds | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
