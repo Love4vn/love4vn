@@ -691,6 +691,8 @@ http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 http://myxpanel.pro:80/live/Martin/Martin/288360.ts
 #EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyZ6bBZoj6QVm2KM6bJ8N6Cj00f6lgX5MSZTos52oZxk4.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288359.ts
+#EXTINF:-1 tvg-id="tennis03" tvg-name=":Tennis  03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  03
+http://myxpanel.pro:80/live/Martin/Martin/625755.ts
 #EXTINF:-1 tvg-id="tennis04" tvg-name=":Tennis  04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  04
 http://myxpanel.pro:80/live/Martin/Martin/625754.ts
 #EXTINF:-1 tvg-id="tennis05" tvg-name=":Tennis  05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  05
@@ -785,11 +787,9 @@ http://myxpanel.pro:80/live/Martin/Martin/625710.ts
 http://myxpanel.pro:80/live/Martin/Martin/625709.ts
 #EXTINF:-1 tvg-id="tennis50" tvg-name=":Tennis  50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  50
 http://myxpanel.pro:80/live/Martin/Martin/625708.ts
-#EXTINF:-1 tvg-id="heliovaarahpattenhvsbolellisvavassoriamar282330vnmiamitennis01" tvg-name="Heliovaara H, Patten H vs Bolelli S, Vavassori A @ Mar 28 23:30 (VN)- Miami :Tennis  01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Heliovaara H, Patten H vs Bolelli S, Vavassori A @ Mar 28 23:30 (VN)- Miami :Tennis  01
+#EXTINF:-1 tvg-id="erranispaolinijvssiniakovaktownsendtmar290030vnmiamitennis01" tvg-name="Errani S, Paolini J vs Siniakova K, Townsend T @ Mar 29 00:30 (VN)- Miami :Tennis  01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Errani S, Paolini J vs Siniakova K, Townsend T @ Mar 29 00:30 (VN)- Miami :Tennis  01
 http://myxpanel.pro:80/live/Martin/Martin/625757.ts
-#EXTINF:-1 tvg-id="leheckajirivssinnerjannikmar290300vnmiamitennis03" tvg-name="Lehecka, Jiri vs Sinner, Jannik @ Mar 29 03:00 (VN)- Miami :Tennis  03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Lehecka, Jiri vs Sinner, Jannik @ Mar 29 03:00 (VN)- Miami :Tennis  03
-http://myxpanel.pro:80/live/Martin/Martin/625755.ts
-#EXTINF:-1 tvg-id="sabalenkaarynavsgauffcocomar280200vnmiamitennis02" tvg-name="Sabalenka, Aryna vs Gauff, Coco @ Mar 28 02:00 (VN)- Miami :Tennis  02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Sabalenka, Aryna vs Gauff, Coco @ Mar 28 02:00 (VN)- Miami :Tennis  02
+#EXTINF:-1 tvg-id="leheckajirivssinnerjannikmar290300vnmiamitennis02" tvg-name="Lehecka, Jiri vs Sinner, Jannik @ Mar 29 03:00 (VN)- Miami :Tennis  02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Lehecka, Jiri vs Sinner, Jannik @ Mar 29 03:00 (VN)- Miami :Tennis  02
 http://myxpanel.pro:80/live/Martin/Martin/625756.ts
 #EXTINF:-1 tvg-id="uefa01wolfsburgvsollyonnes2345vn" tvg-name="UEFA  | 01 - Wolfsburg vs Ol Lyonnes 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Wolfsburg vs Ol Lyonnes 23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277950.ts
@@ -1351,10 +1351,6 @@ http://myxpanel.pro:80/live/Martin/Martin/272133.ts
 http://myxpanel.pro:80/live/Martin/Martin/758488.ts
 #EXTINF:-1 tvg-id="thamanya2fhd" tvg-name="Thamanya 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/900px-Thmanyah_Logo.svg.png" group-title="AR | SPORTS ⚽",Thamanya 2 FHD
 http://myxpanel.pro:80/live/Martin/Martin/758486.ts
-#EXTINF:-1 tvg-id="2026worldathleticscontinentaltourmelbournemar281030vncbcgem01" tvg-name="2026 World Athletics Continental Tour - Melbourne @ Mar 28 10:30 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",2026 World Athletics Continental Tour - Melbourne @ Mar 28 10:30 (VN):CBC Gem  01
-http://myxpanel.pro:80/live/Martin/Martin/805952.ts
-#EXTINF:-1 tvg-id="cbcgem11" tvg-name=":CBC Gem  11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  11
-http://myxpanel.pro:80/live/Martin/Martin/805942.ts
 #EXTINF:-1 tvg-id="cbcgem12" tvg-name=":CBC Gem  12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  12
 http://myxpanel.pro:80/live/Martin/Martin/805941.ts
 #EXTINF:-1 tvg-id="cbcgem13" tvg-name=":CBC Gem  13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  13
@@ -1433,22 +1429,28 @@ http://myxpanel.pro:80/live/Martin/Martin/805905.ts
 http://myxpanel.pro:80/live/Martin/Martin/805904.ts
 #EXTINF:-1 tvg-id="cbcgem50" tvg-name=":CBC Gem  50" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  50
 http://myxpanel.pro:80/live/Martin/Martin/805903.ts
-#EXTINF:-1 tvg-id="cbcsportsfisalpineskiingwomensworldcupgslillehammermar282200vncbcgem10" tvg-name="CBC Sports: FIS Alpine Skiing Women's World Cup: GS - Lillehammer @ Mar 28 22:00 (VN):CBC Gem  10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: FIS Alpine Skiing Women's World Cup: GS - Lillehammer @ Mar 28 22:00 (VN):CBC Gem  10
-http://myxpanel.pro:80/live/Martin/Martin/805943.ts
-#EXTINF:-1 tvg-id="cbcsportsfisfreestyleskicrossworldcupcraigleithmar281800vncbcgem07" tvg-name="CBC Sports: FIS Freestyle Ski Cross World Cup - Craigleith @ Mar 28 18:00 (VN):CBC Gem  07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: FIS Freestyle Ski Cross World Cup - Craigleith @ Mar 28 18:00 (VN):CBC Gem  07
-http://myxpanel.pro:80/live/Martin/Martin/805946.ts
-#EXTINF:-1 tvg-id="fisfreestyleskiingworldcupfinalsslopestylesilvaplanamar281220vncbcgem03" tvg-name="FIS Freestyle Skiing World Cup Finals: Slopestyle - Silvaplana @ Mar 28 12:20 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Freestyle Skiing World Cup Finals: Slopestyle - Silvaplana @ Mar 28 12:20 (VN):CBC Gem  03
-http://myxpanel.pro:80/live/Martin/Martin/805950.ts
-#EXTINF:-1 tvg-id="fisfreestyleskiingworldcupskicrossgällivaremar281210vncbcgem02" tvg-name="FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 28 12:10 (VN):CBC Gem  02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 28 12:10 (VN):CBC Gem  02
-http://myxpanel.pro:80/live/Martin/Martin/805951.ts
-#EXTINF:-1 tvg-id="fissnowboardworldcuphalfpipesilvaplanamar281500vncbcgem05" tvg-name="FIS Snowboard World Cup:  Halfpipe - Silvaplana @ Mar 28 15:00 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Snowboard World Cup:  Halfpipe - Silvaplana @ Mar 28 15:00 (VN):CBC Gem  05
-http://myxpanel.pro:80/live/Martin/Martin/805948.ts
-#EXTINF:-1 tvg-id="fissnowboardworldcupsbxmontstannemar281800vncbcgem06" tvg-name="FIS Snowboard World Cup: SBX - Mont St. Anne @ Mar 28 18:00 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Snowboard World Cup: SBX - Mont St. Anne @ Mar 28 18:00 (VN):CBC Gem  06
-http://myxpanel.pro:80/live/Martin/Martin/805947.ts
-#EXTINF:-1 tvg-id="isufigureskatingworldfigureskatingchampionshipsicedancefreedancemar281930vncbcgem09" tvg-name="ISU Figure Skating: World Figure Skating Championships - Ice Dance - Free Dance @ Mar 28 19:30 (VN):CBC Gem  09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",ISU Figure Skating: World Figure Skating Championships - Ice Dance - Free Dance @ Mar 28 19:30 (VN):CBC Gem  09
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday1rink1mar301400vncbcgem09" tvg-name="Canadian Ringette Championships: Day 1 - Rink 1 @ Mar 30 14:00 (VN):CBC Gem  09" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 1 - Rink 1 @ Mar 30 14:00 (VN):CBC Gem  09
 http://myxpanel.pro:80/live/Martin/Martin/805944.ts
-#EXTINF:-1 tvg-id="isufigureskatingworldfigureskatingchampionshipsmenfreeskatingmar281330vncbcgem04" tvg-name="ISU Figure Skating: World Figure Skating Championships - Men - Free Skating @ Mar 28 13:30 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",ISU Figure Skating: World Figure Skating Championships - Men - Free Skating @ Mar 28 13:30 (VN):CBC Gem  04
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday1rink2mar301400vncbcgem10" tvg-name="Canadian Ringette Championships: Day 1 - Rink 2 @ Mar 30 14:00 (VN):CBC Gem  10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 1 - Rink 2 @ Mar 30 14:00 (VN):CBC Gem  10
+http://myxpanel.pro:80/live/Martin/Martin/805943.ts
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday1rink3mar301415vncbcgem11" tvg-name="Canadian Ringette Championships: Day 1 - Rink 3 @ Mar 30 14:15 (VN):CBC Gem  11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 1 - Rink 3 @ Mar 30 14:15 (VN):CBC Gem  11
+http://myxpanel.pro:80/live/Martin/Martin/805942.ts
+#EXTINF:-1 tvg-id="cbcsportslatenight2026worldathleticsindoorchampionshipspolandmar290830vncbcgem01" tvg-name="CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 08:30 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 08:30 (VN):CBC Gem  01
+http://myxpanel.pro:80/live/Martin/Martin/805952.ts
+#EXTINF:-1 tvg-id="cbcsportsfisfreestyleskiingworldcupskicrossgällivaremar292100vncbcgem07" tvg-name="CBC Sports: FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 21:00 (VN):CBC Gem  07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 21:00 (VN):CBC Gem  07
+http://myxpanel.pro:80/live/Martin/Martin/805946.ts
+#EXTINF:-1 tvg-id="cbcsportsfisfreestyleskiingworldcupslopestylesilvaplanamar292000vncbcgem06" tvg-name="CBC Sports: FIS Freestyle Skiing World Cup: Slopestyle - Silvaplana @ Mar 29 20:00 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: FIS Freestyle Skiing World Cup: Slopestyle - Silvaplana @ Mar 29 20:00 (VN):CBC Gem  06
+http://myxpanel.pro:80/live/Martin/Martin/805947.ts
+#EXTINF:-1 tvg-id="cbcsportsisufigureskatingworldchampionshipsicedancemar292200vncbcgem08" tvg-name="CBC Sports: ISU Figure Skating World Championships - Ice Dance @ Mar 29 22:00 (VN):CBC Gem  08" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: ISU Figure Skating World Championships - Ice Dance @ Mar 29 22:00 (VN):CBC Gem  08
+http://myxpanel.pro:80/live/Martin/Martin/805945.ts
+#EXTINF:-1 tvg-id="fisfreestyleskiingworldcuphalfpipesilvaplanamar291330vncbcgem04" tvg-name="FIS Freestyle Skiing World Cup: Halfpipe - Silvaplana @ Mar 29 13:30 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Freestyle Skiing World Cup: Halfpipe - Silvaplana @ Mar 29 13:30 (VN):CBC Gem  04
 http://myxpanel.pro:80/live/Martin/Martin/805949.ts
+#EXTINF:-1 tvg-id="fisfreestyleskiingworldcupskicrossgällivaremar291020vncbcgem02" tvg-name="FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 10:20 (VN):CBC Gem  02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 10:20 (VN):CBC Gem  02
+http://myxpanel.pro:80/live/Martin/Martin/805951.ts
+#EXTINF:-1 tvg-id="fissnowboardworldcupslopestylesilvaplanamar291030vncbcgem03" tvg-name="FIS Snowboard World Cup: Slopestyle - Silvaplana @ Mar 29 10:30 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",FIS Snowboard World Cup: Slopestyle - Silvaplana @ Mar 29 10:30 (VN):CBC Gem  03
+http://myxpanel.pro:80/live/Martin/Martin/805950.ts
+#EXTINF:-1 tvg-id="isufigureskatingworldfigureskatingchampionshipsgalamar291430vncbcgem05" tvg-name="ISU Figure Skating: World Figure Skating Championships - Gala @ Mar 29 14:30 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",ISU Figure Skating: World Figure Skating Championships - Gala @ Mar 29 14:30 (VN):CBC Gem  05
+http://myxpanel.pro:80/live/Martin/Martin/805948.ts
 #EXTINF:-1 tvg-id="cabeinsportshd" tvg-name="CA Bein Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/c906b175d8cd14f95d016aca9d2ad191.png" group-title="Canada | Sports",CA Bein Sports HD
 http://myxpanel.pro:80/live/Martin/Martin/3979.ts
 #EXTINF:-1 tvg-id="cafightnetwork" tvg-name="CA Fight Network" tvg-logo="https://img.favpng.com/10/20/2/fight-network-boxing-television-ufc-129-st-pierre-vs-shields-logo-png-favpng-j0dcjnVEBXC4RSy5LLCS2mUuM.jpg" group-title="Canada | Sports",CA Fight Network
@@ -1591,6 +1593,40 @@ http://myxpanel.pro:80/live/Martin/Martin/3990.ts
 http://myxpanel.pro:80/live/Martin/Martin/3907.ts
 #EXTINF:-1 tvg-id="catvasports2" tvg-name="CA TVA Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a975.png" group-title="Canada | Sports",CA TVA Sports 2
 http://myxpanel.pro:80/live/Martin/Martin/3906.ts
+#EXTINF:-1 tvg-id="sportsnet20" tvg-name=":Sportsnet+  20" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  20
+http://myxpanel.pro:80/live/Martin/Martin/657871.ts
+#EXTINF:-1 tvg-id="sportsnet21" tvg-name=":Sportsnet+  21" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  21
+http://myxpanel.pro:80/live/Martin/Martin/657870.ts
+#EXTINF:-1 tvg-id="sportsnet22" tvg-name=":Sportsnet+  22" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  22
+http://myxpanel.pro:80/live/Martin/Martin/657869.ts
+#EXTINF:-1 tvg-id="sportsnet23" tvg-name=":Sportsnet+  23" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  23
+http://myxpanel.pro:80/live/Martin/Martin/657868.ts
+#EXTINF:-1 tvg-id="sportsnet24" tvg-name=":Sportsnet+  24" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  24
+http://myxpanel.pro:80/live/Martin/Martin/657867.ts
+#EXTINF:-1 tvg-id="sportsnet25" tvg-name=":Sportsnet+  25" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  25
+http://myxpanel.pro:80/live/Martin/Martin/657866.ts
+#EXTINF:-1 tvg-id="sportsnet26" tvg-name=":Sportsnet+  26" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  26
+http://myxpanel.pro:80/live/Martin/Martin/657865.ts
+#EXTINF:-1 tvg-id="sportsnet27" tvg-name=":Sportsnet+  27" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  27
+http://myxpanel.pro:80/live/Martin/Martin/657864.ts
+#EXTINF:-1 tvg-id="sportsnet28" tvg-name=":Sportsnet+  28" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  28
+http://myxpanel.pro:80/live/Martin/Martin/657863.ts
+#EXTINF:-1 tvg-id="sportsnet29" tvg-name=":Sportsnet+  29" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  29
+http://myxpanel.pro:80/live/Martin/Martin/657862.ts
+#EXTINF:-1 tvg-id="sportsnet30" tvg-name=":Sportsnet+  30" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  30
+http://myxpanel.pro:80/live/Martin/Martin/657861.ts
+#EXTINF:-1 tvg-id="sportsnet31" tvg-name=":Sportsnet+  31" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  31
+http://myxpanel.pro:80/live/Martin/Martin/657860.ts
+#EXTINF:-1 tvg-id="sportsnet32" tvg-name=":Sportsnet+  32" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  32
+http://myxpanel.pro:80/live/Martin/Martin/657859.ts
+#EXTINF:-1 tvg-id="sportsnet33" tvg-name=":Sportsnet+  33" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  33
+http://myxpanel.pro:80/live/Martin/Martin/657858.ts
+#EXTINF:-1 tvg-id="sportsnet34" tvg-name=":Sportsnet+  34" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  34
+http://myxpanel.pro:80/live/Martin/Martin/657857.ts
+#EXTINF:-1 tvg-id="sportsnet35" tvg-name=":Sportsnet+  35" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  35
+http://myxpanel.pro:80/live/Martin/Martin/657856.ts
+#EXTINF:-1 tvg-id="sportsnet36" tvg-name=":Sportsnet+  36" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  36
+http://myxpanel.pro:80/live/Martin/Martin/657855.ts
 #EXTINF:-1 tvg-id="sportsnet37" tvg-name=":Sportsnet+  37" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  37
 http://myxpanel.pro:80/live/Martin/Martin/657854.ts
 #EXTINF:-1 tvg-id="sportsnet38" tvg-name=":Sportsnet+  38" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  38
@@ -1619,30 +1655,24 @@ http://myxpanel.pro:80/live/Martin/Martin/657843.ts
 http://myxpanel.pro:80/live/Martin/Martin/657842.ts
 #EXTINF:-1 tvg-id="sportsnet50" tvg-name=":Sportsnet+  50" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  50
 http://myxpanel.pro:80/live/Martin/Martin/657841.ts
-#EXTINF:-1 tvg-id="arsenalvstottenhamhotspurmar281920vnsportsnet14" tvg-name="Arsenal vs Tottenham Hotspur @ Mar 28 19:20 (VN):Sportsnet+  14" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Arsenal vs Tottenham Hotspur @ Mar 28 19:20 (VN):Sportsnet+  14
-http://myxpanel.pro:80/live/Martin/Martin/657877.ts
-#EXTINF:-1 tvg-id="evertonvsliverpoolmar281350vnsportsnet03" tvg-name="Everton vs Liverpool @ Mar 28 13:50 (VN):Sportsnet+  03" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Everton vs Liverpool @ Mar 28 13:50 (VN):Sportsnet+  03
+#EXTINF:-1 tvg-id="chelseavsastonvillamar291250vnsportsnet03" tvg-name="Chelsea vs Aston Villa @ Mar 29 12:50 (VN):Sportsnet+  03" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Chelsea vs Aston Villa @ Mar 29 12:50 (VN):Sportsnet+  03
 http://myxpanel.pro:80/live/Martin/Martin/657888.ts
-#EXTINF:-1 tvg-id="horseracingonsportsnetdubaiworldcupmar281800vnsportsnet08" tvg-name="Horse Racing on Sportsnet Dubai World Cup  @ Mar 28 18:00 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Horse Racing on Sportsnet Dubai World Cup  @ Mar 28 18:00 (VN):Sportsnet+  08
-http://myxpanel.pro:80/live/Martin/Martin/657883.ts
-#EXTINF:-1 tvg-id="manchesterunitedvsmanchestercitymar281520vnsportsnet05" tvg-name="Manchester United vs Manchester City @ Mar 28 15:20 (VN):Sportsnet+  05" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Manchester United vs Manchester City @ Mar 28 15:20 (VN):Sportsnet+  05
-http://myxpanel.pro:80/live/Martin/Martin/657886.ts
-#EXTINF:-1 tvg-id="mlbathleticsvstorontomar282030vnsportsnet16" tvg-name="MLB: Athletics vs Toronto @ Mar 28 20:30 (VN):Sportsnet+  16" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Athletics vs Toronto @ Mar 28 20:30 (VN):Sportsnet+  16
-http://myxpanel.pro:80/live/Martin/Martin/657875.ts
-#EXTINF:-1 tvg-id="mlbnewyorkyankeesvssanfranciscomar280100vnsportsnet30" tvg-name="MLB: New York Yankees vs San Francisco @ Mar 28 01:00 (VN):Sportsnet+  30" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: New York Yankees vs San Francisco @ Mar 28 01:00 (VN):Sportsnet+  30
-http://myxpanel.pro:80/live/Martin/Martin/657861.ts
-#EXTINF:-1 tvg-id="motogpmotogptissotsprintusamar282130vnsportsnet17" tvg-name="MotoGP: MotoGP Tissot Sprint USA @ Mar 28 21:30 (VN):Sportsnet+  17" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MotoGP: MotoGP Tissot Sprint USA @ Mar 28 21:30 (VN):Sportsnet+  17
-http://myxpanel.pro:80/live/Martin/Martin/657874.ts
-#EXTINF:-1 tvg-id="prlsaracensvsnorthamptonsaintsmar281950vnsportsnet15" tvg-name="PRL: Saracens vs Northampton Saints @ Mar 28 19:50 (VN):Sportsnet+  15" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",PRL: Saracens vs Northampton Saints @ Mar 28 19:50 (VN):Sportsnet+  15
-http://myxpanel.pro:80/live/Martin/Martin/657876.ts
-#EXTINF:-1 tvg-id="slrleighleopardsvstoulouseolympiquemar281920vnsportsnet13" tvg-name="SLR: Leigh Leopards vs Toulouse Olympique @ Mar 28 19:20 (VN):Sportsnet+  13" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",SLR: Leigh Leopards vs Toulouse Olympique @ Mar 28 19:20 (VN):Sportsnet+  13
-http://myxpanel.pro:80/live/Martin/Martin/657878.ts
-#EXTINF:-1 tvg-id="slrwiganwarriorsvshuddersfieldgiantsmar281650vnsportsnet06" tvg-name="SLR: Wigan Warriors vs Huddersfield Giants @ Mar 28 16:50 (VN):Sportsnet+  06" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",SLR: Wigan Warriors vs Huddersfield Giants @ Mar 28 16:50 (VN):Sportsnet+  06
+#EXTINF:-1 tvg-id="leicestercityvsbrightonhovealbionmar291550vnsportsnet06" tvg-name="Leicester City vs Brighton & Hove Albion @ Mar 29 15:50 (VN):Sportsnet+  06" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Leicester City vs Brighton & Hove Albion @ Mar 29 15:50 (VN):Sportsnet+  06
 http://myxpanel.pro:80/live/Martin/Martin/657885.ts
-#EXTINF:-1 tvg-id="sportsnetcentralmarch27mar281100vnsportsnet02" tvg-name="Sportsnet Central March 27 @ Mar 28 11:00 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central March 27 @ Mar 28 11:00 (VN):Sportsnet+  02
+#EXTINF:-1 tvg-id="mlbathleticsvstorontomar291900vnsportsnet08" tvg-name="MLB: Athletics vs Toronto @ Mar 29 19:00 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Athletics vs Toronto @ Mar 29 19:00 (VN):Sportsnet+  08
+http://myxpanel.pro:80/live/Martin/Martin/657883.ts
+#EXTINF:-1 tvg-id="mlbwashingtonvschicagocubsmar292000vnsportsnet10" tvg-name="MLB: Washington vs Chicago Cubs @ Mar 29 20:00 (VN):Sportsnet+  10" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Washington vs Chicago Cubs @ Mar 29 20:00 (VN):Sportsnet+  10
+http://myxpanel.pro:80/live/Martin/Martin/657881.ts
+#EXTINF:-1 tvg-id="motogpmotogpgrandprixoftheusamar292115vnsportsnet11" tvg-name="MotoGP: MotoGP Grand Prix of the USA @ Mar 29 21:15 (VN):Sportsnet+  11" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MotoGP: MotoGP Grand Prix of the USA @ Mar 29 21:15 (VN):Sportsnet+  11
+http://myxpanel.pro:80/live/Martin/Martin/657880.ts
+#EXTINF:-1 tvg-id="slrhullfcvscatalansdragonsmar291550vnsportsnet05" tvg-name="SLR: Hull FC vs Catalans Dragons @ Mar 29 15:50 (VN):Sportsnet+  05" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",SLR: Hull FC vs Catalans Dragons @ Mar 29 15:50 (VN):Sportsnet+  05
+http://myxpanel.pro:80/live/Martin/Martin/657886.ts
+#EXTINF:-1 tvg-id="slrleedsrhinosvswarringtonwolvesmar291730vnsportsnet07" tvg-name="SLR: Leeds Rhinos vs Warrington Wolves @ Mar 29 17:30 (VN):Sportsnet+  07" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",SLR: Leeds Rhinos vs Warrington Wolves @ Mar 29 17:30 (VN):Sportsnet+  07
+http://myxpanel.pro:80/live/Martin/Martin/657884.ts
+#EXTINF:-1 tvg-id="sportsnetcentralmarch28mar291100vnsportsnet01" tvg-name="Sportsnet Central March 28 @ Mar 29 11:00 (VN):Sportsnet+  01" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central March 28 @ Mar 29 11:00 (VN):Sportsnet+  01
+http://myxpanel.pro:80/live/Martin/Martin/657890.ts
+#EXTINF:-1 tvg-id="westhamunitedvslondoncitylionessesmar291250vnsportsnet02" tvg-name="West Ham United vs London City Lionesses @ Mar 29 12:50 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",West Ham United vs London City Lionesses @ Mar 29 12:50 (VN):Sportsnet+  02
 http://myxpanel.pro:80/live/Martin/Martin/657889.ts
-#EXTINF:-1 tvg-id="urcdhlstormersvsedinburghmar281850vnsportsnet09" tvg-name="URC: DHL Stormers vs Edinburgh  @ Mar 28 18:50 (VN):Sportsnet+  09" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",URC: DHL Stormers vs Edinburgh  @ Mar 28 18:50 (VN):Sportsnet+  09
-http://myxpanel.pro:80/live/Martin/Martin/657882.ts
 #EXTINF:-1 tvg-id="3fussballliga1" tvg-name="3. FUSSBALL-LIGA 1" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 1
 http://myxpanel.pro:80/live/Martin/Martin/662197.ts
 #EXTINF:-1 tvg-id="3fussballliga2" tvg-name="3. FUSSBALL-LIGA 2" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 2
@@ -1719,20 +1749,22 @@ http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="liveskispringenweltcupinlillehammerhs240männerallprimede" tvg-name="Live | Skispringen: Weltcup in Lillehammer: HS 240 Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Skispringen: Weltcup in Lillehammer: HS 240 Männer | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="next1203gmtbilbaoatleticomadridallprimede" tvg-name="Next | 12:03 (GMT) | Bilbao - Atletico Madrid | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Bilbao - Atletico Madrid | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="next1203gmtmanchesterbasketballleicesterridersallprimede" tvg-name="Next | 12:03 (GMT) | Manchester Basketball - Leicester Riders | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Manchester Basketball - Leicester Riders | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1203gmtfigureskatingallprimede" tvg-name="Next | 12:03 (GMT) | Figure Skating | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Figure Skating | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="next1203gmtplanicamenhs240allprimede" tvg-name="Next | 12:03 (GMT) | Planica - Men HS 240 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Planica - Men HS 240 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="next1203gmtradsportinflandernfieldseintagesrennendermännerallprimede" tvg-name="Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="next1203gmtradsportinflandernfieldseintagesrennendermännerallprimede" tvg-name="Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="next1203gmtradsportinflandernfieldseintagesrennendermännerallprimede" tvg-name="Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Radsport: In Flandern Fields: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1203gmtschweizmx21rennenwmfrauenfeldallprimede" tvg-name="Next | 12:03 (GMT) | Schweiz | MX2 | 1. Rennen WM | Frauenfeld | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Schweiz | MX2 | 1. Rennen WM | Frauenfeld | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="next1203gmtsilvaplanahalfpipeweltcupfrauenmännerallprimede" tvg-name="Next | 12:03 (GMT) | Silvaplana | Halfpipe Weltcup | Frauen / Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Silvaplana | Halfpipe Weltcup | Frauen / Männer | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1203gmtsilvaplanahalfpipeweltcupfrauenmännerallprimede" tvg-name="Next | 12:03 (GMT) | Silvaplana | Halfpipe Weltcup | Frauen / Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Silvaplana | Halfpipe Weltcup | Frauen / Männer | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="next1203gmtvflwolfsburg1fcunionberlinallprimede" tvg-name="Next | 12:03 (GMT) | VfL Wolfsburg - 1. FC Union Berlin | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | VfL Wolfsburg - 1. FC Union Berlin | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="next1203gmtwmschaulaufenpragallprimede" tvg-name="Next | 12:03 (GMT) | WM | Schaulaufen Prag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | WM | Schaulaufen Prag | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="next1203gmtwmschaulaufenpragallprimede" tvg-name="Next | 12:03 (GMT) | WM | Schaulaufen Prag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | WM | Schaulaufen Prag | all | PRIME-DE
@@ -4857,78 +4889,8 @@ http://myxpanel.pro:80/live/Martin/Martin/732750.ts
 http://myxpanel.pro:80/live/Martin/Martin/732753.ts
 #EXTINF:-1 tvg-id="motocrossswitzerlandmxgprace2mar292300vnmaxse09" tvg-name="Motocross: Switzerland: MXGP: Race 2 @ Mar 29 23:00 (VN):MAX SE  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Motocross: Switzerland: MXGP: Race 2 @ Mar 29 23:00 (VN):MAX SE  09
 http://myxpanel.pro:80/live/Martin/Martin/732749.ts
-#EXTINF:-1 tvg-id="maxus06" tvg-name=":MAX US 06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 06
-http://myxpanel.pro:80/live/Martin/Martin/732305.ts
-#EXTINF:-1 tvg-id="maxus07" tvg-name=":MAX US 07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 07
-http://myxpanel.pro:80/live/Martin/Martin/732304.ts
-#EXTINF:-1 tvg-id="maxus08" tvg-name=":MAX US 08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 08
-http://myxpanel.pro:80/live/Martin/Martin/732303.ts
-#EXTINF:-1 tvg-id="maxus09" tvg-name=":MAX US 09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 09
-http://myxpanel.pro:80/live/Martin/Martin/732302.ts
-#EXTINF:-1 tvg-id="maxus10" tvg-name=":MAX US 10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 10
-http://myxpanel.pro:80/live/Martin/Martin/732301.ts
 #EXTINF:-1 tvg-id="maxus100" tvg-name=":MAX US 100" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 100
 http://myxpanel.pro:80/live/Martin/Martin/732211.ts
-#EXTINF:-1 tvg-id="maxus11" tvg-name=":MAX US 11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 11
-http://myxpanel.pro:80/live/Martin/Martin/732300.ts
-#EXTINF:-1 tvg-id="maxus12" tvg-name=":MAX US 12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 12
-http://myxpanel.pro:80/live/Martin/Martin/732299.ts
-#EXTINF:-1 tvg-id="maxus13" tvg-name=":MAX US 13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 13
-http://myxpanel.pro:80/live/Martin/Martin/732298.ts
-#EXTINF:-1 tvg-id="maxus14" tvg-name=":MAX US 14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 14
-http://myxpanel.pro:80/live/Martin/Martin/732297.ts
-#EXTINF:-1 tvg-id="maxus15" tvg-name=":MAX US 15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 15
-http://myxpanel.pro:80/live/Martin/Martin/732296.ts
-#EXTINF:-1 tvg-id="maxus16" tvg-name=":MAX US 16" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 16
-http://myxpanel.pro:80/live/Martin/Martin/732295.ts
-#EXTINF:-1 tvg-id="maxus17" tvg-name=":MAX US 17" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 17
-http://myxpanel.pro:80/live/Martin/Martin/732294.ts
-#EXTINF:-1 tvg-id="maxus18" tvg-name=":MAX US 18" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 18
-http://myxpanel.pro:80/live/Martin/Martin/732293.ts
-#EXTINF:-1 tvg-id="maxus19" tvg-name=":MAX US 19" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 19
-http://myxpanel.pro:80/live/Martin/Martin/732292.ts
-#EXTINF:-1 tvg-id="maxus20" tvg-name=":MAX US 20" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 20
-http://myxpanel.pro:80/live/Martin/Martin/732291.ts
-#EXTINF:-1 tvg-id="maxus21" tvg-name=":MAX US 21" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 21
-http://myxpanel.pro:80/live/Martin/Martin/732290.ts
-#EXTINF:-1 tvg-id="maxus22" tvg-name=":MAX US 22" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 22
-http://myxpanel.pro:80/live/Martin/Martin/732289.ts
-#EXTINF:-1 tvg-id="maxus23" tvg-name=":MAX US 23" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 23
-http://myxpanel.pro:80/live/Martin/Martin/732288.ts
-#EXTINF:-1 tvg-id="maxus24" tvg-name=":MAX US 24" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 24
-http://myxpanel.pro:80/live/Martin/Martin/732287.ts
-#EXTINF:-1 tvg-id="maxus25" tvg-name=":MAX US 25" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 25
-http://myxpanel.pro:80/live/Martin/Martin/732286.ts
-#EXTINF:-1 tvg-id="maxus26" tvg-name=":MAX US 26" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 26
-http://myxpanel.pro:80/live/Martin/Martin/732285.ts
-#EXTINF:-1 tvg-id="maxus27" tvg-name=":MAX US 27" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 27
-http://myxpanel.pro:80/live/Martin/Martin/732284.ts
-#EXTINF:-1 tvg-id="maxus28" tvg-name=":MAX US 28" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 28
-http://myxpanel.pro:80/live/Martin/Martin/732283.ts
-#EXTINF:-1 tvg-id="maxus29" tvg-name=":MAX US 29" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 29
-http://myxpanel.pro:80/live/Martin/Martin/732282.ts
-#EXTINF:-1 tvg-id="maxus30" tvg-name=":MAX US 30" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 30
-http://myxpanel.pro:80/live/Martin/Martin/732281.ts
-#EXTINF:-1 tvg-id="maxus31" tvg-name=":MAX US 31" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 31
-http://myxpanel.pro:80/live/Martin/Martin/732280.ts
-#EXTINF:-1 tvg-id="maxus32" tvg-name=":MAX US 32" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 32
-http://myxpanel.pro:80/live/Martin/Martin/732279.ts
-#EXTINF:-1 tvg-id="maxus33" tvg-name=":MAX US 33" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 33
-http://myxpanel.pro:80/live/Martin/Martin/732278.ts
-#EXTINF:-1 tvg-id="maxus34" tvg-name=":MAX US 34" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 34
-http://myxpanel.pro:80/live/Martin/Martin/732277.ts
-#EXTINF:-1 tvg-id="maxus35" tvg-name=":MAX US 35" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 35
-http://myxpanel.pro:80/live/Martin/Martin/732276.ts
-#EXTINF:-1 tvg-id="maxus36" tvg-name=":MAX US 36" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 36
-http://myxpanel.pro:80/live/Martin/Martin/732275.ts
-#EXTINF:-1 tvg-id="maxus37" tvg-name=":MAX US 37" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 37
-http://myxpanel.pro:80/live/Martin/Martin/732274.ts
-#EXTINF:-1 tvg-id="maxus38" tvg-name=":MAX US 38" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 38
-http://myxpanel.pro:80/live/Martin/Martin/732273.ts
-#EXTINF:-1 tvg-id="maxus39" tvg-name=":MAX US 39" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 39
-http://myxpanel.pro:80/live/Martin/Martin/732272.ts
-#EXTINF:-1 tvg-id="maxus40" tvg-name=":MAX US 40" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 40
-http://myxpanel.pro:80/live/Martin/Martin/732271.ts
 #EXTINF:-1 tvg-id="maxus41" tvg-name=":MAX US 41" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 41
 http://myxpanel.pro:80/live/Martin/Martin/732270.ts
 #EXTINF:-1 tvg-id="maxus42" tvg-name=":MAX US 42" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 42
@@ -5047,14 +5009,84 @@ http://myxpanel.pro:80/live/Martin/Martin/732214.ts
 http://myxpanel.pro:80/live/Martin/Martin/732213.ts
 #EXTINF:-1 tvg-id="maxus99" tvg-name=":MAX US 99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 99
 http://myxpanel.pro:80/live/Martin/Martin/732212.ts
-#EXTINF:-1 tvg-id="basketballno2purduevsno1arizonamar280230vnmaxus05" tvg-name="Basketball: No 2 Purdue vs No 1 Arizona @ Mar 28 02:30 (VN):MAX US 05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Basketball: No 2 Purdue vs No 1 Arizona @ Mar 28 02:30 (VN):MAX US 05
-http://myxpanel.pro:80/live/Martin/Martin/732306.ts
-#EXTINF:-1 tvg-id="basketballno9iowavsno3illinoismar282300vnmaxus03" tvg-name="Basketball: No 9 Iowa vs No 3 Illinois @ Mar 28 23:00 (VN):MAX US 03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Basketball: No 9 Iowa vs No 3 Illinois @ Mar 28 23:00 (VN):MAX US 03
-http://myxpanel.pro:80/live/Martin/Martin/732308.ts
-#EXTINF:-1 tvg-id="soccerusmntvsbelgiummar282030vnmaxus02" tvg-name="Soccer: USMNT vs Belgium @ Mar 28 20:30 (VN):MAX US 02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: USMNT vs Belgium @ Mar 28 20:30 (VN):MAX US 02
-http://myxpanel.pro:80/live/Martin/Martin/732309.ts
-#EXTINF:-1 tvg-id="soccerwhensoccercametoamericagoalsglamourandthebeautifulgamemar281930vnmaxus01" tvg-name="Soccer: When Soccer Came to America Goals Glamour and the Beautiful Game @ Mar 28 19:30 (VN):MAX US 01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: When Soccer Came to America Goals Glamour and the Beautiful Game @ Mar 28 19:30 (VN):MAX US 01
+#EXTINF:-1 tvg-id="cyclinglarouetourangellemar291530vnmaxus01" tvg-name="Cycling: La Roue Tourangelle @ Mar 29 15:30 (VN):MAX US 01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Cycling: La Roue Tourangelle @ Mar 29 15:30 (VN):MAX US 01
 http://myxpanel.pro:80/live/Martin/Martin/732310.ts
+#EXTINF:-1 tvg-id="nascarbrracingfanvotedmultiviewmar292110vnmaxus03" tvg-name="NASCAR: B R Racing Fan Voted Multiview @ Mar 29 21:10 (VN):MAX US 03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: B R Racing Fan Voted Multiview @ Mar 29 21:10 (VN):MAX US 03
+http://myxpanel.pro:80/live/Martin/Martin/732308.ts
+#EXTINF:-1 tvg-id="nascarfeatureddriversmultiviewmar292110vnmaxus02" tvg-name="NASCAR: Featured Drivers Multiview @ Mar 29 21:10 (VN):MAX US 02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: Featured Drivers Multiview @ Mar 29 21:10 (VN):MAX US 02
+http://myxpanel.pro:80/live/Martin/Martin/732309.ts
+#EXTINF:-1 tvg-id="nascarno1rosschastainmar292115vnmaxus29" tvg-name="NASCAR: No 1 Ross Chastain @ Mar 29 21:15 (VN):MAX US 29" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 1 Ross Chastain @ Mar 29 21:15 (VN):MAX US 29
+http://myxpanel.pro:80/live/Martin/Martin/732282.ts
+#EXTINF:-1 tvg-id="nascarno10tydillonmar292115vnmaxus28" tvg-name="NASCAR: No 10 Ty Dillon @ Mar 29 21:15 (VN):MAX US 28" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 10 Ty Dillon @ Mar 29 21:15 (VN):MAX US 28
+http://myxpanel.pro:80/live/Martin/Martin/732283.ts
+#EXTINF:-1 tvg-id="nascarno11dennyhamlinmar292115vnmaxus36" tvg-name="NASCAR: No 11 Denny Hamlin @ Mar 29 21:15 (VN):MAX US 36" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 11 Denny Hamlin @ Mar 29 21:15 (VN):MAX US 36
+http://myxpanel.pro:80/live/Martin/Martin/732275.ts
+#EXTINF:-1 tvg-id="nascarno12ryanblaneymar292115vnmaxus18" tvg-name="NASCAR: No 12 Ryan Blaney @ Mar 29 21:15 (VN):MAX US 18" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 12 Ryan Blaney @ Mar 29 21:15 (VN):MAX US 18
+http://myxpanel.pro:80/live/Martin/Martin/732293.ts
+#EXTINF:-1 tvg-id="nascarno16ajallmendingermar292115vnmaxus13" tvg-name="NASCAR: No 16 AJ Allmendinger @ Mar 29 21:15 (VN):MAX US 13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 16 AJ Allmendinger @ Mar 29 21:15 (VN):MAX US 13
+http://myxpanel.pro:80/live/Martin/Martin/732298.ts
+#EXTINF:-1 tvg-id="nascarno17chrisbueschermar292115vnmaxus16" tvg-name="NASCAR: No 17 Chris Buescher @ Mar 29 21:15 (VN):MAX US 16" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 17 Chris Buescher @ Mar 29 21:15 (VN):MAX US 16
+http://myxpanel.pro:80/live/Martin/Martin/732295.ts
+#EXTINF:-1 tvg-id="nascarno19chasebriscoemar292115vnmaxus20" tvg-name="NASCAR: No 19 Chase Briscoe @ Mar 29 21:15 (VN):MAX US 20" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 19 Chase Briscoe @ Mar 29 21:15 (VN):MAX US 20
+http://myxpanel.pro:80/live/Martin/Martin/732291.ts
+#EXTINF:-1 tvg-id="nascarno2austincindricmar292115vnmaxus27" tvg-name="NASCAR: No 2 Austin Cindric @ Mar 29 21:15 (VN):MAX US 27" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 2 Austin Cindric @ Mar 29 21:15 (VN):MAX US 27
+http://myxpanel.pro:80/live/Martin/Martin/732284.ts
+#EXTINF:-1 tvg-id="nascarno20christopherbellmar292115vnmaxus24" tvg-name="NASCAR: No 20 Christopher Bell @ Mar 29 21:15 (VN):MAX US 24" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 20 Christopher Bell @ Mar 29 21:15 (VN):MAX US 24
+http://myxpanel.pro:80/live/Martin/Martin/732287.ts
+#EXTINF:-1 tvg-id="nascarno21joshberrymar292115vnmaxus37" tvg-name="NASCAR: No 21 Josh Berry @ Mar 29 21:15 (VN):MAX US 37" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 21 Josh Berry @ Mar 29 21:15 (VN):MAX US 37
+http://myxpanel.pro:80/live/Martin/Martin/732274.ts
+#EXTINF:-1 tvg-id="nascarno22joeyloganomar292115vnmaxus30" tvg-name="NASCAR: No 22 Joey Logano @ Mar 29 21:15 (VN):MAX US 30" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 22 Joey Logano @ Mar 29 21:15 (VN):MAX US 30
+http://myxpanel.pro:80/live/Martin/Martin/732281.ts
+#EXTINF:-1 tvg-id="nascarno23bubbawallacemar292115vnmaxus38" tvg-name="NASCAR: No 23 Bubba Wallace @ Mar 29 21:15 (VN):MAX US 38" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 23 Bubba Wallace @ Mar 29 21:15 (VN):MAX US 38
+http://myxpanel.pro:80/live/Martin/Martin/732273.ts
+#EXTINF:-1 tvg-id="nascarno24williambyronmar292115vnmaxus39" tvg-name="NASCAR: No 24 William Byron @ Mar 29 21:15 (VN):MAX US 39" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 24 William Byron @ Mar 29 21:15 (VN):MAX US 39
+http://myxpanel.pro:80/live/Martin/Martin/732272.ts
+#EXTINF:-1 tvg-id="nascarno3austindillonmar292115vnmaxus10" tvg-name="NASCAR: No 3 Austin Dillon @ Mar 29 21:15 (VN):MAX US 10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 3 Austin Dillon @ Mar 29 21:15 (VN):MAX US 10
+http://myxpanel.pro:80/live/Martin/Martin/732301.ts
+#EXTINF:-1 tvg-id="nascarno33austinhillmar292115vnmaxus17" tvg-name="NASCAR: No 33 Austin Hill @ Mar 29 21:15 (VN):MAX US 17" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 33 Austin Hill @ Mar 29 21:15 (VN):MAX US 17
+http://myxpanel.pro:80/live/Martin/Martin/732294.ts
+#EXTINF:-1 tvg-id="nascarno34toddgillilandmar292115vnmaxus21" tvg-name="NASCAR: No 34 Todd Gilliland @ Mar 29 21:15 (VN):MAX US 21" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 34 Todd Gilliland @ Mar 29 21:15 (VN):MAX US 21
+http://myxpanel.pro:80/live/Martin/Martin/732290.ts
+#EXTINF:-1 tvg-id="nascarno35rileyherbstmar292115vnmaxus07" tvg-name="NASCAR: No 35 Riley Herbst @ Mar 29 21:15 (VN):MAX US 07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 35 Riley Herbst @ Mar 29 21:15 (VN):MAX US 07
+http://myxpanel.pro:80/live/Martin/Martin/732304.ts
+#EXTINF:-1 tvg-id="nascarno38zanesmithmar292115vnmaxus40" tvg-name="NASCAR: No 38 Zane Smith @ Mar 29 21:15 (VN):MAX US 40" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 38 Zane Smith @ Mar 29 21:15 (VN):MAX US 40
+http://myxpanel.pro:80/live/Martin/Martin/732271.ts
+#EXTINF:-1 tvg-id="nascarno4noahgragsonmar292115vnmaxus31" tvg-name="NASCAR: No 4 Noah Gragson @ Mar 29 21:15 (VN):MAX US 31" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 4 Noah Gragson @ Mar 29 21:15 (VN):MAX US 31
+http://myxpanel.pro:80/live/Martin/Martin/732280.ts
+#EXTINF:-1 tvg-id="nascarno41colecustermar292115vnmaxus22" tvg-name="NASCAR: No 41 Cole Custer @ Mar 29 21:15 (VN):MAX US 22" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 41 Cole Custer @ Mar 29 21:15 (VN):MAX US 22
+http://myxpanel.pro:80/live/Martin/Martin/732289.ts
+#EXTINF:-1 tvg-id="nascarno42johnhunternemechekmar292115vnmaxus11" tvg-name="NASCAR: No 42 John Hunter Nemechek @ Mar 29 21:15 (VN):MAX US 11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 42 John Hunter Nemechek @ Mar 29 21:15 (VN):MAX US 11
+http://myxpanel.pro:80/live/Martin/Martin/732300.ts
+#EXTINF:-1 tvg-id="nascarno43erikjonesmar292115vnmaxus12" tvg-name="NASCAR: No 43 Erik Jones @ Mar 29 21:15 (VN):MAX US 12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 43 Erik Jones @ Mar 29 21:15 (VN):MAX US 12
+http://myxpanel.pro:80/live/Martin/Martin/732299.ts
+#EXTINF:-1 tvg-id="nascarno45tylerreddickmar292115vnmaxus09" tvg-name="NASCAR: No 45 Tyler Reddick @ Mar 29 21:15 (VN):MAX US 09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 45 Tyler Reddick @ Mar 29 21:15 (VN):MAX US 09
+http://myxpanel.pro:80/live/Martin/Martin/732302.ts
+#EXTINF:-1 tvg-id="nascarno47rickystenhousejrmar292115vnmaxus19" tvg-name="NASCAR: No 47 Ricky Stenhouse Jr @ Mar 29 21:15 (VN):MAX US 19" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 47 Ricky Stenhouse Jr @ Mar 29 21:15 (VN):MAX US 19
+http://myxpanel.pro:80/live/Martin/Martin/732292.ts
+#EXTINF:-1 tvg-id="nascarno48justinallgaiermar292115vnmaxus14" tvg-name="NASCAR: No 48 Justin Allgaier @ Mar 29 21:15 (VN):MAX US 14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 48 Justin Allgaier @ Mar 29 21:15 (VN):MAX US 14
+http://myxpanel.pro:80/live/Martin/Martin/732297.ts
+#EXTINF:-1 tvg-id="nascarno5kylelarsonmar292115vnmaxus04" tvg-name="NASCAR: No 5 Kyle Larson @ Mar 29 21:15 (VN):MAX US 04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 5 Kyle Larson @ Mar 29 21:15 (VN):MAX US 04
+http://myxpanel.pro:80/live/Martin/Martin/732307.ts
+#EXTINF:-1 tvg-id="nascarno51codywaremar292115vnmaxus08" tvg-name="NASCAR: No 51 Cody Ware @ Mar 29 21:15 (VN):MAX US 08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 51 Cody Ware @ Mar 29 21:15 (VN):MAX US 08
+http://myxpanel.pro:80/live/Martin/Martin/732303.ts
+#EXTINF:-1 tvg-id="nascarno54tygibbsmar292115vnmaxus15" tvg-name="NASCAR: No 54 Ty Gibbs @ Mar 29 21:15 (VN):MAX US 15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 54 Ty Gibbs @ Mar 29 21:15 (VN):MAX US 15
+http://myxpanel.pro:80/live/Martin/Martin/732296.ts
+#EXTINF:-1 tvg-id="nascarno60ryanpreecemar292115vnmaxus05" tvg-name="NASCAR: No 60 Ryan Preece @ Mar 29 21:15 (VN):MAX US 05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 60 Ryan Preece @ Mar 29 21:15 (VN):MAX US 05
+http://myxpanel.pro:80/live/Martin/Martin/732306.ts
+#EXTINF:-1 tvg-id="nascarno7danielsuárezmar292115vnmaxus32" tvg-name="NASCAR: No 7 Daniel Suárez @ Mar 29 21:15 (VN):MAX US 32" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 7 Daniel Suárez @ Mar 29 21:15 (VN):MAX US 32
+http://myxpanel.pro:80/live/Martin/Martin/732279.ts
+#EXTINF:-1 tvg-id="nascarno71michaelmcdowellmar292115vnmaxus33" tvg-name="NASCAR: No 71 Michael McDowell @ Mar 29 21:15 (VN):MAX US 33" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 71 Michael McDowell @ Mar 29 21:15 (VN):MAX US 33
+http://myxpanel.pro:80/live/Martin/Martin/732278.ts
+#EXTINF:-1 tvg-id="nascarno77carsonhocevarmar292115vnmaxus06" tvg-name="NASCAR: No 77 Carson Hocevar @ Mar 29 21:15 (VN):MAX US 06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 77 Carson Hocevar @ Mar 29 21:15 (VN):MAX US 06
+http://myxpanel.pro:80/live/Martin/Martin/732305.ts
+#EXTINF:-1 tvg-id="nascarno8kylebuschmar292115vnmaxus23" tvg-name="NASCAR: No 8 Kyle Busch @ Mar 29 21:15 (VN):MAX US 23" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 8 Kyle Busch @ Mar 29 21:15 (VN):MAX US 23
+http://myxpanel.pro:80/live/Martin/Martin/732288.ts
+#EXTINF:-1 tvg-id="nascarno88connorzilischmar292115vnmaxus26" tvg-name="NASCAR: No 88 Connor Zilisch @ Mar 29 21:15 (VN):MAX US 26" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 88 Connor Zilisch @ Mar 29 21:15 (VN):MAX US 26
+http://myxpanel.pro:80/live/Martin/Martin/732285.ts
+#EXTINF:-1 tvg-id="nascarno9chaseelliottmar292115vnmaxus35" tvg-name="NASCAR: No 9 Chase Elliott @ Mar 29 21:15 (VN):MAX US 35" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 9 Chase Elliott @ Mar 29 21:15 (VN):MAX US 35
+http://myxpanel.pro:80/live/Martin/Martin/732276.ts
+#EXTINF:-1 tvg-id="nascarno97shanevangisbergenmar292115vnmaxus25" tvg-name="NASCAR: No 97 Shane van Gisbergen @ Mar 29 21:15 (VN):MAX US 25" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",NASCAR: No 97 Shane van Gisbergen @ Mar 29 21:15 (VN):MAX US 25
+http://myxpanel.pro:80/live/Martin/Martin/732286.ts
 #EXTINF:-1 tvg-id="nbcsports19" tvg-name=":Nbc Sports  19" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  19
 http://myxpanel.pro:80/live/Martin/Martin/780217.ts
 #EXTINF:-1 tvg-id="nbcsports20" tvg-name=":Nbc Sports  20" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  20
