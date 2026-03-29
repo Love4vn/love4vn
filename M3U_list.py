@@ -74,7 +74,7 @@ SPORTS_EXCLUDE_KEYWORDS = [
     'livee', 'married', 'mulan', 'matchstick', 'moon garden', 'mortal kombat', 'mr bean', 'ms. matched',
     'mtv uutiset', 'in sırrı', 'the live', 'garoto', 'crossover', 'perfect match', 'kindred garden', 'Oe0hrS0',
     'pilipinas', 'tv napoli', 'nexus tv', 'bangla', 'ekhon', 'jamuna', 'r+', 'radio', 'eplice', 'rbb event', 'nautical',
-    'Tamil', 'kanchi', 'swr event', 'gardener', 'hatton', 'the match', 'terror', 'luna napoli', 'evento', 'ovacion', 'overtime', 'insider', 'peacock [', 'poker go', 'moon', 'tvb jade', 'napolis', 'astrovi', 'allá', 'serbest', 'monstruos', 'sticks', 'termina', 'justicia', 'yakuza', 'inside', 'dioses', 'dinaria', 'astro (', 'hua hee', 'quan jia',
+    'Tamil', 'kanchi', 'swr event', 'gardener', 'hatton', 'the match', 'terror', 'luna napoli', 'evento', 'ovacion', 'overtime', 'insider', 'peacock [', 'poker go', 'moon', 'tvb jade', 'napolis', 'astrovi', 'allá', 'serbest', 'monstruos', 'sticks', 'termina', 'justicia', 'yakuza', 'inside', 'dioses', 'dinaria', 'astro (', 'hua hee', 'quan jia', 'tjk tv',
     'consumer', 'teagarden', 'matchbox', 'courage', 'cristina', 'gaiden', 'bollywood', 'zee', 'post live', 'introuble', 'madein', 'meridiano', 'monterrico', 'wdr event', 'wolf garden', 'basco', 'livelihood', 'phuket', 'スlive', '▅ ▃ ▂', 'surpresa', 'spring', 'equidia', 'sangrento', 'só que', 'vtv (',
     'iptvmate.net', 'kindred', 'uutiset', 'natal', 'divino', 'david', 'astro欢', 'dangal'
 ]
