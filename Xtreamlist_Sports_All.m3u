@@ -1715,20 +1715,12 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="next1203gmtbilbaoatleticomadridallprimede" tvg-name="Next | 12:03 (GMT) | Bilbao - Atletico Madrid | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Bilbao - Atletico Madrid | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="next1203gmtinflandersfieldsfrommiddelkerketowevelgemuciworldtourmännermiddelkerkewevelgem2408kmallprimede" tvg-name="Next | 12:03 (GMT) | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="next1203gmtinflandersfieldsfrommiddelkerketowevelgemuciworldtourmännermiddelkerkewevelgem2408kmallprimede" tvg-name="Next | 12:03 (GMT) | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | In Flanders Fields - From Middelkerke to Wevelgem UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next1203gmtmanchesterbasketballleicesterridersallprimede" tvg-name="Next | 12:03 (GMT) | Manchester Basketball - Leicester Riders | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Manchester Basketball - Leicester Riders | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="livef1analyseninterviewsgpjapanallprimede" tvg-name="Live | F1: Analysen & Interviews-GP Japan | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | F1: Analysen & Interviews-GP Japan | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="liveskispringenweltcupinlillehammerhs240männerallprimede" tvg-name="Live | Skispringen: Weltcup in Lillehammer: HS 240 Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Skispringen: Weltcup in Lillehammer: HS 240 Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="next1203gmtplanicamenhs240allprimede" tvg-name="Next | 12:03 (GMT) | Planica - Men HS 240 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Planica - Men HS 240 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="next1203gmtplanicaeinzelfliegenweltcupmännerhs240allprimede" tvg-name="Next | 12:03 (GMT) | Planica | Einzelfliegen Weltcup | Männer | HS 240 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Planica | Einzelfliegen Weltcup | Männer | HS 240 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="next1203gmtplanicaeinzelfliegenweltcupmännerhs240allprimede" tvg-name="Next | 12:03 (GMT) | Planica | Einzelfliegen Weltcup | Männer | HS 240 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Planica | Einzelfliegen Weltcup | Männer | HS 240 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next1203gmtschweizmx21rennenwmfrauenfeldallprimede" tvg-name="Next | 12:03 (GMT) | Schweiz | MX2 | 1. Rennen WM | Frauenfeld | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Schweiz | MX2 | 1. Rennen WM | Frauenfeld | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="next1203gmtsilvaplanaslopestyleweltcupfrauenmännerenglischerkommentarallprimede" tvg-name="Next | 12:03 (GMT) | Silvaplana | Slopestyle Weltcup | Frauen / Männer | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Silvaplana | Slopestyle Weltcup | Frauen / Männer | Englischer Kommentar | all | PRIME-DE
@@ -1741,6 +1733,14 @@ http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1203gmtworldwcrportugal2rennenfrauenwmenglischerkommentarallprimede" tvg-name="Next | 12:03 (GMT) | WorldWCR | Portugal | 2. Rennen Frauen-WM | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | WorldWCR | Portugal | 2. Rennen Frauen-WM | Englischer Kommentar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
