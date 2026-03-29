@@ -1441,7 +1441,7 @@ http://myxpanel.pro:80/live/Martin/Martin/805944.ts
 http://myxpanel.pro:80/live/Martin/Martin/805943.ts
 #EXTINF:-1 tvg-id="canadianringettechampionshipsday1rink3mar301415vncbcgem11" tvg-name="Canadian Ringette Championships: Day 1 - Rink 3 @ Mar 30 14:15 (VN):CBC Gem  11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 1 - Rink 3 @ Mar 30 14:15 (VN):CBC Gem  11
 http://myxpanel.pro:80/live/Martin/Martin/805942.ts
-#EXTINF:-1 tvg-id="cbcsportslatenight2026worldathleticsindoorchampionshipspolandmar290830vncbcgem01" tvg-name="CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 08:30 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 08:30 (VN):CBC Gem  01
+#EXTINF:-1 tvg-id="cbcsportslatenight2026worldathleticsindoorchampionshipspolandmar290730vncbcgem01" tvg-name="CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 07:30 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports Late Night:  2026 World Athletics Indoor Championships - Poland @ Mar 29 07:30 (VN):CBC Gem  01
 http://myxpanel.pro:80/live/Martin/Martin/805952.ts
 #EXTINF:-1 tvg-id="cbcsportsfisfreestyleskiingworldcupskicrossgällivaremar292100vncbcgem07" tvg-name="CBC Sports: FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 21:00 (VN):CBC Gem  07" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",CBC Sports: FIS Freestyle Skiing World Cup: Ski Cross - Gällivare @ Mar 29 21:00 (VN):CBC Gem  07
 http://myxpanel.pro:80/live/Martin/Martin/805946.ts
@@ -1751,31 +1751,29 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1203gmtazerbaijanvssierraleoneallprimede" tvg-name="Next | 12:03 (GMT) | Azerbaijan vs. Sierra Leone | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Azerbaijan vs. Sierra Leone | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1203gmtcapeverdeislandsfinlandallprimede" tvg-name="Next | 12:03 (GMT) | Cape Verde Islands - Finland | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Cape Verde Islands - Finland | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1203gmtcyprusvsmoldovaallprimede" tvg-name="Next | 12:03 (GMT) | Cyprus vs. Moldova | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Cyprus vs. Moldova | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1203gmtgabonvstrinidadandtobagoallprimede" tvg-name="Next | 12:03 (GMT) | Gabon vs. Trinidad and Tobago | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Gabon vs. Trinidad and Tobago | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="next1203gmtgrenadavskenyaallprimede" tvg-name="Next | 12:03 (GMT) | Grenada vs. Kenya | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Grenada vs. Kenya | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="next1203gmtguardiansatmarinersallprimede" tvg-name="Next | 12:03 (GMT) | Guardians at Mariners | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Guardians at Mariners | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="next1203gmtindonesiavsbulgariaallprimede" tvg-name="Next | 12:03 (GMT) | Indonesia vs. Bulgaria | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Indonesia vs. Bulgaria | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next1203gmtinsidetheringmar30allprimede" tvg-name="Next | 12:03 (GMT) | Inside The Ring - Mar 30 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Inside The Ring - Mar 30 | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="next1203gmtnewzealandvschileallprimede" tvg-name="Next | 12:03 (GMT) | New Zealand vs. Chile | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | New Zealand vs. Chile | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="next1203gmtpiratesatredsallprimede" tvg-name="Next | 12:03 (GMT) | Pirates at Reds | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Pirates at Reds | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="next1203gmtrwandavsestoniaallprimede" tvg-name="Next | 12:03 (GMT) | Rwanda vs. Estonia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | Rwanda vs. Estonia | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="next1203gmtstkittsandnevisvssolomonislandsallprimede" tvg-name="Next | 12:03 (GMT) | St. Kitts and Nevis vs. Solomon Islands | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:03 (GMT) | St. Kitts and Nevis vs. Solomon Islands | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
@@ -3325,9 +3323,9 @@ http://myxpanel.pro:80/live/Martin/Martin/751714.ts
 http://myxpanel.pro:80/live/Martin/Martin/751768.ts
 #EXTINF:-1 tvg-id="basketballno6tennesseevsno3virginiamar220400vnmaxfr40" tvg-name="Basketball: No 6 Tennessee vs No 3 Virginia @ Mar 22 04:00 (VN):MAX FR  40" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: No 6 Tennessee vs No 3 Virginia @ Mar 22 04:00 (VN):MAX FR  40
 http://myxpanel.pro:80/live/Martin/Martin/751773.ts
-#EXTINF:-1 tvg-id="basketballno7uclavsno2uconnmar230830vnmaxfr44" tvg-name="Basketball: No 7 UCLA vs No 2 UConn @ Mar 23 08:30 (VN):MAX FR  44" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: No 7 UCLA vs No 2 UConn @ Mar 23 08:30 (VN):MAX FR  44
+#EXTINF:-1 tvg-id="basketballno7uclavsno2uconnmar230730vnmaxfr44" tvg-name="Basketball: No 7 UCLA vs No 2 UConn @ Mar 23 07:30 (VN):MAX FR  44" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: No 7 UCLA vs No 2 UConn @ Mar 23 07:30 (VN):MAX FR  44
 http://myxpanel.pro:80/live/Martin/Martin/751769.ts
-#EXTINF:-1 tvg-id="basketballno9utahstvsno1arizonamar230745vnmaxfr43" tvg-name="Basketball: No 9 Utah St vs No 1 Arizona @ Mar 23 07:45 (VN):MAX FR  43" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: No 9 Utah St vs No 1 Arizona @ Mar 23 07:45 (VN):MAX FR  43
+#EXTINF:-1 tvg-id="basketballno9utahstvsno1arizonamar230645vnmaxfr43" tvg-name="Basketball: No 9 Utah St vs No 1 Arizona @ Mar 23 06:45 (VN):MAX FR  43" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: No 9 Utah St vs No 1 Arizona @ Mar 23 06:45 (VN):MAX FR  43
 http://myxpanel.pro:80/live/Martin/Martin/751770.ts
 #EXTINF:-1 tvg-id="basketballsecondroundmultiviewday2mar220400vnmaxfr41" tvg-name="Basketball: Second Round Multiview: Day 2 @ Mar 22 04:00 (VN):MAX FR  41" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="FR| max sports",Basketball: Second Round Multiview: Day 2 @ Mar 22 04:00 (VN):MAX FR  41
 http://myxpanel.pro:80/live/Martin/Martin/751772.ts
@@ -5177,7 +5175,7 @@ http://myxpanel.pro:80/live/Martin/Martin/780224.ts
 http://myxpanel.pro:80/live/Martin/Martin/780228.ts
 #EXTINF:-1 tvg-id="nbaknicksvsthundermar290030vnnbcsports09" tvg-name="NBA: Knicks vs Thunder @ Mar 29 00:30 (VN):Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Knicks vs Thunder @ Mar 29 00:30 (VN):Nbc Sports  09
 http://myxpanel.pro:80/live/Martin/Martin/780227.ts
-#EXTINF:-1 tvg-id="nbawarriorspostgamelivemar300730vnnbcsports14" tvg-name="NBA: Warriors Postgame Live @ Mar 30 07:30 (VN):Nbc Sports  14" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors Postgame Live @ Mar 30 07:30 (VN):Nbc Sports  14
+#EXTINF:-1 tvg-id="nbawarriorspostgamelivemar300630vnnbcsports14" tvg-name="NBA: Warriors Postgame Live @ Mar 30 06:30 (VN):Nbc Sports  14" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors Postgame Live @ Mar 30 06:30 (VN):Nbc Sports  14
 http://myxpanel.pro:80/live/Martin/Martin/780222.ts
 #EXTINF:-1 tvg-id="nbawarriorspregamelivemar290300vnnbcsports11" tvg-name="NBA: Warriors Pregame Live @ Mar 29 03:00 (VN):Nbc Sports  11" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Warriors Pregame Live @ Mar 29 03:00 (VN):Nbc Sports  11
 http://myxpanel.pro:80/live/Martin/Martin/780225.ts
