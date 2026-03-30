@@ -76,7 +76,8 @@ SPORTS_EXCLUDE_KEYWORDS = [
     'pilipinas', 'tv napoli', 'nexus tv', 'bangla', 'ekhon', 'jamuna', 'r+', 'radio', 'eplice', 'rbb event', 'nautical',
     'Tamil', 'kanchi', 'swr event', 'gardener', 'hatton', 'the match', 'terror', 'luna napoli', 'evento', 'ovacion', 'overtime', 'insider', 'peacock [', 'poker go', 'moon', 'tvb jade', 'napolis', 'astrovi', 'allá', 'serbest', 'monstruos', 'sticks', 'termina', 'justicia', 'yakuza', 'inside', 'dioses', 'dinaria', 'astro (', 'hua hee', 'quan jia', 'tjk tv',
     'consumer', 'teagarden', 'matchbox', 'courage', 'cristina', 'gaiden', 'bollywood', 'zee', 'post live', 'introuble', 'madein', 'meridiano', 'monterrico', 'wdr event', 'wolf garden', 'basco', 'livelihood', 'phuket', 'スlive', '▅ ▃ ▂', 'surpresa', 'spring', 'equidia', 'sangrento', 'só que', 'vtv (',
-    'iptvmate.net', 'kindred', 'uutiset', 'natal', 'divino', 'david', 'astro欢', 'dangal'
+    'iptvmate.net', 'kindred', 'uutiset', 'natal', 'divino', 'david', 'astro欢', 'dangal',
+    # Thêm các từ khóa loại trừ phim đặc biệt: các kênh có tên chứa ngày tháng như [31.01.2026]
 ]
 
 # Map đổi tên kênh thể thao
@@ -136,19 +137,19 @@ PLAYLIST_CACHE = {}
 # -------------------- HÀM TIỆN ÍCH --------------------
 def clean_channel_name(name):
     """Làm sạch tên kênh: loại bỏ group-title cũ, các ký tự đặc biệt"""
-    # Loại bỏ các chuỗi group-title="..." trong tên
     name = re.sub(r'group-title="[^"]*"', '', name)
-    # Loại bỏ các dấu phẩy thừa
     name = re.sub(r',+', ',', name)
-    # Loại bỏ khoảng trắng thừa
     name = re.sub(r'\s+', ' ', name).strip()
     return name
 
 def normalize_channel_name(name):
     """Chuẩn hóa tên kênh: loại bỏ nội dung trong ngoặc, ký tự đặc biệt, chỉ giữ chữ và số"""
+    # Loại bỏ nội dung trong ngoặc vuông và ngoặc tròn (bao gồm cả nội dung)
     name = re.sub(r'\[.*?\]', '', name)
     name = re.sub(r'\(.*?\)', '', name)
+    # Loại bỏ các từ phổ biến như hd, fhd, 4k, sd, channel, tv, etc.
     name = re.sub(r'\b(hd|fhd|uhd|4k|sd|channel|tv|ch)\b', '', name, flags=re.IGNORECASE)
+    # Loại bỏ các ký tự đặc biệt, chỉ giữ chữ cái, số và khoảng trắng
     name = re.sub(r'[^\w\s]', '', name)
     name = re.sub(r'\s+', ' ', name).strip().lower()
     return name
@@ -157,11 +158,28 @@ def build_normalized_set(channel_list):
     return {normalize_channel_name(name) for name in channel_list}
 
 def is_sports_channel(name_lower):
-    for ex in SPORTS_EXCLUDE_KEYWORDS:
-        if ex in name_lower:
-            return False
-    for inc in SPORTS_INCLUDE_KEYWORDS:
-        if inc in name_lower:
+    """Xác định kênh thể thao: ưu tiên include, chỉ exclude nếu không có include"""
+    has_include = any(inc in name_lower for inc in SPORTS_INCLUDE_KEYWORDS)
+    has_exclude = any(ex in name_lower for ex in SPORTS_EXCLUDE_KEYWORDS)
+    if has_include:
+        return True
+    # Nếu không có include, nhưng có exclude -> không phải thể thao
+    if has_exclude:
+        return False
+    # Nếu không có cả hai, mặc định không phải thể thao
+    return False
+
+def is_movie_channel(name_lower):
+    """Phát hiện các kênh phim không mong muốn dựa trên pattern ngày tháng và từ khóa"""
+    # Pattern ngày tháng trong ngoặc: [dd.mm.yyyy] hoặc (yyyy)
+    if re.search(r'\[\d{1,2}\.\d{1,2}\.\d{4}\]', name_lower):
+        return True
+    if re.search(r'\(\d{4}\)', name_lower):
+        return True
+    # Từ khóa phim (có thể bổ sung)
+    movie_keywords = ['man', 'woman', 'movie', 'film', 'bollywood', 'hollywood', 'cinema', 'drama']
+    for kw in movie_keywords:
+        if kw in name_lower:
             return True
     return False
 
@@ -212,22 +230,24 @@ def resolve_m3u8_url(url, max_depth=3, session=None):
         print(f"Lỗi resolve {url}: {e}")
         return url
 
-def check_channel_health(url, timeout=5):
+def check_channel_health(url, timeout=6):
     if url.startswith('udp://'):
         return True
     try:
         headers = {'User-Agent': 'VLC/3.0.18 LibVLC/3.0.18'}
+        # Thử HEAD trước
         resp = requests.head(url, headers=headers, timeout=timeout, allow_redirects=True)
         if resp.status_code < 400:
             return True
-        if resp.status_code in (403, 452, 456):
+        # Nếu lỗi 403/452/456/405/400 hoặc server trả về 5xx, thử GET với range
+        if resp.status_code in (403, 452, 456, 405, 400) or resp.status_code >= 500:
             headers_range = headers.copy()
             headers_range['Range'] = 'bytes=0-1'
             resp2 = requests.get(url, headers=headers_range, timeout=timeout, allow_redirects=True)
             if resp2.status_code in (206, 200):
                 return True
         return False
-    except:
+    except Exception:
         return False
 
 def is_low_resolution(resolution):
@@ -247,12 +267,16 @@ def is_low_resolution(resolution):
     return False
 
 def classify_channel(ch_name, ch_name_lower, normalized_name, vtv_set, ent_set):
-    if normalized_name in vtv_set:
+    # 1. Loại trừ kênh phim không mong muốn
+    if is_movie_channel(ch_name_lower):
+        return None
+    # 2. Ưu tiên kiểm tra thể thao trước
+    if is_sports_channel(ch_name_lower):
+        return "Thể Thao"
+    elif normalized_name in vtv_set:
         return "Kênh VTV"
     elif normalized_name in ent_set:
         return "Giải Trí"
-    elif is_sports_channel(ch_name_lower):
-        return "Thể Thao"
     return None
 
 def sort_key(ch, group):
@@ -327,6 +351,7 @@ def process_channel(ch, vtv_set, ent_set, epg_mapping):
     ch['name'] = clean_channel_name(ch['name'])
     ch_name = ch['name']
     ch_name_lower = ch_name.lower()
+    # Phát hiện độ phân giải từ tên
     res_match = re.search(r'(\d{3,4}[pP]|\d+K|HD|SD|FHD|UHD)', ch_name_lower)
     resolution = res_match.group(0).upper() if res_match else ""
     if is_low_resolution(resolution):
@@ -345,6 +370,7 @@ def final_check_and_resolve(ch):
     url = ch['url']
     if url.startswith('udp://'):
         return ch
+    # Chỉ resolve nếu là link github và có đuôi playlist
     if 'github' in url.lower() and url.lower().endswith(('.m3u8', '.m3u')):
         resolved = resolve_m3u8_url(url)
         if resolved != url:
