@@ -18,18 +18,20 @@ VTV_CHANNELS = [
 ENTERTAINMENT_CHANNELS = [
     "AXN", "HBO", "HBO HITS", "HBO FAMILY", "HBO SIGNATURE", "CINEMAX", "Ninja Warrior",
     "CINEMA WORLD", "DREAMWORKS", "BOX MOVIE 1", "HOLLYWOOD CLASSICS", "Wipeout Xtra",
-    "BOX HITS", "WARNER TV", "CINEMAWORLD", "FOX FAMILY MOVIES", "FailArmy", "The Pet Collective", "Love Pets", "Mythbusters", "River Monsters", "INWILD", "just for laughs", "Adventure Earth",
+    "BOX HITS", "WARNER TV", "CINEMAWORLD", "FOX FAMILY MOVIES", "FailArmy", "The Pet Collective", 
+    "Love Pets", "Mythbusters", "River Monsters", "INWILD", "just for laughs", "Adventure Earth",
     "DISCOVERY CHANNEL", "DISCOVERY ASIA", "NATIONAL GEOGRAPHIC", "Gardeners' World",
-    "ANIMAL PLANET", "MAN", "WOMAN", "FASHION TV", "OUTDOOR CHANNEL", "always funny videos", "gardening with monty don"
+    "ANIMAL PLANET", "MAN", "WOMAN", "FASHION TV", "OUTDOOR CHANNEL", "always funny videos", 
+    "gardening with monty don"
 ]
 
 # Từ khóa nhận diện kênh Thể Thao
 SPORTS_INCLUDE_KEYWORDS = [
-    'arsenal', 'aston villa', 'bournemouth',
-    'brentford', 'brighton', 'chelsea', 'crystal palace', 'everton', 'fulham', 'leeds united', 'liverpool',
-    'manchester city', 'manchester united', 'newcastle', 'nottingham forest', 'sunderland', 'tottenham hotspur',
-    'west ham united', 'wolverhampton', 'bayern', 'borussia dortmund', 'bayer leverkusen', 'inter milan',
-    'ac milan', 'napoli', 'barcelona', 'real madrid', 'atlético', 'psg', 'olympique marseille', 'thể thao',
+    'arsenal', 'aston villa', 'bournemouth', 'brentford', 'brighton', 'chelsea', 'crystal palace', 
+    'everton', 'fulham', 'leeds united', 'liverpool', 'manchester city', 'manchester united', 
+    'newcastle', 'nottingham forest', 'sunderland', 'tottenham hotspur', 'west ham united', 
+    'wolverhampton', 'bayern', 'borussia dortmund', 'bayer leverkusen', 'inter milan', 'ac milan', 
+    'napoli', 'barcelona', 'real madrid', 'atlético', 'psg', 'olympique marseille', 'thể thao',
     'the thao', 'sport', 'bóng đá', 'bong da', 'dazn', 'sports', 'spor', 'hub premier', 'premier',
     'mono max', 'astro', 'spotv', 'epl', 'football', 'soccer', 'tsn', 'la liga', 'laliga', 'bundesliga',
     'seriea', 'serie a', 'uefa', 'premier league', 'golf', 'tennis', '4k uhd', 'dstv now', 'canal+',
@@ -37,7 +39,7 @@ SPORTS_INCLUDE_KEYWORDS = [
     'telemundo', 'sooka', 'peacock', 'tv3 max', 'movistar', 'cazétv', 'cazetv', 'tv360'
 ]
 
-# Từ khóa loại trừ (không phải thể thao)
+# Từ khóa loại trừ (không phải thể thao) - Đã được thu gọn, chỉ giữ các từ khóa đặc trưng
 SPORTS_EXCLUDE_KEYWORDS = [
     'cricket', 'nhl', 'rugby', 'doku', 'tehlike', 'macer', 'orman', 'ada', 'dönüş', 'ejderha', 'elio',
     'brescia', 'dora', 'taş', 'sol dorado', 'the man who', 'bay', 'tüyü', 'pesinde', 'devi', '2 macera',
@@ -54,30 +56,42 @@ SPORTS_EXCLUDE_KEYWORDS = [
     'burden', 'seventeen', 'victim', 'transfer', 'the main event', 'you live', 'seventh', 'their live',
     'transporter', 'fatty live', 'out live', 'can live', 'only live', 'lived', 'news', 'astro boy',
     'astro loco', 'çocuk', 'astronot', 'philippine', 'rastro', 'lastro', 'golfe', 'miicrosoft', 'eples',
-    'golfinho', 'kaçık', 'gulliverin', 'gulliver', 'o dia', 'pequenos', 'perde', 'untold', 'verônica', 'UaH6R6YA', 'arsenal [',
-    'youre a good sport', 'winter', 'bloomberg', 'pierce', 'eventura', 'entertainment', 'livecam', 'llbn',
-    'quran', 'music', 'livenow', 'wnbc', 'shop', 'wall street', 'undefined', 'to live', 'eventy', 'happy event',
-    'serial', 'echo live', 'annie live', 'romanti', 'antenna', 'bloodsport', 'drama', 'clive', 'eplica',
-    'deliver', 'tale', 'to the moon', 'karanlik', 'event 15', 'movie', 'film', 'fantasy', 'fight to live',
-    'saldiri', 'fletch', 'fluefa', 'death lives', 'hatayspor', 'ulster', 'korku', 'horror', 'i live', 'pretty',
-    'replace', 'amelot', 'sporu', 'hikay', 'escape', 'is life', 'kanunu', 'direction', 'spore', 'cheerleading',
-    'no one', 'passport', 'peepli', 'eplica', 'eplika', 'secret live', 'shaolin', 'sleepless', 'slive', 'livet',
-    'strange event', 'spetsna', 'taking live', 'burden', 'seventeen', 'victim', 'transfer', 'the main event',
-    'you live', 'seventh', 'their live', 'transporter', 'fatty live', 'out live', 'can live', 'only live',
-    'lived', 'news', 'dram', 'vod', 'Neighbor', 'Tamil', 'bangla', 'Kâbusu', 'Engliah', 'hindi', 'cams', 'K+', 'astro tak', 'astro qj', 'astrocitra',
-    'Big Brother', 'astro ria', 'astro prima', 'astro citra', 'astro sensasi', 'astro warna', 'adultiptv',
-    'Married Meet', 'PD Presents', 'Astro Ceria', 'a melbourne', 'Annapolis', '6R6YA_big', 'FBmm6oXHjy',
-    'astro aec', 'astro aod', 'astro awani', 'astro blitar', 'astro happy', 'astro kid', 'barbie', 'bfl live',
-    'bird box', 'bleav', 'bn channel', 'body at', 'br event', 'brighton 4th', 'cinema', 'colimdot', 'colors', 'ceria',
-    'rainha', 'diaspora', 'ege live', 'MvdzZwM', 'garden of eden', 'golden premier', 'belive', 'grey garden',
-    'savage garden', 'daily live', 'camera', 'kbri', 'kiss', 'lemon tree', 'kamera', 'present', 'live99fm', 'sport 1 (drm)', 'sport 2 (drm)', 'premier 1tv',
-    'livee', 'married', 'mulan', 'matchstick', 'moon garden', 'mortal kombat', 'mr bean', 'ms. matched',
-    'mtv uutiset', 'in sırrı', 'the live', 'garoto', 'crossover', 'perfect match', 'kindred garden', 'Oe0hrS0',
-    'pilipinas', 'tv napoli', 'nexus tv', 'bangla', 'ekhon', 'jamuna', 'r+', 'radio', 'eplice', 'rbb event', 'nautical',
-    'Tamil', 'kanchi', 'swr event', 'gardener', 'hatton', 'the match', 'terror', 'luna napoli', 'evento', 'ovacion', 'overtime', 'insider', 'peacock [', 'poker go', 'moon', 'tvb jade', 'napolis', 'astrovi', 'allá', 'serbest', 'monstruos', 'sticks', 'termina', 'justicia', 'yakuza', 'inside', 'dioses', 'dinaria', 'astro (', 'hua hee', 'quan jia', 'tjk tv',
-    'consumer', 'teagarden', 'matchbox', 'courage', 'cristina', 'gaiden', 'bollywood', 'zee', 'post live', 'introuble', 'madein', 'meridiano', 'monterrico', 'wdr event', 'wolf garden', 'basco', 'livelihood', 'phuket', 'スlive', '▅ ▃ ▂', 'surpresa', 'spring', 'equidia', 'sangrento', 'só que', 'vtv (',
-    'iptvmate.net', 'kindred', 'uutiset', 'natal', 'divino', 'david', 'astro欢', 'dangal',
-    # Thêm các từ khóa loại trừ phim đặc biệt: các kênh có tên chứa ngày tháng như [31.01.2026]
+    'golfinho', 'kaçık', 'gulliverin', 'gulliver', 'o dia', 'pequenos', 'perde', 'untold', 'verônica', 
+    'UaH6R6YA', 'arsenal [', 'youre a good sport', 'winter', 'bloomberg', 'pierce', 'eventura', 
+    'entertainment', 'livecam', 'llbn', 'quran', 'music', 'livenow', 'wnbc', 'shop', 'wall street', 
+    'undefined', 'to live', 'eventy', 'happy event', 'serial', 'echo live', 'annie live', 'romanti', 
+    'antenna', 'bloodsport', 'drama', 'clive', 'eplica', 'deliver', 'tale', 'to the moon', 'karanlik', 
+    'event 15', 'movie', 'film', 'fantasy', 'fight to live', 'saldiri', 'fletch', 'fluefa', 'death lives', 
+    'hatayspor', 'ulster', 'korku', 'horror', 'i live', 'pretty', 'replace', 'amelot', 'sporu', 'hikay', 
+    'escape', 'is life', 'kanunu', 'direction', 'spore', 'cheerleading', 'no one', 'passport', 'peepli', 
+    'eplica', 'eplika', 'secret live', 'shaolin', 'sleepless', 'slive', 'livet', 'strange event', 'spetsna', 
+    'taking live', 'burden', 'seventeen', 'victim', 'transfer', 'the main event', 'you live', 'seventh', 
+    'their live', 'transporter', 'fatty live', 'out live', 'can live', 'only live', 'lived', 'news', 'dram', 
+    'vod', 'Neighbor', 'Tamil', 'bangla', 'Kâbusu', 'Engliah', 'hindi', 'cams', 'K+', 'astro tak', 'astro qj', 
+    'astrocitra', 'Big Brother', 'astro ria', 'astro prima', 'astro citra', 'astro sensasi', 'astro warna', 
+    'adultiptv', 'Married Meet', 'PD Presents', 'Astro Ceria', 'a melbourne', 'Annapolis', '6R6YA_big', 
+    'FBmm6oXHjy', 'astro aec', 'astro aod', 'astro awani', 'astro blitar', 'astro happy', 'astro kid', 
+    'barbie', 'bfl live', 'bird box', 'bleav', 'bn channel', 'body at', 'br event', 'brighton 4th', 'cinema', 
+    'colimdot', 'colors', 'ceria', 'rainha', 'diaspora', 'ege live', 'MvdzZwM', 'garden of eden', 
+    'golden premier', 'belive', 'grey garden', 'savage garden', 'daily live', 'camera', 'kbri', 'kiss', 
+    'lemon tree', 'kamera', 'present', 'live99fm', 'sport 1 (drm)', 'sport 2 (drm)', 'premier 1tv', 'livee', 
+    'married', 'mulan', 'matchstick', 'moon garden', 'mortal kombat', 'mr bean', 'ms. matched', 'mtv uutiset', 
+    'in sırrı', 'the live', 'garoto', 'crossover', 'perfect match', 'kindred garden', 'Oe0hrS0', 'pilipinas', 
+    'tv napoli', 'nexus tv', 'bangla', 'ekhon', 'jamuna', 'r+', 'radio', 'eplice', 'rbb event', 'nautical', 
+    'Tamil', 'kanchi', 'swr event', 'gardener', 'hatton', 'the match', 'terror', 'luna napoli', 'evento', 
+    'ovacion', 'overtime', 'insider', 'peacock [', 'poker go', 'moon', 'tvb jade', 'napolis', 'astrovi', 
+    'allá', 'serbest', 'monstruos', 'sticks', 'termina', 'justicia', 'yakuza', 'inside', 'dioses', 'dinaria', 
+    'astro (', 'hua hee', 'quan jia', 'tjk tv', 'consumer', 'teagarden', 'matchbox', 'courage', 'cristina', 
+    'gaiden', 'bollywood', 'zee', 'post live', 'introuble', 'madein', 'meridiano', 'monterrico', 'wdr event', 
+    'wolf garden', 'basco', 'livelihood', 'phuket', 'スlive', '▅ ▃ ▂', 'surpresa', 'spring', 'equidia', 
+    'sangrento', 'só que', 'vtv (', 'iptvmate.net', 'kindred', 'uutiset', 'natal', 'divino', 'david', 
+    'astro欢', 'dangal'
+]
+
+# DANH SÁCH TỪ KHÓA LOẠI TRỪ PHIM (bạn có thể tự thêm vào đây)
+MOVIE_EXCLUDE_KEYWORDS = [
+    'man [', 'man! (', 'woman [', 'wo man [',  # Các định dạng phim bạn cung cấp
+    # Thêm các từ khóa phim không mong muốn khác nếu cần
 ]
 
 # Map đổi tên kênh thể thao
@@ -113,10 +127,10 @@ GROUP_ORDER = {
     "Trực tiếp": 4
 }
 
+# EPG SOURCES - chỉ giữ các nguồn ổn định, loại bỏ nguồn lỗi
 EPG_SOURCES = [
     "https://hnlive.dramahay.xyz/epg.xml",
     "https://raw.githubusercontent.com/mrprince/epg/refs/heads/main/epg.xml.gz",
-    "https://raw.githubusercontent.com/Love4vn/Test/refs/heads/main/IPTV.m3u",
     "https://raw.githubusercontent.com/karepech/Epgku/main/epg_wib_sports.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
@@ -144,12 +158,9 @@ def clean_channel_name(name):
 
 def normalize_channel_name(name):
     """Chuẩn hóa tên kênh: loại bỏ nội dung trong ngoặc, ký tự đặc biệt, chỉ giữ chữ và số"""
-    # Loại bỏ nội dung trong ngoặc vuông và ngoặc tròn (bao gồm cả nội dung)
     name = re.sub(r'\[.*?\]', '', name)
     name = re.sub(r'\(.*?\)', '', name)
-    # Loại bỏ các từ phổ biến như hd, fhd, 4k, sd, channel, tv, etc.
     name = re.sub(r'\b(hd|fhd|uhd|4k|sd|channel|tv|ch)\b', '', name, flags=re.IGNORECASE)
-    # Loại bỏ các ký tự đặc biệt, chỉ giữ chữ cái, số và khoảng trắng
     name = re.sub(r'[^\w\s]', '', name)
     name = re.sub(r'\s+', ' ', name).strip().lower()
     return name
@@ -158,32 +169,16 @@ def build_normalized_set(channel_list):
     return {normalize_channel_name(name) for name in channel_list}
 
 def is_sports_channel(name_lower):
-    """Xác định kênh thể thao: ưu tiên include, chỉ exclude nếu không có include"""
+    # Ưu tiên include hơn exclude để tránh loại nhầm
     has_include = any(inc in name_lower for inc in SPORTS_INCLUDE_KEYWORDS)
     has_exclude = any(ex in name_lower for ex in SPORTS_EXCLUDE_KEYWORDS)
-    if has_include:
-        return True
-    # Nếu không có include, nhưng có exclude -> không phải thể thao
-    if has_exclude:
-        return False
-    # Nếu không có cả hai, mặc định không phải thể thao
-    return False
+    return has_include and not has_exclude
 
-def is_movie_channel(name_lower):
-    """Phát hiện các kênh phim không mong muốn dựa trên pattern ngày tháng và từ khóa"""
-    # Pattern ngày tháng trong ngoặc: [dd.mm.yyyy] hoặc (yyyy)
-    if re.search(r'\[\d{1,2}\.\d{1,2}\.\d{4}\]', name_lower):
-        return True
-    if re.search(r'\(\d{4}\)', name_lower):
-        return True
-    # Từ khóa phim (có thể bổ sung)
-    movie_keywords = ['man', 'woman', 'movie', 'film', 'bollywood', 'hollywood', 'cinema', 'drama']
-    for kw in movie_keywords:
-        if kw in name_lower:
-            return True
-    return False
+def is_movie_excluded(name_lower):
+    """Kiểm tra tên kênh có chứa từ khóa phim cần loại trừ không"""
+    return any(ex in name_lower for ex in MOVIE_EXCLUDE_KEYWORDS)
 
-def resolve_m3u8_url(url, max_depth=3, session=None):
+def resolve_m3u8_url(url, max_depth=2, session=None):
     if max_depth <= 0:
         return url
     if url in PLAYLIST_CACHE:
@@ -227,10 +222,10 @@ def resolve_m3u8_url(url, max_depth=3, session=None):
             PLAYLIST_CACHE[url] = url
             return url
     except Exception as e:
-        print(f"Lỗi resolve {url}: {e}")
+        # Không in lỗi để tránh log nhiều
         return url
 
-def check_channel_health(url, timeout=6):
+def check_channel_health(url, timeout=3):
     if url.startswith('udp://'):
         return True
     try:
@@ -239,7 +234,7 @@ def check_channel_health(url, timeout=6):
         resp = requests.head(url, headers=headers, timeout=timeout, allow_redirects=True)
         if resp.status_code < 400:
             return True
-        # Nếu lỗi 403/452/456/405/400 hoặc server trả về 5xx, thử GET với range
+        # Nếu bị lỗi 403, 452, 456 hoặc HEAD không thành công, thử GET với range
         if resp.status_code in (403, 452, 456, 405, 400) or resp.status_code >= 500:
             headers_range = headers.copy()
             headers_range['Range'] = 'bytes=0-1'
@@ -247,7 +242,7 @@ def check_channel_health(url, timeout=6):
             if resp2.status_code in (206, 200):
                 return True
         return False
-    except Exception:
+    except:
         return False
 
 def is_low_resolution(resolution):
@@ -267,10 +262,7 @@ def is_low_resolution(resolution):
     return False
 
 def classify_channel(ch_name, ch_name_lower, normalized_name, vtv_set, ent_set):
-    # 1. Loại trừ kênh phim không mong muốn
-    if is_movie_channel(ch_name_lower):
-        return None
-    # 2. Ưu tiên kiểm tra thể thao trước
+    # Ưu tiên thể thao trước vì danh sách include rộng
     if is_sports_channel(ch_name_lower):
         return "Thể Thao"
     elif normalized_name in vtv_set:
@@ -301,7 +293,8 @@ def fetch_and_parse_m3u(url):
         content = response.text
         return parse_m3u(content)
     except Exception as e:
-        print(f"Lỗi khi xử lý {url}: {e}")
+        # In lỗi tóm gọn
+        print(f"Lỗi khi xử lý {url}: {str(e)[:50]}")
         return []
 
 def parse_m3u(content):
@@ -347,19 +340,25 @@ def parse_m3u(content):
 def process_channel(ch, vtv_set, ent_set, epg_mapping):
     if 'name' not in ch:
         return None
-    # Làm sạch tên kênh trước khi xử lý
+    # Làm sạch tên kênh
     ch['name'] = clean_channel_name(ch['name'])
     ch_name = ch['name']
     ch_name_lower = ch_name.lower()
-    # Phát hiện độ phân giải từ tên
+    
+    # Loại trừ phim không mong muốn
+    if is_movie_excluded(ch_name_lower):
+        return None
+    
     res_match = re.search(r'(\d{3,4}[pP]|\d+K|HD|SD|FHD|UHD)', ch_name_lower)
     resolution = res_match.group(0).upper() if res_match else ""
     if is_low_resolution(resolution):
         return None
+    
     normalized_name = normalize_channel_name(ch_name)
     group = classify_channel(ch_name, ch_name_lower, normalized_name, vtv_set, ent_set)
     if not group:
         return None
+    
     ch['group'] = group
     normalized_for_epg = re.sub(r'\W+', '', ch_name_lower)
     ch['tvg-id'] = epg_mapping.get(normalized_for_epg, ch['params'].get('tvg-id', ''))
@@ -382,8 +381,15 @@ def final_check_and_resolve(ch):
 def get_epg_mapping(epg_url):
     mapping = {}
     try:
-        response = requests.get(epg_url, timeout=10)
-        root = ET.fromstring(response.content)
+        # Giảm timeout xuống 5s, không retry để nhanh
+        response = requests.get(epg_url, timeout=5)
+        # Xử lý gzip nếu cần
+        if epg_url.endswith('.gz'):
+            import gzip
+            content = gzip.decompress(response.content)
+            root = ET.fromstring(content)
+        else:
+            root = ET.fromstring(response.content)
         for channel in root.findall('.//channel'):
             tvg_id = channel.get('id')
             display_name = channel.find('display-name')
@@ -393,12 +399,16 @@ def get_epg_mapping(epg_url):
                 if tvg_id and normalized:
                     mapping[normalized] = tvg_id
     except Exception as e:
-        print(f"Lỗi EPG {epg_url}: {e}")
+        # Chỉ in lỗi nếu là lỗi quan trọng
+        if "not well-formed" not in str(e) and "syntax error" not in str(e):
+            print(f"Lỗi EPG {epg_url}: {str(e)[:50]}")
     return mapping
 
 def get_m3u_links():
     with open('M3U_list.txt', 'r') as f:
-        return [line.strip() for line in f.readlines() if line.strip()]
+        lines = [line.strip() for line in f.readlines() if line.strip()]
+    # Lọc bỏ các dòng bắt đầu bằng '#' (comment)
+    return [line for line in lines if not line.startswith('#')]
 
 # -------------------- MAIN --------------------
 def main():
@@ -408,9 +418,9 @@ def main():
     ent_set = build_normalized_set(ENTERTAINMENT_CHANNELS)
     m3u_links = get_m3u_links()
     
-    # Tải EPG song song
+    # Tải EPG song song với worker nhiều hơn và timeout thấp
     epg_mapping = {}
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [executor.submit(get_epg_mapping, url) for url in EPG_SOURCES]
         for future in as_completed(futures):
             epg_mapping.update(future.result())
@@ -441,7 +451,7 @@ def main():
         print(f"Lỗi xử lý link đặc biệt: {e}")
     
     # Xử lý các link M3U còn lại song song
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=20) as executor:  # Tăng worker lên 20
         futures = [executor.submit(fetch_and_parse_m3u, url) for url in m3u_links if url != SPECIAL_URL]
         for future in as_completed(futures):
             all_channels.extend(future.result())
@@ -453,7 +463,7 @@ def main():
         if processed:
             filtered_channels.append(processed)
     
-    # Loại bỏ trùng URL (bao gồm cả UDP)
+    # Loại bỏ trùng URL
     print("Đang loại bỏ kênh trùng lặp...")
     unique_urls = set()
     unique_channels = []
@@ -462,10 +472,11 @@ def main():
             unique_urls.add(ch['url'])
             unique_channels.append(ch)
     
-    # Kiểm tra kênh sống và resolve playlist (song song với worker lớn)
+    # Kiểm tra kênh sống và resolve playlist
     print("Đang kiểm tra kênh lỗi và resolve playlist...")
     valid_channels = []
-    with ThreadPoolExecutor(max_workers=50) as executor:
+    # Tăng worker lên 100 để tăng tốc health check
+    with ThreadPoolExecutor(max_workers=100) as executor:
         future_to_ch = {executor.submit(final_check_and_resolve, ch): ch for ch in unique_channels}
         for future in as_completed(future_to_ch):
             result = future.result()
@@ -504,14 +515,12 @@ def main():
                 resolution = ch.get('resolution', '')
                 name_display = f"{ch['name']} - {resolution}" if resolution else ch['name']
                 
-                # Tạo dòng EXTINF mới với group-title đúng
                 extinf = f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="{group_name}"'
                 if tvg_logo:
                     extinf += f' tvg-logo="{tvg_logo}"'
                 extinf += f',{name_display}'
                 f.write(extinf + '\n')
                 
-                # Ghi các dòng extra (loại bỏ các dòng #EXTINF cũ nếu có)
                 if 'extra' in ch:
                     for extra_line in ch['extra']:
                         if not extra_line.startswith('#EXTINF'):
