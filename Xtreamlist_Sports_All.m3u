@@ -1733,10 +1733,10 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="livecameroonvschinaprallprimede" tvg-name="Live | Cameroon vs. China PR | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Cameroon vs. China PR | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="next1403gmtczechiavsdenmarkallprimede" tvg-name="Next | 14:03 (GMT) | Czechia vs. Denmark | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Czechia vs. Denmark | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next1403gmtdrcongojamaicafinalallprimede" tvg-name="Next | 14:03 (GMT) | DR Congo - Jamaica | Final | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | DR Congo - Jamaica | Final | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1403gmtenglandvsjapanallprimede" tvg-name="Next | 14:03 (GMT) | England vs. Japan | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | England vs. Japan | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="next1403gmtkosovovstürkiyeallprimede" tvg-name="Next | 14:03 (GMT) | Kosovo vs. Türkiye | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Kosovo vs. Türkiye | all | PRIME-DE
@@ -1745,18 +1745,18 @@ http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="next1403gmtluxembourgvsmaltaallprimede" tvg-name="Next | 14:03 (GMT) | Luxembourg vs. Malta | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Luxembourg vs. Malta | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="next1403gmtpiratesatredsallprimede" tvg-name="Next | 14:03 (GMT) | Pirates at Reds | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Pirates at Reds | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="next1403gmtsanmarinovsandorraallprimede" tvg-name="Next | 14:03 (GMT) | San Marino vs. Andorra | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | San Marino vs. Andorra | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1403gmtslovakiavsromaniaallprimede" tvg-name="Next | 14:03 (GMT) | Slovakia vs. Romania | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Slovakia vs. Romania | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next1403gmtspainvsegyptallprimede" tvg-name="Next | 14:03 (GMT) | Spain vs. Egypt | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Spain vs. Egypt | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next1403gmtwalesvsnorthernirelandallprimede" tvg-name="Next | 14:03 (GMT) | Wales vs. Northern Ireland | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Wales vs. Northern Ireland | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+#EXTINF:-1 tvg-id="next1403gmtösterreichu19deutschlandu19allprimede" tvg-name="Next | 14:03 (GMT) | Österreich U19 - Deutschland U19 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 14:03 (GMT) | Österreich U19 - Deutschland U19 | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
@@ -2261,6 +2261,10 @@ http://myxpanel.pro:80/live/Martin/Martin/662298.ts
 http://myxpanel.pro:80/live/Martin/Martin/662220.ts
 #EXTINF:-1 tvg-id="sport" tvg-name="✦●✦ SPORT ✦●✦" tvg-logo="http://138.199.27.237:8080/logoo_plus/flag_germany.png" group-title="DE | SPORT",✦●✦ SPORT ✦●✦
 http://myxpanel.pro:80/live/Martin/Martin/662421.ts
+#EXTINF:-1 tvg-id="maxdk05" tvg-name=":MAX DK  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  05
+http://myxpanel.pro:80/live/Martin/Martin/748513.ts
+#EXTINF:-1 tvg-id="maxdk06" tvg-name=":MAX DK  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  06
+http://myxpanel.pro:80/live/Martin/Martin/748512.ts
 #EXTINF:-1 tvg-id="maxdk07" tvg-name=":MAX DK  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  07
 http://myxpanel.pro:80/live/Martin/Martin/748511.ts
 #EXTINF:-1 tvg-id="maxdk08" tvg-name=":MAX DK  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  08
@@ -2449,20 +2453,92 @@ http://myxpanel.pro:80/live/Martin/Martin/748421.ts
 http://myxpanel.pro:80/live/Martin/Martin/748420.ts
 #EXTINF:-1 tvg-id="maxdk99" tvg-name=":MAX DK  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  99
 http://myxpanel.pro:80/live/Martin/Martin/748419.ts
-#EXTINF:-1 tvg-id="basketballdetroitpistonsoklahomacitythundermar310930vnmaxdk06" tvg-name="Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX DK  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX DK  06
-http://myxpanel.pro:80/live/Martin/Martin/748512.ts
-#EXTINF:-1 tvg-id="basketballphiladelphia76ersmiamiheatmar310700vnmaxdk05" tvg-name="Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX DK  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX DK  05
-http://myxpanel.pro:80/live/Martin/Martin/748513.ts
-#EXTINF:-1 tvg-id="curlingitalyvsscotlandmar300400vnmaxdk04" tvg-name="Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX DK  04
+#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxdk04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX DK  04
 http://myxpanel.pro:80/live/Martin/Martin/748514.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar302000vnmaxdk01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX DK  01
+#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxdk01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX DK  01
 http://myxpanel.pro:80/live/Martin/Martin/748517.ts
-#EXTINF:-1 tvg-id="snookerjuddtrumpvsmarkallenmar300200vnmaxdk03" tvg-name="Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX DK  03
-http://myxpanel.pro:80/live/Martin/Martin/748515.ts
-#EXTINF:-1 tvg-id="snookerwuyizevschriswakelinmar300200vnmaxdk02" tvg-name="Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX DK  02
+#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxdk02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX DK  02
 http://myxpanel.pro:80/live/Martin/Martin/748516.ts
+#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxdk03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX DK  03
+http://myxpanel.pro:80/live/Martin/Martin/748515.ts
+#EXTINF:-1 tvg-id="maxes03" tvg-name=":MAX ES  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  03
+http://myxpanel.pro:80/live/Martin/Martin/755926.ts
+#EXTINF:-1 tvg-id="maxes04" tvg-name=":MAX ES  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  04
+http://myxpanel.pro:80/live/Martin/Martin/755925.ts
+#EXTINF:-1 tvg-id="maxes05" tvg-name=":MAX ES  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  05
+http://myxpanel.pro:80/live/Martin/Martin/755924.ts
+#EXTINF:-1 tvg-id="maxes06" tvg-name=":MAX ES  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  06
+http://myxpanel.pro:80/live/Martin/Martin/755923.ts
+#EXTINF:-1 tvg-id="maxes07" tvg-name=":MAX ES  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  07
+http://myxpanel.pro:80/live/Martin/Martin/755922.ts
+#EXTINF:-1 tvg-id="maxes08" tvg-name=":MAX ES  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  08
+http://myxpanel.pro:80/live/Martin/Martin/755921.ts
+#EXTINF:-1 tvg-id="maxes09" tvg-name=":MAX ES  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  09
+http://myxpanel.pro:80/live/Martin/Martin/755920.ts
+#EXTINF:-1 tvg-id="maxes10" tvg-name=":MAX ES  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  10
+http://myxpanel.pro:80/live/Martin/Martin/755919.ts
 #EXTINF:-1 tvg-id="maxes100" tvg-name=":MAX ES  100" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  100
 http://myxpanel.pro:80/live/Martin/Martin/755829.ts
+#EXTINF:-1 tvg-id="maxes11" tvg-name=":MAX ES  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  11
+http://myxpanel.pro:80/live/Martin/Martin/755918.ts
+#EXTINF:-1 tvg-id="maxes12" tvg-name=":MAX ES  12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  12
+http://myxpanel.pro:80/live/Martin/Martin/755917.ts
+#EXTINF:-1 tvg-id="maxes13" tvg-name=":MAX ES  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  13
+http://myxpanel.pro:80/live/Martin/Martin/755916.ts
+#EXTINF:-1 tvg-id="maxes14" tvg-name=":MAX ES  14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  14
+http://myxpanel.pro:80/live/Martin/Martin/755915.ts
+#EXTINF:-1 tvg-id="maxes15" tvg-name=":MAX ES  15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  15
+http://myxpanel.pro:80/live/Martin/Martin/755914.ts
+#EXTINF:-1 tvg-id="maxes16" tvg-name=":MAX ES  16" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  16
+http://myxpanel.pro:80/live/Martin/Martin/755913.ts
+#EXTINF:-1 tvg-id="maxes17" tvg-name=":MAX ES  17" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  17
+http://myxpanel.pro:80/live/Martin/Martin/755912.ts
+#EXTINF:-1 tvg-id="maxes18" tvg-name=":MAX ES  18" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  18
+http://myxpanel.pro:80/live/Martin/Martin/755911.ts
+#EXTINF:-1 tvg-id="maxes19" tvg-name=":MAX ES  19" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  19
+http://myxpanel.pro:80/live/Martin/Martin/755910.ts
+#EXTINF:-1 tvg-id="maxes20" tvg-name=":MAX ES  20" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  20
+http://myxpanel.pro:80/live/Martin/Martin/755909.ts
+#EXTINF:-1 tvg-id="maxes21" tvg-name=":MAX ES  21" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  21
+http://myxpanel.pro:80/live/Martin/Martin/755908.ts
+#EXTINF:-1 tvg-id="maxes22" tvg-name=":MAX ES  22" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  22
+http://myxpanel.pro:80/live/Martin/Martin/755907.ts
+#EXTINF:-1 tvg-id="maxes23" tvg-name=":MAX ES  23" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  23
+http://myxpanel.pro:80/live/Martin/Martin/755906.ts
+#EXTINF:-1 tvg-id="maxes24" tvg-name=":MAX ES  24" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  24
+http://myxpanel.pro:80/live/Martin/Martin/755905.ts
+#EXTINF:-1 tvg-id="maxes25" tvg-name=":MAX ES  25" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  25
+http://myxpanel.pro:80/live/Martin/Martin/755904.ts
+#EXTINF:-1 tvg-id="maxes26" tvg-name=":MAX ES  26" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  26
+http://myxpanel.pro:80/live/Martin/Martin/755903.ts
+#EXTINF:-1 tvg-id="maxes27" tvg-name=":MAX ES  27" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  27
+http://myxpanel.pro:80/live/Martin/Martin/755902.ts
+#EXTINF:-1 tvg-id="maxes28" tvg-name=":MAX ES  28" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  28
+http://myxpanel.pro:80/live/Martin/Martin/755901.ts
+#EXTINF:-1 tvg-id="maxes29" tvg-name=":MAX ES  29" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  29
+http://myxpanel.pro:80/live/Martin/Martin/755900.ts
+#EXTINF:-1 tvg-id="maxes30" tvg-name=":MAX ES  30" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  30
+http://myxpanel.pro:80/live/Martin/Martin/755899.ts
+#EXTINF:-1 tvg-id="maxes31" tvg-name=":MAX ES  31" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  31
+http://myxpanel.pro:80/live/Martin/Martin/755898.ts
+#EXTINF:-1 tvg-id="maxes32" tvg-name=":MAX ES  32" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  32
+http://myxpanel.pro:80/live/Martin/Martin/755897.ts
+#EXTINF:-1 tvg-id="maxes33" tvg-name=":MAX ES  33" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  33
+http://myxpanel.pro:80/live/Martin/Martin/755896.ts
+#EXTINF:-1 tvg-id="maxes34" tvg-name=":MAX ES  34" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  34
+http://myxpanel.pro:80/live/Martin/Martin/755895.ts
+#EXTINF:-1 tvg-id="maxes35" tvg-name=":MAX ES  35" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  35
+http://myxpanel.pro:80/live/Martin/Martin/755894.ts
+#EXTINF:-1 tvg-id="maxes36" tvg-name=":MAX ES  36" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  36
+http://myxpanel.pro:80/live/Martin/Martin/755893.ts
+#EXTINF:-1 tvg-id="maxes37" tvg-name=":MAX ES  37" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  37
+http://myxpanel.pro:80/live/Martin/Martin/755892.ts
+#EXTINF:-1 tvg-id="maxes38" tvg-name=":MAX ES  38" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  38
+http://myxpanel.pro:80/live/Martin/Martin/755891.ts
+#EXTINF:-1 tvg-id="maxes39" tvg-name=":MAX ES  39" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  39
+http://myxpanel.pro:80/live/Martin/Martin/755890.ts
+#EXTINF:-1 tvg-id="maxes40" tvg-name=":MAX ES  40" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  40
+http://myxpanel.pro:80/live/Martin/Martin/755889.ts
 #EXTINF:-1 tvg-id="maxes41" tvg-name=":MAX ES  41" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  41
 http://myxpanel.pro:80/live/Martin/Martin/755888.ts
 #EXTINF:-1 tvg-id="maxes42" tvg-name=":MAX ES  42" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  42
@@ -2581,84 +2657,10 @@ http://myxpanel.pro:80/live/Martin/Martin/755832.ts
 http://myxpanel.pro:80/live/Martin/Martin/755831.ts
 #EXTINF:-1 tvg-id="maxes99" tvg-name=":MAX ES  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  99
 http://myxpanel.pro:80/live/Martin/Martin/755830.ts
-#EXTINF:-1 tvg-id="ciclismolarouetourangellemar292130vnmaxes01" tvg-name="Ciclismo: La Roue Tourangelle @ Mar 29 21:30 (VN):MAX ES  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Ciclismo: La Roue Tourangelle @ Mar 29 21:30 (VN):MAX ES  01
-http://myxpanel.pro:80/live/Martin/Martin/755928.ts
-#EXTINF:-1 tvg-id="nascarbrracingfanvotedmultiviewmar290310vnmaxes03" tvg-name="Nascar: B R Racing Fan Voted Multiview @ Mar 29 03:10 (VN):MAX ES  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: B R Racing Fan Voted Multiview @ Mar 29 03:10 (VN):MAX ES  03
-http://myxpanel.pro:80/live/Martin/Martin/755926.ts
-#EXTINF:-1 tvg-id="nascarfeatureddriversmultiviewmar290310vnmaxes02" tvg-name="Nascar: Featured Drivers Multiview @ Mar 29 03:10 (VN):MAX ES  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: Featured Drivers Multiview @ Mar 29 03:10 (VN):MAX ES  02
+#EXTINF:-1 tvg-id="béisbolyankeesatmarinersapr10900vnmaxes02" tvg-name="Béisbol: Yankees at Mariners @ Apr 1 09:00 (VN):MAX ES  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Béisbol: Yankees at Mariners @ Apr 1 09:00 (VN):MAX ES  02
 http://myxpanel.pro:80/live/Martin/Martin/755927.ts
-#EXTINF:-1 tvg-id="nascarno1rosschastainmar290315vnmaxes29" tvg-name="Nascar: No 1 Ross Chastain @ Mar 29 03:15 (VN):MAX ES  29" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 1 Ross Chastain @ Mar 29 03:15 (VN):MAX ES  29
-http://myxpanel.pro:80/live/Martin/Martin/755900.ts
-#EXTINF:-1 tvg-id="nascarno10tydillonmar290315vnmaxes28" tvg-name="Nascar: No 10 Ty Dillon @ Mar 29 03:15 (VN):MAX ES  28" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 10 Ty Dillon @ Mar 29 03:15 (VN):MAX ES  28
-http://myxpanel.pro:80/live/Martin/Martin/755901.ts
-#EXTINF:-1 tvg-id="nascarno11dennyhamlinmar290315vnmaxes36" tvg-name="Nascar: No 11 Denny Hamlin @ Mar 29 03:15 (VN):MAX ES  36" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 11 Denny Hamlin @ Mar 29 03:15 (VN):MAX ES  36
-http://myxpanel.pro:80/live/Martin/Martin/755893.ts
-#EXTINF:-1 tvg-id="nascarno12ryanblaneymar290315vnmaxes18" tvg-name="Nascar: No 12 Ryan Blaney @ Mar 29 03:15 (VN):MAX ES  18" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 12 Ryan Blaney @ Mar 29 03:15 (VN):MAX ES  18
-http://myxpanel.pro:80/live/Martin/Martin/755911.ts
-#EXTINF:-1 tvg-id="nascarno16ajallmendingermar290315vnmaxes13" tvg-name="Nascar: No 16 AJ Allmendinger @ Mar 29 03:15 (VN):MAX ES  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 16 AJ Allmendinger @ Mar 29 03:15 (VN):MAX ES  13
-http://myxpanel.pro:80/live/Martin/Martin/755916.ts
-#EXTINF:-1 tvg-id="nascarno17chrisbueschermar290315vnmaxes16" tvg-name="Nascar: No 17 Chris Buescher @ Mar 29 03:15 (VN):MAX ES  16" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 17 Chris Buescher @ Mar 29 03:15 (VN):MAX ES  16
-http://myxpanel.pro:80/live/Martin/Martin/755913.ts
-#EXTINF:-1 tvg-id="nascarno19chasebriscoemar290315vnmaxes20" tvg-name="Nascar: No 19 Chase Briscoe @ Mar 29 03:15 (VN):MAX ES  20" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 19 Chase Briscoe @ Mar 29 03:15 (VN):MAX ES  20
-http://myxpanel.pro:80/live/Martin/Martin/755909.ts
-#EXTINF:-1 tvg-id="nascarno2austincindricmar290315vnmaxes27" tvg-name="Nascar: No 2 Austin Cindric @ Mar 29 03:15 (VN):MAX ES  27" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 2 Austin Cindric @ Mar 29 03:15 (VN):MAX ES  27
-http://myxpanel.pro:80/live/Martin/Martin/755902.ts
-#EXTINF:-1 tvg-id="nascarno20christopherbellmar290315vnmaxes24" tvg-name="Nascar: No 20 Christopher Bell @ Mar 29 03:15 (VN):MAX ES  24" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 20 Christopher Bell @ Mar 29 03:15 (VN):MAX ES  24
-http://myxpanel.pro:80/live/Martin/Martin/755905.ts
-#EXTINF:-1 tvg-id="nascarno21joshberrymar290315vnmaxes37" tvg-name="Nascar: No 21 Josh Berry @ Mar 29 03:15 (VN):MAX ES  37" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 21 Josh Berry @ Mar 29 03:15 (VN):MAX ES  37
-http://myxpanel.pro:80/live/Martin/Martin/755892.ts
-#EXTINF:-1 tvg-id="nascarno22joeyloganomar290315vnmaxes30" tvg-name="Nascar: No 22 Joey Logano @ Mar 29 03:15 (VN):MAX ES  30" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 22 Joey Logano @ Mar 29 03:15 (VN):MAX ES  30
-http://myxpanel.pro:80/live/Martin/Martin/755899.ts
-#EXTINF:-1 tvg-id="nascarno23bubbawallacemar290315vnmaxes38" tvg-name="Nascar: No 23 Bubba Wallace @ Mar 29 03:15 (VN):MAX ES  38" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 23 Bubba Wallace @ Mar 29 03:15 (VN):MAX ES  38
-http://myxpanel.pro:80/live/Martin/Martin/755891.ts
-#EXTINF:-1 tvg-id="nascarno24williambyronmar290315vnmaxes39" tvg-name="Nascar: No 24 William Byron @ Mar 29 03:15 (VN):MAX ES  39" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 24 William Byron @ Mar 29 03:15 (VN):MAX ES  39
-http://myxpanel.pro:80/live/Martin/Martin/755890.ts
-#EXTINF:-1 tvg-id="nascarno3austindillonmar290315vnmaxes10" tvg-name="Nascar: No 3 Austin Dillon @ Mar 29 03:15 (VN):MAX ES  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 3 Austin Dillon @ Mar 29 03:15 (VN):MAX ES  10
-http://myxpanel.pro:80/live/Martin/Martin/755919.ts
-#EXTINF:-1 tvg-id="nascarno33austinhillmar290315vnmaxes17" tvg-name="Nascar: No 33 Austin Hill @ Mar 29 03:15 (VN):MAX ES  17" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 33 Austin Hill @ Mar 29 03:15 (VN):MAX ES  17
-http://myxpanel.pro:80/live/Martin/Martin/755912.ts
-#EXTINF:-1 tvg-id="nascarno34toddgillilandmar290315vnmaxes21" tvg-name="Nascar: No 34 Todd Gilliland @ Mar 29 03:15 (VN):MAX ES  21" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 34 Todd Gilliland @ Mar 29 03:15 (VN):MAX ES  21
-http://myxpanel.pro:80/live/Martin/Martin/755908.ts
-#EXTINF:-1 tvg-id="nascarno35rileyherbstmar290315vnmaxes07" tvg-name="Nascar: No 35 Riley Herbst @ Mar 29 03:15 (VN):MAX ES  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 35 Riley Herbst @ Mar 29 03:15 (VN):MAX ES  07
-http://myxpanel.pro:80/live/Martin/Martin/755922.ts
-#EXTINF:-1 tvg-id="nascarno38zanesmithmar290315vnmaxes40" tvg-name="Nascar: No 38 Zane Smith @ Mar 29 03:15 (VN):MAX ES  40" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 38 Zane Smith @ Mar 29 03:15 (VN):MAX ES  40
-http://myxpanel.pro:80/live/Martin/Martin/755889.ts
-#EXTINF:-1 tvg-id="nascarno4noahgragsonmar290315vnmaxes31" tvg-name="Nascar: No 4 Noah Gragson @ Mar 29 03:15 (VN):MAX ES  31" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 4 Noah Gragson @ Mar 29 03:15 (VN):MAX ES  31
-http://myxpanel.pro:80/live/Martin/Martin/755898.ts
-#EXTINF:-1 tvg-id="nascarno41colecustermar290315vnmaxes22" tvg-name="Nascar: No 41 Cole Custer @ Mar 29 03:15 (VN):MAX ES  22" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 41 Cole Custer @ Mar 29 03:15 (VN):MAX ES  22
-http://myxpanel.pro:80/live/Martin/Martin/755907.ts
-#EXTINF:-1 tvg-id="nascarno42johnhunternemechekmar290315vnmaxes11" tvg-name="Nascar: No 42 John Hunter Nemechek @ Mar 29 03:15 (VN):MAX ES  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 42 John Hunter Nemechek @ Mar 29 03:15 (VN):MAX ES  11
-http://myxpanel.pro:80/live/Martin/Martin/755918.ts
-#EXTINF:-1 tvg-id="nascarno43erikjonesmar290315vnmaxes12" tvg-name="Nascar: No 43 Erik Jones @ Mar 29 03:15 (VN):MAX ES  12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 43 Erik Jones @ Mar 29 03:15 (VN):MAX ES  12
-http://myxpanel.pro:80/live/Martin/Martin/755917.ts
-#EXTINF:-1 tvg-id="nascarno45tylerreddickmar290315vnmaxes09" tvg-name="Nascar: No 45 Tyler Reddick @ Mar 29 03:15 (VN):MAX ES  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 45 Tyler Reddick @ Mar 29 03:15 (VN):MAX ES  09
-http://myxpanel.pro:80/live/Martin/Martin/755920.ts
-#EXTINF:-1 tvg-id="nascarno47rickystenhousejrmar290315vnmaxes19" tvg-name="Nascar: No 47 Ricky Stenhouse Jr @ Mar 29 03:15 (VN):MAX ES  19" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 47 Ricky Stenhouse Jr @ Mar 29 03:15 (VN):MAX ES  19
-http://myxpanel.pro:80/live/Martin/Martin/755910.ts
-#EXTINF:-1 tvg-id="nascarno48justinallgaiermar290315vnmaxes14" tvg-name="Nascar: No 48 Justin Allgaier @ Mar 29 03:15 (VN):MAX ES  14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 48 Justin Allgaier @ Mar 29 03:15 (VN):MAX ES  14
-http://myxpanel.pro:80/live/Martin/Martin/755915.ts
-#EXTINF:-1 tvg-id="nascarno5kylelarsonmar290315vnmaxes04" tvg-name="Nascar: No 5 Kyle Larson @ Mar 29 03:15 (VN):MAX ES  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 5 Kyle Larson @ Mar 29 03:15 (VN):MAX ES  04
-http://myxpanel.pro:80/live/Martin/Martin/755925.ts
-#EXTINF:-1 tvg-id="nascarno51codywaremar290315vnmaxes08" tvg-name="Nascar: No 51 Cody Ware @ Mar 29 03:15 (VN):MAX ES  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 51 Cody Ware @ Mar 29 03:15 (VN):MAX ES  08
-http://myxpanel.pro:80/live/Martin/Martin/755921.ts
-#EXTINF:-1 tvg-id="nascarno54tygibbsmar290315vnmaxes15" tvg-name="Nascar: No 54 Ty Gibbs @ Mar 29 03:15 (VN):MAX ES  15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 54 Ty Gibbs @ Mar 29 03:15 (VN):MAX ES  15
-http://myxpanel.pro:80/live/Martin/Martin/755914.ts
-#EXTINF:-1 tvg-id="nascarno60ryanpreecemar290315vnmaxes05" tvg-name="Nascar: No 60 Ryan Preece @ Mar 29 03:15 (VN):MAX ES  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 60 Ryan Preece @ Mar 29 03:15 (VN):MAX ES  05
-http://myxpanel.pro:80/live/Martin/Martin/755924.ts
-#EXTINF:-1 tvg-id="nascarno7danielsuárezmar290315vnmaxes32" tvg-name="Nascar: No 7 Daniel Suárez @ Mar 29 03:15 (VN):MAX ES  32" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 7 Daniel Suárez @ Mar 29 03:15 (VN):MAX ES  32
-http://myxpanel.pro:80/live/Martin/Martin/755897.ts
-#EXTINF:-1 tvg-id="nascarno71michaelmcdowellmar290315vnmaxes33" tvg-name="Nascar: No 71 Michael McDowell @ Mar 29 03:15 (VN):MAX ES  33" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 71 Michael McDowell @ Mar 29 03:15 (VN):MAX ES  33
-http://myxpanel.pro:80/live/Martin/Martin/755896.ts
-#EXTINF:-1 tvg-id="nascarno77carsonhocevarmar290315vnmaxes06" tvg-name="Nascar: No 77 Carson Hocevar @ Mar 29 03:15 (VN):MAX ES  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 77 Carson Hocevar @ Mar 29 03:15 (VN):MAX ES  06
-http://myxpanel.pro:80/live/Martin/Martin/755923.ts
-#EXTINF:-1 tvg-id="nascarno8kylebuschmar290315vnmaxes23" tvg-name="Nascar: No 8 Kyle Busch @ Mar 29 03:15 (VN):MAX ES  23" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 8 Kyle Busch @ Mar 29 03:15 (VN):MAX ES  23
-http://myxpanel.pro:80/live/Martin/Martin/755906.ts
-#EXTINF:-1 tvg-id="nascarno88connorzilischmar290315vnmaxes26" tvg-name="Nascar: No 88 Connor Zilisch @ Mar 29 03:15 (VN):MAX ES  26" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 88 Connor Zilisch @ Mar 29 03:15 (VN):MAX ES  26
-http://myxpanel.pro:80/live/Martin/Martin/755903.ts
-#EXTINF:-1 tvg-id="nascarno9chaseelliottmar290315vnmaxes35" tvg-name="Nascar: No 9 Chase Elliott @ Mar 29 03:15 (VN):MAX ES  35" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 9 Chase Elliott @ Mar 29 03:15 (VN):MAX ES  35
-http://myxpanel.pro:80/live/Martin/Martin/755894.ts
-#EXTINF:-1 tvg-id="nascarno97shanevangisbergenmar290315vnmaxes25" tvg-name="Nascar: No 97 Shane van Gisbergen @ Mar 29 03:15 (VN):MAX ES  25" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Nascar: No 97 Shane van Gisbergen @ Mar 29 03:15 (VN):MAX ES  25
-http://myxpanel.pro:80/live/Martin/Martin/755904.ts
+#EXTINF:-1 tvg-id="fútbolusmntvsportugalapr10600vnmaxes01" tvg-name="Fútbol: USMNT vs Portugal @ Apr 1 06:00 (VN):MAX ES  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Fútbol: USMNT vs Portugal @ Apr 1 06:00 (VN):MAX ES  01
+http://myxpanel.pro:80/live/Martin/Martin/755928.ts
 #EXTINF:-1 tvg-id="frchevaltvhd" tvg-name="[FR] CHEVAL TV HD" tvg-logo="https://s9.gifyu.com/images/SZISv.png" group-title="FR | SPORT",[FR] CHEVAL TV HD
 http://myxpanel.pro:80/live/Martin/Martin/723724.ts
 #EXTINF:-1 tvg-id="fruclmutliscreen3" tvg-name="FR UCL MUTLISCREEN 3" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/08/canal-live-logo.jpg" group-title="FR | SPORT",FR UCL MUTLISCREEN 3
@@ -4315,14 +4317,14 @@ http://myxpanel.pro:80/live/Martin/Martin/763524.ts
 http://myxpanel.pro:80/live/Martin/Martin/763523.ts
 #EXTINF:-1 tvg-id="maxnl99" tvg-name=":MAX NL  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  99
 http://myxpanel.pro:80/live/Martin/Martin/763522.ts
-#EXTINF:-1 tvg-id="curlingitalyvsscotlandmar300400vnmaxnl04" tvg-name="Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX NL  04
+#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxnl04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NL  04
 http://myxpanel.pro:80/live/Martin/Martin/763617.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar302000vnmaxnl01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX NL  01
+#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxnl01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NL  01
 http://myxpanel.pro:80/live/Martin/Martin/763620.ts
-#EXTINF:-1 tvg-id="snookerjuddtrumpvsmarkallenmar300200vnmaxnl03" tvg-name="Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX NL  03
-http://myxpanel.pro:80/live/Martin/Martin/763618.ts
-#EXTINF:-1 tvg-id="snookerwuyizevschriswakelinmar300200vnmaxnl02" tvg-name="Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX NL  02
+#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxnl02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NL  02
 http://myxpanel.pro:80/live/Martin/Martin/763619.ts
+#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxnl03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX NL  03
+http://myxpanel.pro:80/live/Martin/Martin/763618.ts
 #EXTINF:-1 tvg-id="nlespn1" tvg-name="|NL| ESPN 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Netherlands | Sports",|NL| ESPN 1
 http://myxpanel.pro:80/live/Martin/Martin/265572.ts
 #EXTINF:-1 tvg-id="nlespn2" tvg-name="|NL| ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Netherlands | Sports",|NL| ESPN 2
@@ -4553,18 +4555,18 @@ http://myxpanel.pro:80/live/Martin/Martin/746513.ts
 http://myxpanel.pro:80/live/Martin/Martin/746512.ts
 #EXTINF:-1 tvg-id="maxno99" tvg-name=":MAX NO  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  99
 http://myxpanel.pro:80/live/Martin/Martin/746511.ts
-#EXTINF:-1 tvg-id="basketballdetroitpistonsoklahomacitythundermar310930vnmaxno06" tvg-name="Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX NO  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX NO  06
-http://myxpanel.pro:80/live/Martin/Martin/746604.ts
-#EXTINF:-1 tvg-id="basketballphiladelphia76ersmiamiheatmar310700vnmaxno05" tvg-name="Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX NO  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX NO  05
+#EXTINF:-1 tvg-id="basketballnewyorkknickshoustonrocketsapr10800vnmaxno05" tvg-name="Basketball: New York Knicks @ Houston Rockets @ Apr 1 08:00 (VN):MAX NO  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: New York Knicks @ Houston Rockets @ Apr 1 08:00 (VN):MAX NO  05
 http://myxpanel.pro:80/live/Martin/Martin/746605.ts
-#EXTINF:-1 tvg-id="curlingitalyvsscotlandmar300400vnmaxno04" tvg-name="Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX NO  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX NO  04
+#EXTINF:-1 tvg-id="basketballportlandtrailblazerslaclippersapr11100vnmaxno06" tvg-name="Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX NO  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX NO  06
+http://myxpanel.pro:80/live/Martin/Martin/746604.ts
+#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxno04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NO  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NO  04
 http://myxpanel.pro:80/live/Martin/Martin/746606.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar302000vnmaxno01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX NO  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX NO  01
+#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxno01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NO  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NO  01
 http://myxpanel.pro:80/live/Martin/Martin/746609.ts
-#EXTINF:-1 tvg-id="snookerjuddtrumpvsmarkallenmar300200vnmaxno03" tvg-name="Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX NO  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX NO  03
-http://myxpanel.pro:80/live/Martin/Martin/746607.ts
-#EXTINF:-1 tvg-id="snookerwuyizevschriswakelinmar300200vnmaxno02" tvg-name="Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX NO  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX NO  02
+#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxno02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NO  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NO  02
 http://myxpanel.pro:80/live/Martin/Martin/746608.ts
+#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxno03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX NO  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX NO  03
+http://myxpanel.pro:80/live/Martin/Martin/746607.ts
 #EXTINF:-1 tvg-id="ptabolafhd" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola FHD
 http://myxpanel.pro:80/live/Martin/Martin/273551.ts
 #EXTINF:-1 tvg-id="ptabolatv" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola TV
@@ -4863,18 +4865,18 @@ http://myxpanel.pro:80/live/Martin/Martin/732654.ts
 http://myxpanel.pro:80/live/Martin/Martin/732653.ts
 #EXTINF:-1 tvg-id="maxse99" tvg-name=":MAX SE  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  99
 http://myxpanel.pro:80/live/Martin/Martin/732652.ts
-#EXTINF:-1 tvg-id="basketballdetroitpistonsoklahomacitythundermar310930vnmaxse06" tvg-name="Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX SE  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: Detroit Pistons @ Oklahoma City Thunder @ Mar 31 09:30 (VN):MAX SE  06
-http://myxpanel.pro:80/live/Martin/Martin/732752.ts
-#EXTINF:-1 tvg-id="basketballphiladelphia76ersmiamiheatmar310700vnmaxse05" tvg-name="Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX SE  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: Philadelphia 76ers @ Miami Heat @ Mar 31 07:00 (VN):MAX SE  05
+#EXTINF:-1 tvg-id="basketballnewyorkknickshoustonrocketsapr10800vnmaxse05" tvg-name="Basketball: New York Knicks @ Houston Rockets @ Apr 1 08:00 (VN):MAX SE  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: New York Knicks @ Houston Rockets @ Apr 1 08:00 (VN):MAX SE  05
 http://myxpanel.pro:80/live/Martin/Martin/732753.ts
-#EXTINF:-1 tvg-id="curlingitalyvsscotlandmar300400vnmaxse04" tvg-name="Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX SE  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Curling: Italy vs Scotland @ Mar 30 04:00 (VN):MAX SE  04
+#EXTINF:-1 tvg-id="basketballportlandtrailblazerslaclippersapr11100vnmaxse06" tvg-name="Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX SE  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX SE  06
+http://myxpanel.pro:80/live/Martin/Martin/732752.ts
+#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxse04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX SE  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX SE  04
 http://myxpanel.pro:80/live/Martin/Martin/732754.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar302000vnmaxse01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX SE  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 30 20:00 (VN):MAX SE  01
+#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxse01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX SE  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX SE  01
 http://myxpanel.pro:80/live/Martin/Martin/732757.ts
-#EXTINF:-1 tvg-id="snookerjuddtrumpvsmarkallenmar300200vnmaxse03" tvg-name="Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX SE  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Judd Trump vs Mark Allen @ Mar 30 02:00 (VN):MAX SE  03
-http://myxpanel.pro:80/live/Martin/Martin/732755.ts
-#EXTINF:-1 tvg-id="snookerwuyizevschriswakelinmar300200vnmaxse02" tvg-name="Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX SE  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Wu Yize vs Chris Wakelin @ Mar 30 02:00 (VN):MAX SE  02
+#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxse02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX SE  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX SE  02
 http://myxpanel.pro:80/live/Martin/Martin/732756.ts
+#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxse03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX SE  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX SE  03
+http://myxpanel.pro:80/live/Martin/Martin/732755.ts
 #EXTINF:-1 tvg-id="maxus100" tvg-name=":MAX US 100" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 100
 http://myxpanel.pro:80/live/Martin/Martin/732211.ts
 #EXTINF:-1 tvg-id="maxus41" tvg-name=":MAX US 41" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 41
