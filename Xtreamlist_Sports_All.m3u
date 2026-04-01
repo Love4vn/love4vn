@@ -1149,8 +1149,12 @@ http://myxpanel.pro:80/live/Martin/Martin/800011.ts
 http://myxpanel.pro:80/live/Martin/Martin/800002.ts
 #EXTINF:-1 tvg-id="ukhdpremiersports2irishversion" tvg-name="UKHD Premier Sports 2 ( Irish Version )" tvg-logo="https://premiersportsireland.com/wp-content/uploads/2023/04/premier-sports-2-landscape-1.svg" group-title="UK | SPORTS",UKHD Premier Sports 2 ( Irish Version )
 http://myxpanel.pro:80/live/Martin/Martin/800001.ts
-#EXTINF:-1 tvg-id="76ersvsheatmar300000vnpeacockevent02" tvg-name="76ers vs Heat @ Mar 30 00:00 (VN):Peacock Event  02" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",76ers vs Heat @ Mar 30 00:00 (VN):Peacock Event  02
-http://myxpanel.pro:80/live/Martin/Martin/698669.ts
+#EXTINF:-1 tvg-id="peacockevent04" tvg-name=":Peacock Event  04" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  04
+http://myxpanel.pro:80/live/Martin/Martin/698667.ts
+#EXTINF:-1 tvg-id="peacockevent05" tvg-name=":Peacock Event  05" tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",:Peacock Event  05
+http://myxpanel.pro:80/live/Martin/Martin/698666.ts
+#EXTINF:-1 tvg-id="peacockevent06" tvg-name=":Peacock Event  06" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  06
+http://myxpanel.pro:80/live/Martin/Martin/698665.ts
 #EXTINF:-1 tvg-id="peacockevent07" tvg-name=":Peacock Event  07" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  07
 http://myxpanel.pro:80/live/Martin/Martin/698664.ts
 #EXTINF:-1 tvg-id="peacockevent08" tvg-name=":Peacock Event  08" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  08
@@ -1239,16 +1243,12 @@ http://myxpanel.pro:80/live/Martin/Martin/698622.ts
 http://myxpanel.pro:80/live/Martin/Martin/698621.ts
 #EXTINF:-1 tvg-id="peacockevent50" tvg-name=":Peacock Event  50" tvg-logo="" group-title="USA | Peacock Events",:Peacock Event  50
 http://myxpanel.pro:80/live/Martin/Martin/698620.ts
-#EXTINF:-1 tvg-id="bullsvsspursmar300200vnpeacockevent04" tvg-name="Bulls vs Spurs @ Mar 30 02:00 (VN):Peacock Event  04" tvg-logo="" group-title="USA | Peacock Events",Bulls vs Spurs @ Mar 30 02:00 (VN):Peacock Event  04
-http://myxpanel.pro:80/live/Martin/Martin/698667.ts
-#EXTINF:-1 tvg-id="performanceviewchivssasmar300200vnpeacockevent03" tvg-name="Performance View CHI vs SAS @ Mar 30 02:00 (VN):Peacock Event  03" tvg-logo="" group-title="USA | Peacock Events",Performance View CHI vs SAS @ Mar 30 02:00 (VN):Peacock Event  03
+#EXTINF:-1 tvg-id="awayfeedminatkcapr10130vnpeacockevent02" tvg-name="Away Feed MIN at KC @ Apr 1 01:30 (VN):Peacock Event  02" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/157571141760_image-header_pCa_1671040248000/fill/center/top/none/85/800/600/png/image" group-title="USA | Peacock Events",Away Feed MIN at KC @ Apr 1 01:30 (VN):Peacock Event  02
+http://myxpanel.pro:80/live/Martin/Martin/698669.ts
+#EXTINF:-1 tvg-id="homefeedminatkcapr10130vnpeacockevent03" tvg-name="Home Feed MIN at KC @ Apr 1 01:30 (VN):Peacock Event  03" tvg-logo="" group-title="USA | Peacock Events",Home Feed MIN at KC @ Apr 1 01:30 (VN):Peacock Event  03
 http://myxpanel.pro:80/live/Martin/Martin/698668.ts
-#EXTINF:-1 tvg-id="performanceviewdetvsokcmar300330vnpeacockevent06" tvg-name="Performance View DET vs OKC @ Mar 30 03:30 (VN):Peacock Event  06" tvg-logo="" group-title="USA | Peacock Events",Performance View DET vs OKC @ Mar 30 03:30 (VN):Peacock Event  06
-http://myxpanel.pro:80/live/Martin/Martin/698665.ts
-#EXTINF:-1 tvg-id="performanceviewphivsmiamar300000vnpeacockevent01" tvg-name="Performance View PHI vs MIA @ Mar 30 00:00 (VN):Peacock Event  01" tvg-logo="" group-title="USA | Peacock Events",Performance View PHI vs MIA @ Mar 30 00:00 (VN):Peacock Event  01
+#EXTINF:-1 tvg-id="powerfcvlexingtonscapr10100vnpeacockevent01" tvg-name="Power FC v Lexington SC @ Apr 1 01:00 (VN):Peacock Event  01" tvg-logo="" group-title="USA | Peacock Events",Power FC v Lexington SC @ Apr 1 01:00 (VN):Peacock Event  01
 http://myxpanel.pro:80/live/Martin/Martin/698670.ts
-#EXTINF:-1 tvg-id="pistonsvsthundermar300330vnpeacockevent05" tvg-name="Pistons vs Thunder @ Mar 30 03:30 (VN):Peacock Event  05" tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="USA | Peacock Events",Pistons vs Thunder @ Mar 30 03:30 (VN):Peacock Event  05
-http://myxpanel.pro:80/live/Martin/Martin/698666.ts
 #EXTINF:-1 tvg-id="aralkass1hd" tvg-name="AR | Alkass 1 HD" tvg-logo="http://vod-logo.net/photos/1b38ce73c33b069730e2522a9b05a55e.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 1 HD
 http://myxpanel.pro:80/live/Martin/Martin/272154.ts
 #EXTINF:-1 tvg-id="aralkass2hd" tvg-name="AR | Alkass 2 HD" tvg-logo="http://vod-logo.net/photos/f275d5b3fa7145127b8f39c6b4f85dab.jpg" group-title="AR | SPORTS ⚽",AR | Alkass 2 HD
@@ -5073,10 +5073,6 @@ http://myxpanel.pro:80/live/Martin/Martin/732214.ts
 http://myxpanel.pro:80/live/Martin/Martin/732213.ts
 #EXTINF:-1 tvg-id="maxus99" tvg-name=":MAX US 99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 99
 http://myxpanel.pro:80/live/Martin/Martin/732212.ts
-#EXTINF:-1 tvg-id="nbcsports08" tvg-name=":Nbc Sports  08" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
-http://myxpanel.pro:80/live/Martin/Martin/780228.ts
-#EXTINF:-1 tvg-id="nbcsports09" tvg-name=":Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
-http://myxpanel.pro:80/live/Martin/Martin/780227.ts
 #EXTINF:-1 tvg-id="nbcsports10" tvg-name=":Nbc Sports  10" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  10
 http://myxpanel.pro:80/live/Martin/Martin/780226.ts
 #EXTINF:-1 tvg-id="nbcsports11" tvg-name=":Nbc Sports  11" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  11
@@ -5159,17 +5155,21 @@ http://myxpanel.pro:80/live/Martin/Martin/780188.ts
 http://myxpanel.pro:80/live/Martin/Martin/780187.ts
 #EXTINF:-1 tvg-id="nbcsports50" tvg-name=":Nbc Sports  50" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  50
 http://myxpanel.pro:80/live/Martin/Martin/780186.ts
-#EXTINF:-1 tvg-id="fifaestadosunidosvsportugalmar310030vnnbcsports02" tvg-name="FIFA: Estados Unidos vs Portugal @ Mar 31 00:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",FIFA: Estados Unidos vs Portugal @ Mar 31 00:30 (VN):Nbc Sports  02
-http://myxpanel.pro:80/live/Martin/Martin/780234.ts
-#EXTINF:-1 tvg-id="mlbathleticsvsbravesmar310030vnnbcsports03" tvg-name="MLB: Athletics vs Braves @ Mar 31 00:30 (VN):Nbc Sports  03" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Braves @ Mar 31 00:30 (VN):Nbc Sports  03
-http://myxpanel.pro:80/live/Martin/Martin/780233.ts
-#EXTINF:-1 tvg-id="mlbgiantsvspadresmar310300vnnbcsports06" tvg-name="MLB: Giants vs Padres @ Mar 31 03:00 (VN):Nbc Sports  06" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Giants vs Padres @ Mar 31 03:00 (VN):Nbc Sports  06
-http://myxpanel.pro:80/live/Martin/Martin/780230.ts
-#EXTINF:-1 tvg-id="mlbnationalsvsphilliesmar310000vnnbcsports01" tvg-name="MLB: Nationals vs Phillies @ Mar 31 00:00 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Nationals vs Phillies @ Mar 31 00:00 (VN):Nbc Sports  01
+#EXTINF:-1 tvg-id="mlbathleticsvsbravesapr11730vnnbcsports01" tvg-name="MLB: Athletics vs Braves @ Apr 1 17:30 (VN):Nbc Sports  01" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Athletics vs Braves @ Apr 1 17:30 (VN):Nbc Sports  01
 http://myxpanel.pro:80/live/Martin/Martin/780235.ts
-#EXTINF:-1 tvg-id="nbaknicksvsrocketsmar310200vnnbcsports05" tvg-name="NBA: Knicks vs Rockets @ Mar 31 02:00 (VN):Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Knicks vs Rockets @ Mar 31 02:00 (VN):Nbc Sports  05
+#EXTINF:-1 tvg-id="mlbgiantsvspadresapr12130vnnbcsports03" tvg-name="MLB: Giants vs Padres @ Apr 1 21:30 (VN):Nbc Sports  03" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Giants vs Padres @ Apr 1 21:30 (VN):Nbc Sports  03
+http://myxpanel.pro:80/live/Martin/Martin/780233.ts
+#EXTINF:-1 tvg-id="mlbnationalsvsphilliesapr11830vnnbcsports02" tvg-name="MLB: Nationals vs Phillies @ Apr 1 18:30 (VN):Nbc Sports  02" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",MLB: Nationals vs Phillies @ Apr 1 18:30 (VN):Nbc Sports  02
+http://myxpanel.pro:80/live/Martin/Martin/780234.ts
+#EXTINF:-1 tvg-id="nba76ersvswizardsapr10030vnnbcsports04" tvg-name="NBA: 76ers vs Wizards @ Apr 1 00:30 (VN):Nbc Sports  04" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: 76ers vs Wizards @ Apr 1 00:30 (VN):Nbc Sports  04
+http://myxpanel.pro:80/live/Martin/Martin/780232.ts
+#EXTINF:-1 tvg-id="nbacelticspostgameliveapr10400vnnbcsports08" tvg-name="NBA: Celtics Postgame Live @ Apr 1 04:00 (VN):Nbc Sports  08" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics Postgame Live @ Apr 1 04:00 (VN):Nbc Sports  08
+http://myxpanel.pro:80/live/Martin/Martin/780228.ts
+#EXTINF:-1 tvg-id="nbacelticspregameliveapr10030vnnbcsports05" tvg-name="NBA: Celtics Pregame Live @ Apr 1 00:30 (VN):Nbc Sports  05" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Celtics Pregame Live @ Apr 1 00:30 (VN):Nbc Sports  05
 http://myxpanel.pro:80/live/Martin/Martin/780231.ts
-#EXTINF:-1 tvg-id="nbatrailblazersvsclippersmar310500vnnbcsports07" tvg-name="NBA: Trail Blazers vs Clippers @ Mar 31 05:00 (VN):Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Trail Blazers vs Clippers @ Mar 31 05:00 (VN):Nbc Sports  07
+#EXTINF:-1 tvg-id="nbakingsvsraptorsapr10130vnnbcsports06" tvg-name="NBA: Kings vs Raptors @ Apr 1 01:30 (VN):Nbc Sports  06" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Kings vs Raptors @ Apr 1 01:30 (VN):Nbc Sports  06
+http://myxpanel.pro:80/live/Martin/Martin/780230.ts
+#EXTINF:-1 tvg-id="nbaspursvswarriorsapr10300vnnbcsports07" tvg-name="NBA: Spurs vs Warriors @ Apr 1 03:00 (VN):Nbc Sports  07" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",NBA: Spurs vs Warriors @ Apr 1 03:00 (VN):Nbc Sports  07
 http://myxpanel.pro:80/live/Martin/Martin/780229.ts
 #EXTINF:-1 tvg-id="peacockoriginal1" tvg-name="Peacock Original 1" tvg-logo="https://iili.io/PSF1VV.md.png" group-title="USA | Peacock Series Originals",Peacock Original 1
 http://myxpanel.pro:80/live/Martin/Martin/271191.ts
