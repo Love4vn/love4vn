@@ -1709,26 +1709,26 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="next0804gmtangelsatcubsallprimede" tvg-name="Next | 08:04 (GMT) | Angels at Cubs | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Angels at Cubs | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="next0804gmtmetsatcardinalsallprimede" tvg-name="Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next0804gmtpiratesatredsallprimede" tvg-name="Next | 08:04 (GMT) | Pirates at Reds | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Pirates at Reds | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennenderfrauenallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennenderfrauenallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next0804gmtraysatbrewersallprimede" tvg-name="Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="next0804gmttigersatdiamondbacksallprimede" tvg-name="Next | 08:04 (GMT) | Tigers at Diamondbacks | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Tigers at Diamondbacks | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
@@ -2431,13 +2431,13 @@ http://myxpanel.pro:80/live/Martin/Martin/748421.ts
 http://myxpanel.pro:80/live/Martin/Martin/748420.ts
 #EXTINF:-1 tvg-id="maxdk99" tvg-name=":MAX DK  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  99
 http://myxpanel.pro:80/live/Martin/Martin/748419.ts
-#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxdk04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX DK  04
-http://myxpanel.pro:80/live/Martin/Martin/748514.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxdk01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX DK  01
+#EXTINF:-1 tvg-id="basketballportlandtrailblazerslaclippersapr11100vnmaxdk01" tvg-name="Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Basketball: Portland Trail Blazers @ LA Clippers @ Apr 1 11:00 (VN):MAX DK  01
 http://myxpanel.pro:80/live/Martin/Martin/748517.ts
-#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxdk02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX DK  02
+#EXTINF:-1 tvg-id="curlingswedenvsgermanyapr10400vnmaxdk04" tvg-name="Curling: Sweden vs Germany @ Apr 1 04:00 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Curling: Sweden vs Germany @ Apr 1 04:00 (VN):MAX DK  04
+http://myxpanel.pro:80/live/Martin/Martin/748514.ts
+#EXTINF:-1 tvg-id="cyclingdwarsdoorvlaanderenapr12215vnmaxdk02" tvg-name="Cycling: Dwars door Vlaanderen @ Apr 1 22:15 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Cycling: Dwars door Vlaanderen @ Apr 1 22:15 (VN):MAX DK  02
 http://myxpanel.pro:80/live/Martin/Martin/748516.ts
-#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxdk03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX DK  03
+#EXTINF:-1 tvg-id="snookersnookerapr10200vnmaxdk03" tvg-name="Snooker: Snooker @ Apr 1 02:00 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Snooker @ Apr 1 02:00 (VN):MAX DK  03
 http://myxpanel.pro:80/live/Martin/Martin/748515.ts
 #EXTINF:-1 tvg-id="maxes03" tvg-name=":MAX ES  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  03
 http://myxpanel.pro:80/live/Martin/Martin/755926.ts
@@ -4103,6 +4103,8 @@ http://myxpanel.pro:80/live/Martin/Martin/661352.ts
 http://myxpanel.pro:80/live/Martin/Martin/661353.ts
 #EXTINF:-1 tvg-id="itskysportgolfᵁᴴᴰ" tvg-name="|IT|SKY SPORT GOLF ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/SKYSPORTGOLF.png" group-title="IT | SPORT",|IT|SKY SPORT GOLF ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/661351.ts
+#EXTINF:-1 tvg-id="maxnl04" tvg-name=":MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  04
+http://myxpanel.pro:80/live/Martin/Martin/763617.ts
 #EXTINF:-1 tvg-id="maxnl05" tvg-name=":MAX NL  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  05
 http://myxpanel.pro:80/live/Martin/Martin/763616.ts
 #EXTINF:-1 tvg-id="maxnl06" tvg-name=":MAX NL  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  06
@@ -4295,14 +4297,12 @@ http://myxpanel.pro:80/live/Martin/Martin/763524.ts
 http://myxpanel.pro:80/live/Martin/Martin/763523.ts
 #EXTINF:-1 tvg-id="maxnl99" tvg-name=":MAX NL  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  99
 http://myxpanel.pro:80/live/Martin/Martin/763522.ts
-#EXTINF:-1 tvg-id="curlingitalyvspolandmar310400vnmaxnl04" tvg-name="Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Curling: Italy vs Poland @ Mar 31 04:00 (VN):MAX NL  04
-http://myxpanel.pro:80/live/Martin/Martin/763617.ts
-#EXTINF:-1 tvg-id="snookerbarryhawkinsvsthepchaiyaunnoohmar312000vnmaxnl01" tvg-name="Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Barry Hawkins vs Thepchaiya Un Nooh @ Mar 31 20:00 (VN):MAX NL  01
-http://myxpanel.pro:80/live/Martin/Martin/763620.ts
-#EXTINF:-1 tvg-id="snookermarkwilliamsvsjohnhigginsmar310200vnmaxnl02" tvg-name="Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Mark Williams vs John Higgins @ Mar 31 02:00 (VN):MAX NL  02
-http://myxpanel.pro:80/live/Martin/Martin/763619.ts
-#EXTINF:-1 tvg-id="snookersnookermar310200vnmaxnl03" tvg-name="Snooker: Snooker @ Mar 31 02:00 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Snooker @ Mar 31 02:00 (VN):MAX NL  03
+#EXTINF:-1 tvg-id="curlingswedenvsgermanyapr10400vnmaxnl03" tvg-name="Curling: Sweden vs Germany @ Apr 1 04:00 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Curling: Sweden vs Germany @ Apr 1 04:00 (VN):MAX NL  03
 http://myxpanel.pro:80/live/Martin/Martin/763618.ts
+#EXTINF:-1 tvg-id="cyclingdwarsdoorvlaanderenapr12215vnmaxnl01" tvg-name="Cycling: Dwars door Vlaanderen @ Apr 1 22:15 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Cycling: Dwars door Vlaanderen @ Apr 1 22:15 (VN):MAX NL  01
+http://myxpanel.pro:80/live/Martin/Martin/763620.ts
+#EXTINF:-1 tvg-id="snookersnookerapr10200vnmaxnl02" tvg-name="Snooker: Snooker @ Apr 1 02:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Snooker @ Apr 1 02:00 (VN):MAX NL  02
+http://myxpanel.pro:80/live/Martin/Martin/763619.ts
 #EXTINF:-1 tvg-id="nlespn1" tvg-name="|NL| ESPN 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Netherlands | Sports",|NL| ESPN 1
 http://myxpanel.pro:80/live/Martin/Martin/265572.ts
 #EXTINF:-1 tvg-id="nlespn2" tvg-name="|NL| ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Netherlands | Sports",|NL| ESPN 2
