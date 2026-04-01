@@ -1709,6 +1709,16 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="next0804gmtacrossflandersallprimede" tvg-name="Next | 08:04 (GMT) | Across Flanders | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Across Flanders | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="next0804gmtbrownvsducarpressconferenceallprimede" tvg-name="Next | 08:04 (GMT) | Brown vs. Ducar: Press Conference | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Brown vs. Ducar: Press Conference | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourfrauenwaregemwaregem1289kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Frauen | Waregem – Waregem (128,9km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Frauen | Waregem – Waregem (128,9km) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourmännerroeselarewaregem1846kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourmännerroeselarewaregem1846kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next0804gmtmetsatcardinalsallprimede" tvg-name="Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next0804gmtpiratesatredsallprimede" tvg-name="Next | 08:04 (GMT) | Pirates at Reds | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Pirates at Reds | all | PRIME-DE
@@ -1717,24 +1727,14 @@ http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennenderfrauenallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next0804gmtraysatbrewersallprimede" tvg-name="Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="next0804gmttigersatdiamondbacksallprimede" tvg-name="Next | 08:04 (GMT) | Tigers at Diamondbacks | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Tigers at Diamondbacks | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
