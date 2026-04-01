@@ -691,6 +691,18 @@ http://myxpanel.pro:80/live/Martin/Martin/288361.ts
 http://myxpanel.pro:80/live/Martin/Martin/288360.ts
 #EXTINF:-1 tvg-id="hubsports5fhd" tvg-name="Hub Sports 5 FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyZ6bBZoj6QVm2KM6bJ8N6Cj00f6lgX5MSZTos52oZxk4.png" group-title="LIVE | Starhub sports",Hub Sports 5 FHD
 http://myxpanel.pro:80/live/Martin/Martin/288359.ts
+#EXTINF:-1 tvg-id="tennis35" tvg-name=":Tennis  35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  35
+http://myxpanel.pro:80/live/Martin/Martin/625723.ts
+#EXTINF:-1 tvg-id="tennis36" tvg-name=":Tennis  36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  36
+http://myxpanel.pro:80/live/Martin/Martin/625722.ts
+#EXTINF:-1 tvg-id="tennis37" tvg-name=":Tennis  37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  37
+http://myxpanel.pro:80/live/Martin/Martin/625721.ts
+#EXTINF:-1 tvg-id="tennis38" tvg-name=":Tennis  38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  38
+http://myxpanel.pro:80/live/Martin/Martin/625720.ts
+#EXTINF:-1 tvg-id="tennis39" tvg-name=":Tennis  39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  39
+http://myxpanel.pro:80/live/Martin/Martin/625719.ts
+#EXTINF:-1 tvg-id="tennis40" tvg-name=":Tennis  40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  40
+http://myxpanel.pro:80/live/Martin/Martin/625718.ts
 #EXTINF:-1 tvg-id="tennis41" tvg-name=":Tennis  41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  41
 http://myxpanel.pro:80/live/Martin/Martin/625717.ts
 #EXTINF:-1 tvg-id="tennis42" tvg-name=":Tennis  42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  42
@@ -711,52 +723,44 @@ http://myxpanel.pro:80/live/Martin/Martin/625710.ts
 http://myxpanel.pro:80/live/Martin/Martin/625709.ts
 #EXTINF:-1 tvg-id="tennis50" tvg-name=":Tennis  50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",:Tennis  50
 http://myxpanel.pro:80/live/Martin/Martin/625708.ts
-#EXTINF:-1 tvg-id="altmaierdanielvsmartinezpedromar312200vnatpbucharesttennis08" tvg-name="Altmaier, Daniel vs Martinez, Pedro @ Mar 31 22:00 (VN)- ATP Bucharest :Tennis  08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Altmaier, Daniel vs Martinez, Pedro @ Mar 31 22:00 (VN)- ATP Bucharest :Tennis  08
-http://myxpanel.pro:80/live/Martin/Martin/625750.ts
-#EXTINF:-1 tvg-id="baezsebastianvsgaubasviliusmar311920vnatpbucharesttennis05" tvg-name="Baez, Sebastian vs Gaubas, Vilius @ Mar 31 19:20 (VN)- ATP Bucharest :Tennis  05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Baez, Sebastian vs Gaubas, Vilius @ Mar 31 19:20 (VN)- ATP Bucharest :Tennis  05
-http://myxpanel.pro:80/live/Martin/Martin/625753.ts
-#EXTINF:-1 tvg-id="belluccimattiavsbennaniredamar311910vnatpmarrakechtennis04" tvg-name="Bellucci, Mattia vs Bennani, Reda @ Mar 31 19:10 (VN)- ATP Marrakech :Tennis  04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Bellucci, Mattia vs Bennani, Reda @ Mar 31 19:10 (VN)- ATP Marrakech :Tennis  04
-http://myxpanel.pro:80/live/Martin/Martin/625754.ts
-#EXTINF:-1 tvg-id="bouzkovamarievssanchezanasofiaapr10700vnwtabogotatennis38" tvg-name="Bouzkova, Marie vs Sanchez, Ana Sofia @ Apr 1 07:00 (VN)- WTA Bogota :Tennis  38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Bouzkova, Marie vs Sanchez, Ana Sofia @ Apr 1 07:00 (VN)- WTA Bogota :Tennis  38
-http://myxpanel.pro:80/live/Martin/Martin/625720.ts
-#EXTINF:-1 tvg-id="burilloirenevsortenzijazminmar310150vnwtabogotatennis24" tvg-name="Burillo, Irene vs Ortenzi, Jazmin @ Mar 31 01:50 (VN)- WTA Bogota :Tennis  24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Burillo, Irene vs Ortenzi, Jazmin @ Mar 31 01:50 (VN)- WTA Bogota :Tennis  24
-http://myxpanel.pro:80/live/Martin/Martin/625734.ts
-#EXTINF:-1 tvg-id="buseignaciovsberrettinimatteomar312020vnatpmarrakechtennis06" tvg-name="Buse, Ignacio vs Berrettini, Matteo @ Mar 31 20:20 (VN)- ATP Marrakech :Tennis  06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Buse, Ignacio vs Berrettini, Matteo @ Mar 31 20:20 (VN)- ATP Marrakech :Tennis  06
+#EXTINF:-1 tvg-id="arangoeudvardypvsappletonegamarramartinsiapr10320vnwtabogotatennis26" tvg-name="Arango E, Udvardy P vs Appleton E, Gamarra Martins I @ Apr 1 03:20 (VN)- WTA Bogota :Tennis  26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Arango E, Udvardy P vs Appleton E, Gamarra Martins I @ Apr 1 03:20 (VN)- WTA Bogota :Tennis  26
+http://myxpanel.pro:80/live/Martin/Martin/625732.ts
+#EXTINF:-1 tvg-id="bennanikarimvshanfmannyannickapr12130vnatpmarrakechtennis06" tvg-name="Bennani, Karim vs Hanfmann, Yannick @ Apr 1 21:30 (VN)- ATP Marrakech :Tennis  06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Bennani, Karim vs Hanfmann, Yannick @ Apr 1 21:30 (VN)- ATP Marrakech :Tennis  06
 http://myxpanel.pro:80/live/Martin/Martin/625752.ts
-#EXTINF:-1 tvg-id="cavallereimersypigossilvsmediorrealariasvrierajmar310320vnwtabogotatennis31" tvg-name="Cavalle-Reimers Y, Pigossi L vs Mediorreal Arias V, Riera J @ Mar 31 03:20 (VN)- WTA Bogota :Tennis  31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Cavalle-Reimers Y, Pigossi L vs Mediorreal Arias V, Riera J @ Mar 31 03:20 (VN)- WTA Bogota :Tennis  31
-http://myxpanel.pro:80/live/Martin/Martin/625727.ts
-#EXTINF:-1 tvg-id="cinafedericovsmulleralexandremar311800vnatpmarrakechtennis02" tvg-name="Cina, Federico vs Muller, Alexandre @ Mar 31 18:00 (VN)- ATP Marrakech :Tennis  02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Cina, Federico vs Muller, Alexandre @ Mar 31 18:00 (VN)- ATP Marrakech :Tennis  02
-http://myxpanel.pro:80/live/Martin/Martin/625756.ts
-#EXTINF:-1 tvg-id="dammmartinvsnakashimabrandonmar310410vnatphoustontennis34" tvg-name="Damm, Martin vs Nakashima, Brandon @ Mar 31 04:10 (VN)- ATP Houston :Tennis  34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Damm, Martin vs Nakashima, Brandon @ Mar 31 04:10 (VN)- ATP Houston :Tennis  34
-http://myxpanel.pro:80/live/Martin/Martin/625724.ts
-#EXTINF:-1 tvg-id="dzumhurdamirvsjianufilipcristianmar311810vnatpbucharesttennis03" tvg-name="Dzumhur, Damir vs Jianu, Filip Cristian @ Mar 31 18:10 (VN)- ATP Bucharest :Tennis  03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Dzumhur, Damir vs Jianu, Filip Cristian @ Mar 31 18:10 (VN)- ATP Bucharest :Tennis  03
+#EXTINF:-1 tvg-id="borgesnunovsdzumhurdamirapr11910vnatpbucharesttennis03" tvg-name="Borges, Nuno vs Dzumhur, Damir @ Apr 1 19:10 (VN)- ATP Bucharest :Tennis  03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Borges, Nuno vs Dzumhur, Damir @ Apr 1 19:10 (VN)- ATP Bucharest :Tennis  03
 http://myxpanel.pro:80/live/Martin/Martin/625755.ts
-#EXTINF:-1 tvg-id="etcheverrytomasmartinvsgomezfedericoagustinmar310300vnatphoustontennis28" tvg-name="Etcheverry, Tomas Martin vs Gomez, Federico Agustin @ Mar 31 03:00 (VN)- ATP Houston :Tennis  28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Etcheverry, Tomas Martin vs Gomez, Federico Agustin @ Mar 31 03:00 (VN)- ATP Houston :Tennis  28
-http://myxpanel.pro:80/live/Martin/Martin/625730.ts
-#EXTINF:-1 tvg-id="jakupovicdradisicnvsliangeyangzmar310410vnwtabogotatennis35" tvg-name="Jakupovic D, Radisic N vs Liang E, Yang Z @ Mar 31 04:10 (VN)- WTA Bogota :Tennis  35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Jakupovic D, Radisic N vs Liang E, Yang Z @ Mar 31 04:10 (VN)- WTA Bogota :Tennis  35
-http://myxpanel.pro:80/live/Martin/Martin/625723.ts
-#EXTINF:-1 tvg-id="karatanchevaliavslepchenkovarvaramar312330vnwtabogotatennis13" tvg-name="Karatancheva, Lia vs Lepchenko, Varvara @ Mar 31 23:30 (VN)- WTA Bogota :Tennis  13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Karatancheva, Lia vs Lepchenko, Varvara @ Mar 31 23:30 (VN)- WTA Bogota :Tennis  13
-http://myxpanel.pro:80/live/Martin/Martin/625745.ts
-#EXTINF:-1 tvg-id="michelsenalexvswongcolemanapr10700vnatphoustontennis37" tvg-name="Michelsen, Alex vs Wong, Coleman @ Apr 1 07:00 (VN)- ATP Houston :Tennis  37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Michelsen, Alex vs Wong, Coleman @ Apr 1 07:00 (VN)- ATP Houston :Tennis  37
-http://myxpanel.pro:80/live/Martin/Martin/625721.ts
-#EXTINF:-1 tvg-id="montgomeryrobinvsblinkovaannamar310040vnwtabogotatennis18" tvg-name="Montgomery, Robin vs Blinkova, Anna @ Mar 31 00:40 (VN)- WTA Bogota :Tennis  18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Montgomery, Robin vs Blinkova, Anna @ Mar 31 00:40 (VN)- WTA Bogota :Tennis  18
-http://myxpanel.pro:80/live/Martin/Martin/625740.ts
-#EXTINF:-1 tvg-id="oconnellchristophervsnavonemarianomar311600vnatpbucharesttennis01" tvg-name="O'Connell, Christopher vs Navone, Mariano @ Mar 31 16:00 (VN)- ATP Bucharest :Tennis  01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",O'Connell, Christopher vs Navone, Mariano @ Mar 31 16:00 (VN)- ATP Bucharest :Tennis  01
-http://myxpanel.pro:80/live/Martin/Martin/625757.ts
-#EXTINF:-1 tvg-id="osoriocamilavsdolehidecarolinemar310100vnwtabogotatennis19" tvg-name="Osorio, Camila vs Dolehide, Caroline @ Mar 31 01:00 (VN)- WTA Bogota :Tennis  19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Osorio, Camila vs Dolehide, Caroline @ Mar 31 01:00 (VN)- WTA Bogota :Tennis  19
-http://myxpanel.pro:80/live/Martin/Martin/625739.ts
-#EXTINF:-1 tvg-id="popyrinalexeivskypsonpatrickapr10810vnatphoustontennis40" tvg-name="Popyrin, Alexei vs Kypson, Patrick @ Apr 1 08:10 (VN)- ATP Houston :Tennis  40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Popyrin, Alexei vs Kypson, Patrick @ Apr 1 08:10 (VN)- ATP Houston :Tennis  40
-http://myxpanel.pro:80/live/Martin/Martin/625718.ts
-#EXTINF:-1 tvg-id="rakotomangarajaonahtiantsoasarahvsbouzasmaneirojessicamar310150vnwtabogotatennis23" tvg-name="Rakotomanga Rajaonah, Tiantsoa Sarah vs Bouzas Maneiro, Jessica @ Mar 31 01:50 (VN)- WTA Bogota :Tennis  23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Rakotomanga Rajaonah, Tiantsoa Sarah vs Bouzas Maneiro, Jessica @ Mar 31 01:50 (VN)- WTA Bogota :Tennis  23
-http://myxpanel.pro:80/live/Martin/Martin/625735.ts
-#EXTINF:-1 tvg-id="semenistajadarjavsseidelellamar312330vnwtabogotatennis12" tvg-name="Semenistaja, Darja vs Seidel, Ella @ Mar 31 23:30 (VN)- WTA Bogota :Tennis  12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Semenistaja, Darja vs Seidel, Ella @ Mar 31 23:30 (VN)- WTA Bogota :Tennis  12
-http://myxpanel.pro:80/live/Martin/Martin/625746.ts
-#EXTINF:-1 tvg-id="strakhovavtikhonovaavslozanoavellanedasavillamilariaslvmar310300vnwtabogotatennis30" tvg-name="Strakhova V, Tikhonova A vs Lozano Avellaneda S A, Villamil Arias L V @ Mar 31 03:00 (VN)- WTA Bogota :Tennis  30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Strakhova V, Tikhonova A vs Lozano Avellaneda S A, Villamil Arias L V @ Mar 31 03:00 (VN)- WTA Bogota :Tennis  30
-http://myxpanel.pro:80/live/Martin/Martin/625728.ts
-#EXTINF:-1 tvg-id="vanasschelucavsgastonhugomar312130vnatpmarrakechtennis07" tvg-name="Van Assche, Luca vs Gaston, Hugo @ Mar 31 21:30 (VN)- ATP Marrakech :Tennis  07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Van Assche, Luca vs Gaston, Hugo @ Mar 31 21:30 (VN)- ATP Marrakech :Tennis  07
+#EXTINF:-1 tvg-id="cavallereimersypigossilvssemenistajadvandewinkelhapr10300vnwtabogotatennis24" tvg-name="Cavalle-Reimers Y, Pigossi L vs Semenistaja D, Vandewinkel H @ Apr 1 03:00 (VN)- WTA Bogota :Tennis  24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Cavalle-Reimers Y, Pigossi L vs Semenistaja D, Vandewinkel H @ Apr 1 03:00 (VN)- WTA Bogota :Tennis  24
+http://myxpanel.pro:80/live/Martin/Martin/625734.ts
+#EXTINF:-1 tvg-id="darderilucianovsbelluccimattiaapr12020vnatpmarrakechtennis05" tvg-name="Darderi, Luciano vs Bellucci, Mattia @ Apr 1 20:20 (VN)- ATP Marrakech :Tennis  05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Darderi, Luciano vs Bellucci, Mattia @ Apr 1 20:20 (VN)- ATP Marrakech :Tennis  05
+http://myxpanel.pro:80/live/Martin/Martin/625753.ts
+#EXTINF:-1 tvg-id="diallogabrielvsmolcanalexapr12200vnatpbucharesttennis07" tvg-name="Diallo, Gabriel vs Molcan, Alex @ Apr 1 22:00 (VN)- ATP Bucharest :Tennis  07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Diallo, Gabriel vs Molcan, Alex @ Apr 1 22:00 (VN)- ATP Bucharest :Tennis  07
 http://myxpanel.pro:80/live/Martin/Martin/625751.ts
-#EXTINF:-1 tvg-id="vandewinkelhannevscostoulassofiamar310300vnwtabogotatennis29" tvg-name="Vandewinkel, Hanne vs Costoulas, Sofia @ Mar 31 03:00 (VN)- WTA Bogota :Tennis  29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Vandewinkel, Hanne vs Costoulas, Sofia @ Mar 31 03:00 (VN)- WTA Bogota :Tennis  29
-http://myxpanel.pro:80/live/Martin/Martin/625729.ts
+#EXTINF:-1 tvg-id="dolehideckhromachevaivscascinoefossahuergonapr10040vnwtabogotatennis14" tvg-name="Dolehide C, Khromacheva I vs Cascino E, Fossa Huergo N @ Apr 1 00:40 (VN)- WTA Bogota :Tennis  14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Dolehide C, Khromacheva I vs Cascino E, Fossa Huergo N @ Apr 1 00:40 (VN)- WTA Bogota :Tennis  14
+http://myxpanel.pro:80/live/Martin/Martin/625744.ts
+#EXTINF:-1 tvg-id="etcheverrytomasmartinvsboltalexapr10300vnatphoustontennis23" tvg-name="Etcheverry, Tomas Martin vs Bolt, Alex @ Apr 1 03:00 (VN)- ATP Houston :Tennis  23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Etcheverry, Tomas Martin vs Bolt, Alex @ Apr 1 03:00 (VN)- ATP Houston :Tennis  23
+http://myxpanel.pro:80/live/Martin/Martin/625735.ts
+#EXTINF:-1 tvg-id="kawakatarzynavsmariatatjanaapr10210vnwtabogotatennis21" tvg-name="Kawa, Katarzyna vs Maria, Tatjana @ Apr 1 02:10 (VN)- WTA Bogota :Tennis  21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Kawa, Katarzyna vs Maria, Tatjana @ Apr 1 02:10 (VN)- WTA Bogota :Tennis  21
+http://myxpanel.pro:80/live/Martin/Martin/625737.ts
+#EXTINF:-1 tvg-id="mollerelmervsnavonemarianoapr11800vnatpbucharesttennis01" tvg-name="Moller, Elmer vs Navone, Mariano @ Apr 1 18:00 (VN)- ATP Bucharest :Tennis  01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Moller, Elmer vs Navone, Mariano @ Apr 1 18:00 (VN)- ATP Bucharest :Tennis  01
+http://myxpanel.pro:80/live/Martin/Martin/625757.ts
+#EXTINF:-1 tvg-id="moutetcorentinvsbaaditahaapr11910vnatpmarrakechtennis04" tvg-name="Moutet, Corentin vs Baadi, Taha @ Apr 1 19:10 (VN)- ATP Marrakech :Tennis  04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Moutet, Corentin vs Baadi, Taha @ Apr 1 19:10 (VN)- ATP Marrakech :Tennis  04
+http://myxpanel.pro:80/live/Martin/Martin/625754.ts
+#EXTINF:-1 tvg-id="papamichaildespinavssemenistajadarjaapr12330vnwtabogotatennis11" tvg-name="Papamichail, Despina vs Semenistaja, Darja @ Apr 1 23:30 (VN)- WTA Bogota :Tennis  11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Papamichail, Despina vs Semenistaja, Darja @ Apr 1 23:30 (VN)- WTA Bogota :Tennis  11
+http://myxpanel.pro:80/live/Martin/Martin/625747.ts
+#EXTINF:-1 tvg-id="rierajuliavsblinkovaannaapr20700vnwtabogotatennis32" tvg-name="Riera, Julia vs Blinkova, Anna @ Apr 2 07:00 (VN)- WTA Bogota :Tennis  32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Riera, Julia vs Blinkova, Anna @ Apr 2 07:00 (VN)- WTA Bogota :Tennis  32
+http://myxpanel.pro:80/live/Martin/Martin/625726.ts
+#EXTINF:-1 tvg-id="sheltonbenvszhangzhizhenapr20700vnatphoustontennis31" tvg-name="Shelton, Ben vs Zhang, Zhizhen @ Apr 2 07:00 (VN)- ATP Houston :Tennis  31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Shelton, Ben vs Zhang, Zhizhen @ Apr 2 07:00 (VN)- ATP Houston :Tennis  31
+http://myxpanel.pro:80/live/Martin/Martin/625727.ts
+#EXTINF:-1 tvg-id="strakhovavtikhonovaavsliangeyangzapr10150vnwtabogotatennis19" tvg-name="Strakhova V, Tikhonova A vs Liang E, Yang Z @ Apr 1 01:50 (VN)- WTA Bogota :Tennis  19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Strakhova V, Tikhonova A vs Liang E, Yang Z @ Apr 1 01:50 (VN)- WTA Bogota :Tennis  19
+http://myxpanel.pro:80/live/Martin/Martin/625739.ts
+#EXTINF:-1 tvg-id="tirantethiagoagustinvsmcdonaldmackenzieapr10410vnatphoustontennis28" tvg-name="Tirante, Thiago Agustin vs Mcdonald, Mackenzie @ Apr 1 04:10 (VN)- ATP Houston :Tennis  28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Tirante, Thiago Agustin vs Mcdonald, Mackenzie @ Apr 1 04:10 (VN)- ATP Houston :Tennis  28
+http://myxpanel.pro:80/live/Martin/Martin/625730.ts
+#EXTINF:-1 tvg-id="trungellitimarcovsmajchrzakkamilapr11800vnatpmarrakechtennis02" tvg-name="Trungelliti, Marco vs Majchrzak, Kamil @ Apr 1 18:00 (VN)- ATP Marrakech :Tennis  02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Trungelliti, Marco vs Majchrzak, Kamil @ Apr 1 18:00 (VN)- ATP Marrakech :Tennis  02
+http://myxpanel.pro:80/live/Martin/Martin/625756.ts
+#EXTINF:-1 tvg-id="udvardypannavsparejajulietaapr10100vnwtabogotatennis16" tvg-name="Udvardy, Panna vs Pareja, Julieta @ Apr 1 01:00 (VN)- WTA Bogota :Tennis  16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Udvardy, Panna vs Pareja, Julieta @ Apr 1 01:00 (VN)- WTA Bogota :Tennis  16
+http://myxpanel.pro:80/live/Martin/Martin/625742.ts
+#EXTINF:-1 tvg-id="vallejoadolfodanielvspaultommyapr20810vnatphoustontennis34" tvg-name="Vallejo, Adolfo Daniel vs Paul, Tommy @ Apr 2 08:10 (VN)- ATP Houston :Tennis  34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Vallejo, Adolfo Daniel vs Paul, Tommy @ Apr 2 08:10 (VN)- ATP Houston :Tennis  34
+http://myxpanel.pro:80/live/Martin/Martin/625724.ts
 #EXTINF:-1 tvg-id="uefa01wolfsburgvsollyonnes2345vn" tvg-name="UEFA  | 01 - Wolfsburg vs Ol Lyonnes 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Wolfsburg vs Ol Lyonnes 23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277950.ts
 #EXTINF:-1 tvg-id="uefa02arsenalvschelsea0200vn" tvg-name="UEFA  | 02 - Arsenal vs Chelsea 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 02 - Arsenal vs Chelsea 02:00 (VN)
@@ -1409,17 +1413,17 @@ http://myxpanel.pro:80/live/Martin/Martin/805905.ts
 http://myxpanel.pro:80/live/Martin/Martin/805904.ts
 #EXTINF:-1 tvg-id="cbcgem50" tvg-name=":CBC Gem  50" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",:CBC Gem  50
 http://myxpanel.pro:80/live/Martin/Martin/805903.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday2rink1mar311400vncbcgem02" tvg-name="Canadian Ringette Championships: Day 2 - Rink 1 @ Mar 31 14:00 (VN):CBC Gem  02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 2 - Rink 1 @ Mar 31 14:00 (VN):CBC Gem  02
-http://myxpanel.pro:80/live/Martin/Martin/805951.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday2rink2mar311400vncbcgem01" tvg-name="Canadian Ringette Championships: Day 2 - Rink 2 @ Mar 31 14:00 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 2 - Rink 2 @ Mar 31 14:00 (VN):CBC Gem  01
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink1apr11400vncbcgem01" tvg-name="Canadian Ringette Championships: Day 3 - Rink 1 @ Apr 1 14:00 (VN):CBC Gem  01" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 1 @ Apr 1 14:00 (VN):CBC Gem  01
 http://myxpanel.pro:80/live/Martin/Martin/805952.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday2rink3mar311415vncbcgem03" tvg-name="Canadian Ringette Championships: Day 2 - Rink 3 @ Mar 31 14:15 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 2 - Rink 3 @ Mar 31 14:15 (VN):CBC Gem  03
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink2apr11400vncbcgem02" tvg-name="Canadian Ringette Championships: Day 3 - Rink 2 @ Apr 1 14:00 (VN):CBC Gem  02" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 2 @ Apr 1 14:00 (VN):CBC Gem  02
+http://myxpanel.pro:80/live/Martin/Martin/805951.ts
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink3apr11415vncbcgem03" tvg-name="Canadian Ringette Championships: Day 3 - Rink 3 @ Apr 1 14:15 (VN):CBC Gem  03" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 3 @ Apr 1 14:15 (VN):CBC Gem  03
 http://myxpanel.pro:80/live/Martin/Martin/805950.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink1apr11400vncbcgem04" tvg-name="Canadian Ringette Championships: Day 3 - Rink 1 @ Apr 1 14:00 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 1 @ Apr 1 14:00 (VN):CBC Gem  04
-http://myxpanel.pro:80/live/Martin/Martin/805949.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink2apr11400vncbcgem05" tvg-name="Canadian Ringette Championships: Day 3 - Rink 2 @ Apr 1 14:00 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 2 @ Apr 1 14:00 (VN):CBC Gem  05
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday4rink1apr21400vncbcgem05" tvg-name="Canadian Ringette Championships: Day 4 - Rink 1 @ Apr 2 14:00 (VN):CBC Gem  05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 4 - Rink 1 @ Apr 2 14:00 (VN):CBC Gem  05
 http://myxpanel.pro:80/live/Martin/Martin/805948.ts
-#EXTINF:-1 tvg-id="canadianringettechampionshipsday3rink3apr11415vncbcgem06" tvg-name="Canadian Ringette Championships: Day 3 - Rink 3 @ Apr 1 14:15 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 3 - Rink 3 @ Apr 1 14:15 (VN):CBC Gem  06
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday4rink2apr21400vncbcgem04" tvg-name="Canadian Ringette Championships: Day 4 - Rink 2 @ Apr 2 14:00 (VN):CBC Gem  04" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 4 - Rink 2 @ Apr 2 14:00 (VN):CBC Gem  04
+http://myxpanel.pro:80/live/Martin/Martin/805949.ts
+#EXTINF:-1 tvg-id="canadianringettechampionshipsday4rink3apr21415vncbcgem06" tvg-name="Canadian Ringette Championships: Day 4 - Rink 3 @ Apr 2 14:15 (VN):CBC Gem  06" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/CBC_Gem_2020.png" group-title="Canada | CBC Gem Sports",Canadian Ringette Championships: Day 4 - Rink 3 @ Apr 2 14:15 (VN):CBC Gem  06
 http://myxpanel.pro:80/live/Martin/Martin/805947.ts
 #EXTINF:-1 tvg-id="cabeinsportshd" tvg-name="CA Bein Sports HD" tvg-logo="http://xplatinmedia.com:8080/images/c906b175d8cd14f95d016aca9d2ad191.png" group-title="Canada | Sports",CA Bein Sports HD
 http://myxpanel.pro:80/live/Martin/Martin/3979.ts
@@ -1563,6 +1567,26 @@ http://myxpanel.pro:80/live/Martin/Martin/3990.ts
 http://myxpanel.pro:80/live/Martin/Martin/3907.ts
 #EXTINF:-1 tvg-id="catvasports2" tvg-name="CA TVA Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a975.png" group-title="Canada | Sports",CA TVA Sports 2
 http://myxpanel.pro:80/live/Martin/Martin/3906.ts
+#EXTINF:-1 tvg-id="sportsnet14" tvg-name=":Sportsnet+  14" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  14
+http://myxpanel.pro:80/live/Martin/Martin/657877.ts
+#EXTINF:-1 tvg-id="sportsnet15" tvg-name=":Sportsnet+  15" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  15
+http://myxpanel.pro:80/live/Martin/Martin/657876.ts
+#EXTINF:-1 tvg-id="sportsnet16" tvg-name=":Sportsnet+  16" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  16
+http://myxpanel.pro:80/live/Martin/Martin/657875.ts
+#EXTINF:-1 tvg-id="sportsnet17" tvg-name=":Sportsnet+  17" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  17
+http://myxpanel.pro:80/live/Martin/Martin/657874.ts
+#EXTINF:-1 tvg-id="sportsnet18" tvg-name=":Sportsnet+  18" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  18
+http://myxpanel.pro:80/live/Martin/Martin/657873.ts
+#EXTINF:-1 tvg-id="sportsnet19" tvg-name=":Sportsnet+  19" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  19
+http://myxpanel.pro:80/live/Martin/Martin/657872.ts
+#EXTINF:-1 tvg-id="sportsnet20" tvg-name=":Sportsnet+  20" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  20
+http://myxpanel.pro:80/live/Martin/Martin/657871.ts
+#EXTINF:-1 tvg-id="sportsnet21" tvg-name=":Sportsnet+  21" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  21
+http://myxpanel.pro:80/live/Martin/Martin/657870.ts
+#EXTINF:-1 tvg-id="sportsnet22" tvg-name=":Sportsnet+  22" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  22
+http://myxpanel.pro:80/live/Martin/Martin/657869.ts
+#EXTINF:-1 tvg-id="sportsnet23" tvg-name=":Sportsnet+  23" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  23
+http://myxpanel.pro:80/live/Martin/Martin/657868.ts
 #EXTINF:-1 tvg-id="sportsnet24" tvg-name=":Sportsnet+  24" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  24
 http://myxpanel.pro:80/live/Martin/Martin/657867.ts
 #EXTINF:-1 tvg-id="sportsnet25" tvg-name=":Sportsnet+  25" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  25
@@ -1617,26 +1641,24 @@ http://myxpanel.pro:80/live/Martin/Martin/657843.ts
 http://myxpanel.pro:80/live/Martin/Martin/657842.ts
 #EXTINF:-1 tvg-id="sportsnet50" tvg-name=":Sportsnet+  50" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",:Sportsnet+  50
 http://myxpanel.pro:80/live/Martin/Martin/657841.ts
-#EXTINF:-1 tvg-id="blairbarkermarch31mar312030vnsportsnet06" tvg-name="Blair & Barker March 31 @ Mar 31 20:30 (VN):Sportsnet+  06" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Blair & Barker March 31 @ Mar 31 20:30 (VN):Sportsnet+  06
+#EXTINF:-1 tvg-id="mlbclevelandvslosangelesdodgersapr10200vnsportsnet10" tvg-name="MLB: Cleveland vs Los Angeles Dodgers @ Apr 1 02:00 (VN):Sportsnet+  10" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Cleveland vs Los Angeles Dodgers @ Apr 1 02:00 (VN):Sportsnet+  10
+http://myxpanel.pro:80/live/Martin/Martin/657881.ts
+#EXTINF:-1 tvg-id="mlbcoloradovstorontoapr11830vnsportsnet05" tvg-name="MLB: Colorado vs Toronto @ Apr 1 18:30 (VN):Sportsnet+  05" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Colorado vs Toronto @ Apr 1 18:30 (VN):Sportsnet+  05
+http://myxpanel.pro:80/live/Martin/Martin/657886.ts
+#EXTINF:-1 tvg-id="mlbnewyorkyankeesvsseattleapr12200vnsportsnet06" tvg-name="MLB: New York Yankees vs Seattle @ Apr 1 22:00 (VN):Sportsnet+  06" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: New York Yankees vs Seattle @ Apr 1 22:00 (VN):Sportsnet+  06
 http://myxpanel.pro:80/live/Martin/Martin/657885.ts
-#EXTINF:-1 tvg-id="leafstalkmarch30vsanaheimmar310600vnsportsnet01" tvg-name="Leafs Talk March 30 vs Anaheim @ Mar 31 06:00 (VN):Sportsnet+  01" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Leafs Talk March 30 vs Anaheim @ Mar 31 06:00 (VN):Sportsnet+  01
-http://myxpanel.pro:80/live/Martin/Martin/657890.ts
-#EXTINF:-1 tvg-id="mlbclevelandvslosangelesdodgersmar310400vnsportsnet23" tvg-name="MLB: Cleveland vs Los Angeles Dodgers @ Mar 31 04:00 (VN):Sportsnet+  23" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Cleveland vs Los Angeles Dodgers @ Mar 31 04:00 (VN):Sportsnet+  23
-http://myxpanel.pro:80/live/Martin/Martin/657868.ts
-#EXTINF:-1 tvg-id="mlbcoloradovstorontomar310030vnsportsnet09" tvg-name="MLB: Colorado vs Toronto @ Mar 31 00:30 (VN):Sportsnet+  09" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",MLB: Colorado vs Toronto @ Mar 31 00:30 (VN):Sportsnet+  09
+#EXTINF:-1 tvg-id="nbabostonvsmiamiapr10130vnsportsnet09" tvg-name="NBA: Boston vs Miami @ Apr 1 01:30 (VN):Sportsnet+  09" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",NBA: Boston vs Miami @ Apr 1 01:30 (VN):Sportsnet+  09
 http://myxpanel.pro:80/live/Martin/Martin/657882.ts
-#EXTINF:-1 tvg-id="nbatorontovsdetroitmar310200vnsportsnet20" tvg-name="NBA: Toronto vs Detroit @ Mar 31 02:00 (VN):Sportsnet+  20" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",NBA: Toronto vs Detroit @ Mar 31 02:00 (VN):Sportsnet+  20
-http://myxpanel.pro:80/live/Martin/Martin/657871.ts
-#EXTINF:-1 tvg-id="realkyperbournemarch31mar312200vnsportsnet07" tvg-name="Real Kyper & Bourne March 31 @ Mar 31 22:00 (VN):Sportsnet+  07" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Real Kyper & Bourne March 31 @ Mar 31 22:00 (VN):Sportsnet+  07
+#EXTINF:-1 tvg-id="realkyperbourneapril1apr12300vnsportsnet07" tvg-name="Real Kyper & Bourne April 1 @ Apr 1 23:00 (VN):Sportsnet+  07" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Real Kyper & Bourne April 1 @ Apr 1 23:00 (VN):Sportsnet+  07
 http://myxpanel.pro:80/live/Martin/Martin/657884.ts
-#EXTINF:-1 tvg-id="sportsnetcentralmarch30mar311100vnsportsnet02" tvg-name="Sportsnet Central March 30 @ Mar 31 11:00 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central March 30 @ Mar 31 11:00 (VN):Sportsnet+  02
-http://myxpanel.pro:80/live/Martin/Martin/657889.ts
-#EXTINF:-1 tvg-id="thefanpregamemarch31mar310000vnsportsnet08" tvg-name="The FAN Pregame March 31 @ Mar 31 00:00 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The FAN Pregame March 31 @ Mar 31 00:00 (VN):Sportsnet+  08
+#EXTINF:-1 tvg-id="sportsnetcentralmarch31apr11100vnsportsnet01" tvg-name="Sportsnet Central March 31 @ Apr 1 11:00 (VN):Sportsnet+  01" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",Sportsnet Central March 31 @ Apr 1 11:00 (VN):Sportsnet+  01
+http://myxpanel.pro:80/live/Martin/Martin/657890.ts
+#EXTINF:-1 tvg-id="thefanpregameapril1apr10000vnsportsnet08" tvg-name="The FAN Pregame April 1 @ Apr 1 00:00 (VN):Sportsnet+  08" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The FAN Pregame April 1 @ Apr 1 00:00 (VN):Sportsnet+  08
 http://myxpanel.pro:80/live/Martin/Martin/657883.ts
-#EXTINF:-1 tvg-id="thejdbunkispodcastmarch31mar311500vnsportsnet03" tvg-name="The JD Bunkis Podcast March 31 @ Mar 31 15:00 (VN):Sportsnet+  03" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The JD Bunkis Podcast March 31 @ Mar 31 15:00 (VN):Sportsnet+  03
+#EXTINF:-1 tvg-id="thejdbunkispodcastapril1apr11500vnsportsnet02" tvg-name="The JD Bunkis Podcast April 1 @ Apr 1 15:00 (VN):Sportsnet+  02" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The JD Bunkis Podcast April 1 @ Apr 1 15:00 (VN):Sportsnet+  02
+http://myxpanel.pro:80/live/Martin/Martin/657889.ts
+#EXTINF:-1 tvg-id="theraptorsshowapril1apr11700vnsportsnet03" tvg-name="The Raptors Show April 1 @ Apr 1 17:00 (VN):Sportsnet+  03" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The Raptors Show April 1 @ Apr 1 17:00 (VN):Sportsnet+  03
 http://myxpanel.pro:80/live/Martin/Martin/657888.ts
-#EXTINF:-1 tvg-id="theraptorsshowmarch31mar311700vnsportsnet04" tvg-name="The Raptors Show March 31 @ Mar 31 17:00 (VN):Sportsnet+  04" tvg-logo="https://www.sasktel.com/images/tv/promotions/sportsnet-plus-920x700.png" group-title="Canada | Sportsnet +",The Raptors Show March 31 @ Mar 31 17:00 (VN):Sportsnet+  04
-http://myxpanel.pro:80/live/Martin/Martin/657887.ts
 #EXTINF:-1 tvg-id="3fussballliga1" tvg-name="3. FUSSBALL-LIGA 1" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 1
 http://myxpanel.pro:80/live/Martin/Martin/662197.ts
 #EXTINF:-1 tvg-id="3fussballliga2" tvg-name="3. FUSSBALL-LIGA 2" tvg-logo="" group-title="DE | SPORT",3. FUSSBALL-LIGA 2
@@ -1709,14 +1731,16 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="livedwarsdoorvlaanderenuciworldtourmännerroeselarewaregem1846kmallprimede" tvg-name="Live | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="liveradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Live | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="next0804gmtacrossflandersallprimede" tvg-name="Next | 08:04 (GMT) | Across Flanders | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Across Flanders | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="next0804gmtbrownvsducarpressconferenceallprimede" tvg-name="Next | 08:04 (GMT) | Brown vs. Ducar: Press Conference | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Brown vs. Ducar: Press Conference | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourfrauenwaregemwaregem1289kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Frauen | Waregem – Waregem (128,9km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Frauen | Waregem – Waregem (128,9km) | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourmännerroeselarewaregem1846kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="next0804gmtdwarsdoorvlaanderenuciworldtourmännerroeselarewaregem1846kmallprimede" tvg-name="Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Dwars door Vlaanderen UCI World Tour | Männer | Roeselare – Waregem (184,6km) | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next0804gmtmetsatcardinalsallprimede" tvg-name="Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Mets at Cardinals | all | PRIME-DE
@@ -1727,8 +1751,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennenderfrauenallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Frauen | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="next0804gmtradsportdwarsdoorvlaandereneintagesrennendermännerallprimede" tvg-name="Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Radsport: Dwars Door Vlaanderen: Eintagesrennen der Männer | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next0804gmtraysatbrewersallprimede" tvg-name="Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 08:04 (GMT) | Rays at Brewers | all | PRIME-DE
@@ -5051,8 +5073,6 @@ http://myxpanel.pro:80/live/Martin/Martin/732214.ts
 http://myxpanel.pro:80/live/Martin/Martin/732213.ts
 #EXTINF:-1 tvg-id="maxus99" tvg-name=":MAX US 99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 99
 http://myxpanel.pro:80/live/Martin/Martin/732212.ts
-#EXTINF:-1 tvg-id="soccerusmntvsportugalmar310000vnmaxus01" tvg-name="Soccer: USMNT vs Portugal @ Mar 31 00:00 (VN):MAX US 01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",Soccer: USMNT vs Portugal @ Mar 31 00:00 (VN):MAX US 01
-http://myxpanel.pro:80/live/Martin/Martin/732310.ts
 #EXTINF:-1 tvg-id="nbcsports08" tvg-name=":Nbc Sports  08" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  08
 http://myxpanel.pro:80/live/Martin/Martin/780228.ts
 #EXTINF:-1 tvg-id="nbcsports09" tvg-name=":Nbc Sports  09" tvg-logo="https://en.wikipedia.org/wiki/NBC_Sports#/media/File:NBC_Sports_2023.svg" group-title="USA | NBC Sports",:Nbc Sports  09
