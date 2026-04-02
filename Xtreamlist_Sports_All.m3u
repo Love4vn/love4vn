@@ -1731,6 +1731,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="liveneilrobertsonbarryhawkinstourchampionshipviertelfinalemanchesteroriginalsoundallprimede" tvg-name="Live | Neil Robertson - Barry Hawkins Tour Championship | Viertelfinale | Manchester | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Neil Robertson - Barry Hawkins Tour Championship | Viertelfinale | Manchester | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next0904gmt2026augustanationalwomensamateurallprimede" tvg-name="Next | 09:04 (GMT) | 2026 Augusta National Women's Amateur | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 09:04 (GMT) | 2026 Augusta National Women's Amateur | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next0904gmtblneuerskronprinzjonasurbigexklusivallprimede" tvg-name="Next | 09:04 (GMT) | BL: Neuers Kronprinz: Jonas Urbig exklusiv | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 09:04 (GMT) | BL: Neuers Kronprinz: Jonas Urbig exklusiv | all | PRIME-DE
@@ -1753,8 +1755,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="next0904gmttwinsatroyalsallprimede" tvg-name="Next | 09:04 (GMT) | Twins at Royals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 09:04 (GMT) | Twins at Royals | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
