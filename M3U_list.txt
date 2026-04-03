@@ -159,9 +159,9 @@ https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 https://raw.githubusercontent.com/quervo/my-playlists/refs/heads/main/ownottlist.m3u
 https://raw.githubusercontent.com/Muji777/Exp/refs/heads/main/Sports.m3u
 https://raw.githubusercontent.com/hoiquanclick/hoiquan/refs/heads/main/vip.m3u
-
-
-
+https://raw.githubusercontent.com/anhbaotv/pl/refs/heads/main/DSTrung.m3u
+https://raw.githubusercontent.com/anhbaotv/BaoTV/refs/heads/main/group_list.txt
+https://raw.githubusercontent.com/anhbaotv/BaoTV/refs/heads/main/playlist.txt
 
 
 
