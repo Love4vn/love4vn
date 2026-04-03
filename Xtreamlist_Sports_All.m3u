@@ -593,13 +593,13 @@ http://myxpanel.pro:80/live/Martin/Martin/3114.ts
 http://myxpanel.pro:80/live/Martin/Martin/3112.ts
 #EXTINF:-1 tvg-id="pgatourvalerotexasopenspiethfeaturedgroupfirstroundapr22200vngolf07" tvg-name="PGA TOUR: Valero Texas Open Spieth Featured Group First Round @ Apr 2 22:00 (VN):Golf  07" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",PGA TOUR: Valero Texas Open Spieth Featured Group First Round @ Apr 2 22:00 (VN):Golf  07
 http://myxpanel.pro:80/live/Martin/Martin/3110.ts
-#EXTINF:-1 tvg-id="loi06longfordtownvfinnharpsuksat28thmar1420vnetsat28thmar1020vn" tvg-name="LOI 06 | Longford Town v Finn Harps // UK Sat 28th Mar 14:20 (VN) // ET Sat 28th Mar 10:20 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 06 | Longford Town v Finn Harps // UK Sat 28th Mar 14:20 (VN) // ET Sat 28th Mar 10:20 (VN)
+#EXTINF:-1 tvg-id="loi1droghedaunitedvbohemiansukfri3rdapr1330vnetfri3rdapr0830vn" tvg-name="LOI  1 | Drogheda United v Bohemians // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI  1 | Drogheda United v Bohemians // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)
+http://myxpanel.pro:80/live/Martin/Martin/816010.ts
+#EXTINF:-1 tvg-id="loi06finnharpsvcorkcityukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816005.ts
-#EXTINF:-1 tvg-id="loi07bohemiansvdundalkukfri20thmar1445vnetfri20thmar1045vn" tvg-name="LOI 07 | Bohemians v Dundalk // UK Fri 20th Mar 14:45 (VN) // ET Fri 20th Mar 10:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 07 | Bohemians v Dundalk // UK Fri 20th Mar 14:45 (VN) // ET Fri 20th Mar 10:45 (VN)
+#EXTINF:-1 tvg-id="loi07kerryvcobhramblersukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 07 | Kerry v Cobh Ramblers // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 07 | Kerry v Cobh Ramblers // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816004.ts
-#EXTINF:-1 tvg-id="loi08shamrockroversvgalwayunitedukfri20thmar1445vnetfri20thmar1045vn" tvg-name="LOI 08 | Shamrock Rovers v Galway United // UK Fri 20th Mar 14:45 (VN) // ET Fri 20th Mar 10:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 08 | Shamrock Rovers v Galway United // UK Fri 20th Mar 14:45 (VN) // ET Fri 20th Mar 10:45 (VN)
-http://myxpanel.pro:80/live/Martin/Martin/816003.ts
-#EXTINF:-1 tvg-id="loi09wexfordvkerryukfri13thmar1435vnetfri13thmar1035vn" tvg-name="LOI 09 | Wexford v Kerry // UK Fri 13th Mar 14:35 (VN) // ET Fri 13th Mar 10:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 09 | Wexford v Kerry // UK Fri 13th Mar 14:35 (VN) // ET Fri 13th Mar 10:35 (VN)
+#EXTINF:-1 tvg-id="loi09galwayunitedvderrycityukfri3rdapr1345vnetfri3rdapr0845vn" tvg-name="LOI 09 | Galway United v Derry City // UK Fri 3rd Apr 13:45 (VN) // ET Fri 3rd Apr 08:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 09 | Galway United v Derry City // UK Fri 3rd Apr 13:45 (VN) // ET Fri 3rd Apr 08:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816002.ts
 #EXTINF:-1 tvg-id="loi10sligoroversvshamrockroversukfri13thmar1445vnetfri13thmar1045vn" tvg-name="LOI 10 | Sligo Rovers v Shamrock Rovers // UK Fri 13th Mar 14:45 (VN) // ET Fri 13th Mar 10:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 10 | Sligo Rovers v Shamrock Rovers // UK Fri 13th Mar 14:45 (VN) // ET Fri 13th Mar 10:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816001.ts
@@ -613,14 +613,16 @@ http://myxpanel.pro:80/live/Martin/Martin/815998.ts
 http://myxpanel.pro:80/live/Martin/Martin/815997.ts
 #EXTINF:-1 tvg-id="loi15dlrwavesfcvspeamountunitedfcukwed2ndsep1000vnetwed2ndsep1700vn" tvg-name="LOI 15: DLR Waves FC vs Peamount United FC // UK Wed 2nd Sep 10:00 (VN) // ET Wed 2nd Sep 17:00 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 15: DLR Waves FC vs Peamount United FC // UK Wed 2nd Sep 10:00 (VN) // ET Wed 2nd Sep 17:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/815996.ts
-#EXTINF:-1 tvg-id="loi2sligoroversvshamrockroversuksat28thmar0945vnetsat28thmar1745vn" tvg-name="LOI 2 | Sligo Rovers v Shamrock Rovers // UK Sat 28th Mar 09:45 (VN) // ET Sat 28th Mar 17:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 2 | Sligo Rovers v Shamrock Rovers // UK Sat 28th Mar 09:45 (VN) // ET Sat 28th Mar 17:45 (VN)
+#EXTINF:-1 tvg-id="loi2waterfordvshamrockroversukfri3rdapr1330vnetfri3rdapr0830vn" tvg-name="LOI 2 | Waterford v Shamrock Rovers // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 2 | Waterford v Shamrock Rovers // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816009.ts
-#EXTINF:-1 tvg-id="loi3shelbournevdlrwavesuksat28thmar1045vnetsat28thmar1845vn" tvg-name="LOI 3 | Shelbourne v DLR Waves // UK Sat 28th Mar 10:45 (VN) // ET Sat 28th Mar 18:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 3 | Shelbourne v DLR Waves // UK Sat 28th Mar 10:45 (VN) // ET Sat 28th Mar 18:45 (VN)
+#EXTINF:-1 tvg-id="loi3shelbournevdundalkukfri3rdapr1330vnetfri3rdapr0830vn" tvg-name="LOI 3 | Shelbourne v Dundalk // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 3 | Shelbourne v Dundalk // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816008.ts
-#EXTINF:-1 tvg-id="loi4galwayunitedvwexforduksat28thmar1145vnetsat28thmar1945vn" tvg-name="LOI 4 | Galway United v Wexford // UK Sat 28th Mar 11:45 (VN) // ET Sat 28th Mar 19:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 4 | Galway United v Wexford // UK Sat 28th Mar 11:45 (VN) // ET Sat 28th Mar 19:45 (VN)
+#EXTINF:-1 tvg-id="loi4stpatricksathleticvsligoroversukfri3rdapr1330vnetfri3rdapr0830vn" tvg-name="LOI 4 | St. Patrick's Athletic v Sligo Rovers // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 4 | St. Patrick's Athletic v Sligo Rovers // UK Fri 3rd Apr 13:30 (VN) // ET Fri 3rd Apr 08:30 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816007.ts
-#EXTINF:-1 tvg-id="loi5peamountunitedvwaterforduksat28thmar1145vnetsat28thmar1945vn" tvg-name="LOI 5 | Peamount United v Waterford // UK Sat 28th Mar 11:45 (VN) // ET Sat 28th Mar 19:45 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 5 | Peamount United v Waterford // UK Sat 28th Mar 11:45 (VN) // ET Sat 28th Mar 19:45 (VN)
+#EXTINF:-1 tvg-id="loi5athlonetownvucdukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 5 | Athlone Town v UCD // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 5 | Athlone Town v UCD // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816006.ts
+#EXTINF:-1 tvg-id="loi8treatyunitedvlongfordtownukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 8 | Treaty United v Longford Town // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 8 | Treaty United v Longford Town // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
+http://myxpanel.pro:80/live/Martin/Martin/816003.ts
 #EXTINF:-1 tvg-id="laliga01rayovallecanovselchecffriday03april20260300" tvg-name="La Liga 01ⓧ: Rayo Vallecano vs. Elche CF | Friday, 03 April 2026 03:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 01ⓧ: Rayo Vallecano vs. Elche CF | Friday, 03 April 2026 03:00
 http://myxpanel.pro:80/live/Martin/Martin/816050.ts
 #EXTINF:-1 tvg-id="laliga02realsociedadsansebastianvslevanteudsaturday04april20262000" tvg-name="La Liga 02ⓧ: Real Sociedad San Sebastian vs. Levante UD | Saturday, 04 April 2026 20:00" tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="LIVE | LALIGA",La Liga 02ⓧ: Real Sociedad San Sebastian vs. Levante UD | Saturday, 04 April 2026 20:00
@@ -1710,31 +1712,31 @@ http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 #EXTINF:-1 tvg-id="next1004gmtbrownvsducarallprimede" tvg-name="Next | 10:04 (GMT) | Brown vs. Ducar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Brown vs. Ducar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="next1004gmtbrownvsducarprelimsallprimede" tvg-name="Next | 10:04 (GMT) | Brown vs. Ducar: Prelims | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Brown vs. Ducar: Prelims | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="next1004gmtchisoravswilderweighinallprimede" tvg-name="Next | 10:04 (GMT) | Chisora vs. Wilder: Weigh-In | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Chisora vs. Wilder: Weigh-In | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1004gmtbrownvsducarprelimsallprimede" tvg-name="Next | 10:04 (GMT) | Brown vs. Ducar: Prelims | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Brown vs. Ducar: Prelims | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="next1004gmtclassicveloxadéliedevitréucieuropetourtourmännerallprimede" tvg-name="Next | 10:04 (GMT) | Classic Velox Adélie de Vitré UCI Europe Tour Tour | Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Classic Velox Adélie de Vitré UCI Europe Tour Tour | Männer | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next1004gmtcoventrycityvsderbycountyallprimede" tvg-name="Next | 10:04 (GMT) | Coventry City vs. Derby County | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Coventry City vs. Derby County | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1004gmtchisoravswilderweighinallprimede" tvg-name="Next | 10:04 (GMT) | Chisora vs. Wilder: Weigh-In | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Chisora vs. Wilder: Weigh-In | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="next1004gmtclassicveloxadéliedevitréucieuropetourtourmännerallprimede" tvg-name="Next | 10:04 (GMT) | Classic Velox Adélie de Vitré UCI Europe Tour Tour | Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Classic Velox Adélie de Vitré UCI Europe Tour Tour | Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1004gmtlondonlionscaledoniagladiatorsallprimede" tvg-name="Next | 10:04 (GMT) | London Lions - Caledonia Gladiators | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | London Lions - Caledonia Gladiators | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="next1004gmtmiamiround1allprimede" tvg-name="Next | 10:04 (GMT) | Miami | Round 1 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Miami | Round 1 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="next1004gmtoxfordunitedvshullcityallprimede" tvg-name="Next | 10:04 (GMT) | Oxford United vs Hull City | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Oxford United vs Hull City | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="next1004gmtpsgvstoulouseallprimede" tvg-name="Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="next1004gmtmiddlesbroughvmillwallallprimede" tvg-name="Next | 10:04 (GMT) | Middlesbrough v Millwall | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Middlesbrough v Millwall | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="next1004gmtoxfordunitedvshullcityallprimede" tvg-name="Next | 10:04 (GMT) | Oxford United vs Hull City | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Oxford United vs Hull City | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="next1004gmtpsgvstoulouseallprimede" tvg-name="Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next1004gmtraysattwinsallprimede" tvg-name="Next | 10:04 (GMT) | Rays at Twins | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Rays at Twins | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1004gmtromacomoallprimede" tvg-name="Next | 10:04 (GMT) | Roma - Como | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Roma - Como | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="next1004gmtucieuropetourcyclingallprimede" tvg-name="Next | 10:04 (GMT) | UCI Europe Tour Cycling | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | UCI Europe Tour Cycling | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="next1004gmtvallecanoelcheallprimede" tvg-name="Next | 10:04 (GMT) | Vallecano - Elche | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Vallecano - Elche | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
