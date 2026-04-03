@@ -1755,28 +1755,28 @@ http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="livebrownvsducarallprimede" tvg-name="Live | Brown vs. Ducar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Brown vs. Ducar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="livebrownvsducarprelimsallprimede" tvg-name="Live | Brown vs. Ducar: Prelims | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Brown vs. Ducar: Prelims | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="livechisoravswilderweighinallprimede" tvg-name="Live | Chisora vs. Wilder: Weigh-In | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Chisora vs. Wilder: Weigh-In | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="liveromacomoallprimede" tvg-name="Live | Roma - Como | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Roma - Como | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="livelondonlionscaledoniagladiatorsallprimede" tvg-name="Live | London Lions - Caledonia Gladiators | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | London Lions - Caledonia Gladiators | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+#EXTINF:-1 tvg-id="livepsgvstoulouseallprimede" tvg-name="Live | PSG vs. Toulouse | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | PSG vs. Toulouse | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next1004gmtantwerpgenkallprimede" tvg-name="Next | 10:04 (GMT) | Antwerp - Genk | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Antwerp - Genk | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="next1004gmtcoventrycityvsderbycountyallprimede" tvg-name="Next | 10:04 (GMT) | Coventry City vs. Derby County | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Coventry City vs. Derby County | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="next1004gmtdodgersatnationalsallprimede" tvg-name="Next | 10:04 (GMT) | Dodgers at Nationals | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Dodgers at Nationals | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="next1004gmtlondonlionscaledoniagladiatorsallprimede" tvg-name="Next | 10:04 (GMT) | London Lions - Caledonia Gladiators | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | London Lions - Caledonia Gladiators | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="next1004gmtphilliesatrockiesallprimede" tvg-name="Next | 10:04 (GMT) | Phillies at Rockies | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Phillies at Rockies | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next1004gmtpsgvstoulouseallprimede" tvg-name="Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | PSG vs. Toulouse | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next1004gmtraysattwinsallprimede" tvg-name="Next | 10:04 (GMT) | Rays at Twins | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Rays at Twins | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="next1004gmtvallecanoelcheallprimede" tvg-name="Next | 10:04 (GMT) | Vallecano - Elche | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 10:04 (GMT) | Vallecano - Elche | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
