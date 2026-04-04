@@ -3051,12 +3051,12 @@ http://myxpanel.pro:80/live/Martin/Martin/723953.ts
 http://myxpanel.pro:80/live/Martin/Martin/723940.ts
 #EXTINF:-1 tvg-id="frcanalpremierleagueᴴᴰ" tvg-name="|FR| CANAL+ PREMIER LEAGUE ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="FR | SPORT",|FR| CANAL+ PREMIER LEAGUE ᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/723941.ts
+#EXTINF:-1 tvg-id="frcanalscanalsportᴴᴰ" tvg-name="|FR| Canal+ SCanal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="FR | SPORT",|FR| Canal+ SCanal+ Sport ᴴᴰ
+http://myxpanel.pro:80/live/Martin/Martin/723944.ts
 #EXTINF:-1 tvg-id="frcanalsport360ᴴᴰ" tvg-name="|FR| CANAL+ Sport 360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR | SPORT",|FR| CANAL+ Sport 360 ᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/723947.ts
 #EXTINF:-1 tvg-id="frcanalsport360ᵁᴴᴰ" tvg-name="|FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR | SPORT",|FR| CANAL+ Sport 360 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/723949.ts
-#EXTINF:-1 tvg-id="frcanalsportᴴᴰ" tvg-name="|FR| Canal+ Sport ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="FR | SPORT",|FR| Canal+ Sport ᴴᴰ
-http://myxpanel.pro:80/live/Martin/Martin/723944.ts
 #EXTINF:-1 tvg-id="frcanalsportᵁᴴᴰ" tvg-name="|FR| CANAL+ SPORT ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="FR | SPORT",|FR| CANAL+ SPORT ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/723945.ts
 #EXTINF:-1 tvg-id="frcanalsport360ᴴᴰ" tvg-name="|FR| CANAL+ SPORT360 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="FR | SPORT",|FR| CANAL+ SPORT360 ᴴᴰ
