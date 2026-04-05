@@ -1739,8 +1739,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="liveoklahomavswestvirginiaallprimede" tvg-name="Live | Oklahoma vs. West Virginia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Oklahoma vs. West Virginia | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="livewizardsvsnetsallprimede" tvg-name="Live | Wizards vs. Nets | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Wizards vs. Nets | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="next1204gmtastrosatathleticsallprimede" tvg-name="Next | 12:04 (GMT) | Astros at Athletics | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Astros at Athletics | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
@@ -1751,6 +1749,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
