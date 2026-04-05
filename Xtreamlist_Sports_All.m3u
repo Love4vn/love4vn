@@ -1723,32 +1723,30 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="next1104gmt1fckaiserslauternvsdüsseldorfertusfortuna1895allprimede" tvg-name="Next | 11:04 (GMT) | 1. FC Kaiserslautern vs. Düsseldorfer TuS Fortuna 1895 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:04 (GMT) | 1. FC Kaiserslautern vs. Düsseldorfer TuS Fortuna 1895 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next1104gmtbundesligaconferencematchday28allprimede" tvg-name="Next | 11:04 (GMT) | Bundesliga Conference | Matchday 28 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:04 (GMT) | Bundesliga Conference | Matchday 28 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="next1104gmtsassuolovscagliariallprimede" tvg-name="Next | 11:04 (GMT) | Sassuolo vs. Cagliari | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 11:04 (GMT) | Sassuolo vs. Cagliari | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="liveflandernrundfahrtuciworldtourmännerantwerpenoudenaarde271kmallprimede" tvg-name="Live | Flandern-Rundfahrt UCI World Tour | Männer | Antwerpen - Oudenaarde (271km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Flandern-Rundfahrt UCI World Tour | Männer | Antwerpen - Oudenaarde (271km) | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1204gmt2blsonntagskonferenz28spieltagallprimede" tvg-name="Next | 12:04 (GMT) | 2. BL: Sonntags-Konferenz-28. Spieltag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | 2. BL: Sonntags-Konferenz-28. Spieltag | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+#EXTINF:-1 tvg-id="next1204gmt2026tiriacopentennisallprimede" tvg-name="Next | 12:04 (GMT) | 2026 Tiriac Open Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | 2026 Tiriac Open Tennis | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+#EXTINF:-1 tvg-id="next1204gmtbraunschweigertsveintracht1895vs1fcnürnbergallprimede" tvg-name="Next | 12:04 (GMT) | Braunschweiger TSV Eintracht 1895 vs. 1. FC Nürnberg | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Braunschweiger TSV Eintracht 1895 vs. 1. FC Nürnberg | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next1204gmtfußball2bundesligavorberichtsonntagskonferenz28spieltagallprimede" tvg-name="Next | 12:04 (GMT) | Fußball: 2. Bundesliga Vorbericht-Sonntags-Konferenz, 28. Spieltag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Fußball: 2. Bundesliga Vorbericht-Sonntags-Konferenz, 28. Spieltag | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="next1204gmtgermandartsgrandprixday2session1allprimede" tvg-name="Next | 12:04 (GMT) | German Darts Grand Prix  | Day 2 (Session 1) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | German Darts Grand Prix  | Day 2 (Session 1) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="next1204gmthannoverschersportverein1896vssv07elversbergallprimede" tvg-name="Next | 12:04 (GMT) | Hannoverscher Sportverein 1896 vs. SV 07 Elversberg | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Hannoverscher Sportverein 1896 vs. SV 07 Elversberg | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="next1204gmtkielersvholstein1900vsscpreußen06münsterallprimede" tvg-name="Next | 12:04 (GMT) | Kieler SV Holstein 1900 vs. SC Preußen 06 Münster | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Kieler SV Holstein 1900 vs. SC Preußen 06 Münster | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="next1204gmtspvgggreutherfürthvsscpaderborn07allprimede" tvg-name="Next | 12:04 (GMT) | SpVgg Greuther Fürth vs. SC Paderborn 07 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | SpVgg Greuther Fürth vs. SC Paderborn 07 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
