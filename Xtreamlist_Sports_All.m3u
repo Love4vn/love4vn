@@ -1735,30 +1735,30 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="next1204gmt2026usmensclaycourtchampionshiptennisallprimede" tvg-name="Next | 12:04 (GMT) | 2026 U.S. Men's Clay Court Championship Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | 2026 U.S. Men's Clay Court Championship Tennis | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="next1204gmtalettifaqalqadsiahallprimede" tvg-name="Next | 12:04 (GMT) | Al-Ettifaq - Al-Qadsiah | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Al-Ettifaq - Al-Qadsiah | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="next1204gmtastrosatathleticsallprimede" tvg-name="Next | 12:04 (GMT) | Astros at Athletics | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Astros at Athletics | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="next1204gmtequestrianallprimede" tvg-name="Next | 12:04 (GMT) | Equestrian | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Equestrian | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="next1204gmtfrosinonecalciovscalciopadovaspaallprimede" tvg-name="Next | 12:04 (GMT) | Frosinone Calcio vs. Calcio Padova Spa | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Frosinone Calcio vs. Calcio Padova Spa | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="next1204gmtgermandartsgrandprixday2session2allprimede" tvg-name="Next | 12:04 (GMT) | German Darts Grand Prix  | Day 2 (Session 2) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | German Darts Grand Prix  | Day 2 (Session 2) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="next1204gmtpalermofcvsusavellino1912allprimede" tvg-name="Next | 12:04 (GMT) | Palermo FC vs. US Avellino 1912 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Palermo FC vs. US Avellino 1912 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="next1204gmtraysattwinsallprimede" tvg-name="Next | 12:04 (GMT) | Rays at Twins | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 12:04 (GMT) | Rays at Twins | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
-http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="primedenoevent" tvg-name="PRIME-DE | No Event" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",PRIME-DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
