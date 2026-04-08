@@ -761,9 +761,9 @@ http://myxpanel.pro:80/live/Martin/Martin/625732.ts
 http://myxpanel.pro:80/live/Martin/Martin/625739.ts
 #EXTINF:-1 tvg-id="yastremskadayanavsliannapr71800vnwtalinztennis03" tvg-name="Yastremska, Dayana vs Li, Ann @ Apr 7 18:00 (VN)- WTA Linz :Tennis  03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",Yastremska, Dayana vs Li, Ann @ Apr 7 18:00 (VN)- WTA Linz :Tennis  03
 http://myxpanel.pro:80/live/Martin/Martin/625755.ts
-#EXTINF:-1 tvg-id="uefa01realmadridvsbayernmunich0200vn" tvg-name="UEFA  | 01 - Real Madrid vs Bayern Munich 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Real Madrid vs Bayern Munich 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa01barcelonavsatleticomadrid0200vn" tvg-name="UEFA  | 01 - Barcelona vs Atletico Madrid 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Barcelona vs Atletico Madrid 02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277950.ts
-#EXTINF:-1 tvg-id="uefa02sportingcpvsarsenal0200vn" tvg-name="UEFA  | 02 - Sporting CP vs Arsenal 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 02 - Sporting CP vs Arsenal 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa02psgvsliverpool0200vn" tvg-name="UEFA  | 02 - Psg vs Liverpool 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 02 - Psg vs Liverpool 02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277949.ts
 #EXTINF:-1 tvg-id="uefa08aekathensvscelje2345vn" tvg-name="UEFA  | 08 - Aek Athens vs Celje 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 08 - Aek Athens vs Celje 23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277943.ts
@@ -779,7 +779,7 @@ http://myxpanel.pro:80/live/Martin/Martin/277933.ts
 http://myxpanel.pro:80/live/Martin/Martin/277932.ts
 #EXTINF:-1 tvg-id="uefa20" tvg-name="UEFA 20:" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 20:
 http://myxpanel.pro:80/live/Martin/Martin/277931.ts
-#EXTINF:-1 tvg-id="uefa03midtjyllandvsnottinghamforest2345vn" tvg-name="UEFA | 03 - Midtjylland vs Nottingham Forest 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 03 - Midtjylland vs Nottingham Forest 23:45 (VN)
+#EXTINF:-1 tvg-id="uefa03bragavsrealbetis2345vn" tvg-name="UEFA | 03 - Braga vs Real Betis 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 03 - Braga vs Real Betis 23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277948.ts
 #EXTINF:-1 tvg-id="uefa04astonvillavslille0200vn" tvg-name="UEFA | 04 - Aston Villa vs Lille 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 04 - Aston Villa vs Lille 02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277947.ts
@@ -2241,6 +2241,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662220.ts
 http://myxpanel.pro:80/live/Martin/Martin/662421.ts
 #EXTINF:-1 tvg-id="maxdk100" tvg-name=":MAX DK  100" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  100
 http://myxpanel.pro:80/live/Martin/Martin/748418.ts
+#EXTINF:-1 tvg-id="maxdk13" tvg-name=":MAX DK  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  13
+http://myxpanel.pro:80/live/Martin/Martin/748505.ts
 #EXTINF:-1 tvg-id="maxdk14" tvg-name=":MAX DK  14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  14
 http://myxpanel.pro:80/live/Martin/Martin/748504.ts
 #EXTINF:-1 tvg-id="maxdk15" tvg-name=":MAX DK  15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  15
@@ -2413,30 +2415,28 @@ http://myxpanel.pro:80/live/Martin/Martin/748421.ts
 http://myxpanel.pro:80/live/Martin/Martin/748420.ts
 #EXTINF:-1 tvg-id="maxdk99" tvg-name=":MAX DK  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",:MAX DK  99
 http://myxpanel.pro:80/live/Martin/Martin/748419.ts
-#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81100vnmaxdk13" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX DK  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX DK  13
-http://myxpanel.pro:80/live/Martin/Martin/748505.ts
-#EXTINF:-1 tvg-id="snookerbulcsureveszvscraigsteadmanapr71700vnmaxdk02" tvg-name="Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX DK  02
-http://myxpanel.pro:80/live/Martin/Martin/748516.ts
-#EXTINF:-1 tvg-id="snookerbulcsúrévészvscraigsteadmanapr70200vnmaxdk09" tvg-name="Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX DK  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX DK  09
-http://myxpanel.pro:80/live/Martin/Martin/748509.ts
-#EXTINF:-1 tvg-id="snookerharistahirvsconnorbenzeyapr72130vnmaxdk06" tvg-name="Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX DK  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX DK  06
-http://myxpanel.pro:80/live/Martin/Martin/748512.ts
-#EXTINF:-1 tvg-id="snookerianburnsvssahilnayyarapr70200vnmaxdk11" tvg-name="Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX DK  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX DK  11
-http://myxpanel.pro:80/live/Martin/Martin/748507.ts
-#EXTINF:-1 tvg-id="snookerkendohertyvspatrickwhelanapr72130vnmaxdk03" tvg-name="Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX DK  03
-http://myxpanel.pro:80/live/Martin/Martin/748515.ts
-#EXTINF:-1 tvg-id="snookerliampullenvsalfieburdenapr72130vnmaxdk05" tvg-name="Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX DK  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX DK  05
-http://myxpanel.pro:80/live/Martin/Martin/748513.ts
-#EXTINF:-1 tvg-id="snookermarcofuvsminknutcharutapr70200vnmaxdk10" tvg-name="Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX DK  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX DK  10
-http://myxpanel.pro:80/live/Martin/Martin/748508.ts
-#EXTINF:-1 tvg-id="snookerreanneevansvsvladislavgradinariapr72130vnmaxdk04" tvg-name="Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX DK  04
-http://myxpanel.pro:80/live/Martin/Martin/748514.ts
-#EXTINF:-1 tvg-id="snookersnookerapr71700vnmaxdk01" tvg-name="Snooker: Snooker @ Apr 7 17:00 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Snooker @ Apr 7 17:00 (VN):MAX DK  01
+#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81059vnmaxdk01" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX DK  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX DK  01
 http://myxpanel.pro:80/live/Martin/Martin/748517.ts
-#EXTINF:-1 tvg-id="snookerstevenhallworthvskreishhgurbaxaniapr70200vnmaxdk08" tvg-name="Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX DK  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX DK  08
-http://myxpanel.pro:80/live/Martin/Martin/748510.ts
-#EXTINF:-1 tvg-id="maxes03" tvg-name=":MAX ES  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  03
-http://myxpanel.pro:80/live/Martin/Martin/755926.ts
+#EXTINF:-1 tvg-id="cyclingscheldeprijsapr82145vnmaxdk09" tvg-name="Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX DK  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX DK  09
+http://myxpanel.pro:80/live/Martin/Martin/748509.ts
+#EXTINF:-1 tvg-id="snookerfarakhajaibvsumutdikmeapr81700vnmaxdk02" tvg-name="Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX DK  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX DK  02
+http://myxpanel.pro:80/live/Martin/Martin/748516.ts
+#EXTINF:-1 tvg-id="snookerhaydonpinheyvsjamieclarkeapr81700vnmaxdk03" tvg-name="Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX DK  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX DK  03
+http://myxpanel.pro:80/live/Martin/Martin/748515.ts
+#EXTINF:-1 tvg-id="snookeriulianboikovswangxinboapr82130vnmaxdk06" tvg-name="Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX DK  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX DK  06
+http://myxpanel.pro:80/live/Martin/Martin/748512.ts
+#EXTINF:-1 tvg-id="snookerlanyuhaovschatchapongnasaapr80200vnmaxdk11" tvg-name="Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX DK  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX DK  11
+http://myxpanel.pro:80/live/Martin/Martin/748507.ts
+#EXTINF:-1 tvg-id="snookermichaelholtvsbaiyuluapr82130vnmaxdk04" tvg-name="Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX DK  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX DK  04
+http://myxpanel.pro:80/live/Martin/Martin/748514.ts
+#EXTINF:-1 tvg-id="snookersandersonlamvsmichalszubarczykapr82130vnmaxdk05" tvg-name="Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX DK  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX DK  05
+http://myxpanel.pro:80/live/Martin/Martin/748513.ts
+#EXTINF:-1 tvg-id="snookerscottdonaldsonvspeterlinesapr82130vnmaxdk07" tvg-name="Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX DK  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX DK  07
+http://myxpanel.pro:80/live/Martin/Martin/748511.ts
+#EXTINF:-1 tvg-id="snookersnookerapr80200vnmaxdk12" tvg-name="Snooker: Snooker @ Apr 8 02:00 (VN):MAX DK  12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Snooker @ Apr 8 02:00 (VN):MAX DK  12
+http://myxpanel.pro:80/live/Martin/Martin/748506.ts
+#EXTINF:-1 tvg-id="snookerzhaohanyangvsmahmoudelhareedyapr80200vnmaxdk10" tvg-name="Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX DK  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Denmark | max sports",Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX DK  10
+http://myxpanel.pro:80/live/Martin/Martin/748508.ts
 #EXTINF:-1 tvg-id="maxes04" tvg-name=":MAX ES  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  04
 http://myxpanel.pro:80/live/Martin/Martin/755925.ts
 #EXTINF:-1 tvg-id="maxes05" tvg-name=":MAX ES  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  05
@@ -2631,6 +2631,8 @@ http://myxpanel.pro:80/live/Martin/Martin/755832.ts
 http://myxpanel.pro:80/live/Martin/Martin/755831.ts
 #EXTINF:-1 tvg-id="maxes99" tvg-name=":MAX ES  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",:MAX ES  99
 http://myxpanel.pro:80/live/Martin/Martin/755830.ts
+#EXTINF:-1 tvg-id="ciclismovueltaalpaísvascoetapa4apr92130vnmaxes03" tvg-name="Ciclismo: Vuelta al País Vasco: Etapa 4 @ Apr 9 21:30 (VN):MAX ES  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="ES | max sports",Ciclismo: Vuelta al País Vasco: Etapa 4 @ Apr 9 21:30 (VN):MAX ES  03
+http://myxpanel.pro:80/live/Martin/Martin/755926.ts
 #EXTINF:-1 tvg-id="frchevaltvhd" tvg-name="[FR] CHEVAL TV HD" tvg-logo="https://s9.gifyu.com/images/SZISv.png" group-title="FR | SPORT",[FR] CHEVAL TV HD
 http://myxpanel.pro:80/live/Martin/Martin/723724.ts
 #EXTINF:-1 tvg-id="fruclmutliscreen3" tvg-name="FR UCL MUTLISCREEN 3" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/08/canal-live-logo.jpg" group-title="FR | SPORT",FR UCL MUTLISCREEN 3
@@ -4273,26 +4275,26 @@ http://myxpanel.pro:80/live/Martin/Martin/763524.ts
 http://myxpanel.pro:80/live/Martin/Martin/763523.ts
 #EXTINF:-1 tvg-id="maxnl99" tvg-name=":MAX NL  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",:MAX NL  99
 http://myxpanel.pro:80/live/Martin/Martin/763522.ts
-#EXTINF:-1 tvg-id="snookerbulcsureveszvscraigsteadmanapr71700vnmaxnl02" tvg-name="Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX NL  02
-http://myxpanel.pro:80/live/Martin/Martin/763619.ts
-#EXTINF:-1 tvg-id="snookerbulcsúrévészvscraigsteadmanapr70200vnmaxnl09" tvg-name="Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX NL  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX NL  09
-http://myxpanel.pro:80/live/Martin/Martin/763612.ts
-#EXTINF:-1 tvg-id="snookerharistahirvsconnorbenzeyapr72130vnmaxnl06" tvg-name="Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX NL  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX NL  06
-http://myxpanel.pro:80/live/Martin/Martin/763615.ts
-#EXTINF:-1 tvg-id="snookerianburnsvssahilnayyarapr70200vnmaxnl11" tvg-name="Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX NL  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX NL  11
-http://myxpanel.pro:80/live/Martin/Martin/763610.ts
-#EXTINF:-1 tvg-id="snookerkendohertyvspatrickwhelanapr72130vnmaxnl03" tvg-name="Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX NL  03
-http://myxpanel.pro:80/live/Martin/Martin/763618.ts
-#EXTINF:-1 tvg-id="snookerliampullenvsalfieburdenapr72130vnmaxnl05" tvg-name="Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX NL  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX NL  05
-http://myxpanel.pro:80/live/Martin/Martin/763616.ts
-#EXTINF:-1 tvg-id="snookermarcofuvsminknutcharutapr70200vnmaxnl10" tvg-name="Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX NL  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX NL  10
-http://myxpanel.pro:80/live/Martin/Martin/763611.ts
-#EXTINF:-1 tvg-id="snookerreanneevansvsvladislavgradinariapr72130vnmaxnl04" tvg-name="Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX NL  04
-http://myxpanel.pro:80/live/Martin/Martin/763617.ts
-#EXTINF:-1 tvg-id="snookersnookerapr71700vnmaxnl01" tvg-name="Snooker: Snooker @ Apr 7 17:00 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Snooker @ Apr 7 17:00 (VN):MAX NL  01
-http://myxpanel.pro:80/live/Martin/Martin/763620.ts
-#EXTINF:-1 tvg-id="snookerstevenhallworthvskreishhgurbaxaniapr70200vnmaxnl08" tvg-name="Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX NL  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX NL  08
+#EXTINF:-1 tvg-id="cyclingscheldeprijsapr82145vnmaxnl08" tvg-name="Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX NL  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX NL  08
 http://myxpanel.pro:80/live/Martin/Martin/763613.ts
+#EXTINF:-1 tvg-id="snookerfarakhajaibvsumutdikmeapr81700vnmaxnl01" tvg-name="Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX NL  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX NL  01
+http://myxpanel.pro:80/live/Martin/Martin/763620.ts
+#EXTINF:-1 tvg-id="snookerhaydonpinheyvsjamieclarkeapr81700vnmaxnl02" tvg-name="Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX NL  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX NL  02
+http://myxpanel.pro:80/live/Martin/Martin/763619.ts
+#EXTINF:-1 tvg-id="snookeriulianboikovswangxinboapr82130vnmaxnl05" tvg-name="Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX NL  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX NL  05
+http://myxpanel.pro:80/live/Martin/Martin/763616.ts
+#EXTINF:-1 tvg-id="snookerlanyuhaovschatchapongnasaapr80200vnmaxnl10" tvg-name="Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX NL  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX NL  10
+http://myxpanel.pro:80/live/Martin/Martin/763611.ts
+#EXTINF:-1 tvg-id="snookermichaelholtvsbaiyuluapr82130vnmaxnl03" tvg-name="Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX NL  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX NL  03
+http://myxpanel.pro:80/live/Martin/Martin/763618.ts
+#EXTINF:-1 tvg-id="snookersandersonlamvsmichalszubarczykapr82130vnmaxnl04" tvg-name="Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX NL  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX NL  04
+http://myxpanel.pro:80/live/Martin/Martin/763617.ts
+#EXTINF:-1 tvg-id="snookerscottdonaldsonvspeterlinesapr82130vnmaxnl06" tvg-name="Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX NL  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX NL  06
+http://myxpanel.pro:80/live/Martin/Martin/763615.ts
+#EXTINF:-1 tvg-id="snookersnookerapr80200vnmaxnl11" tvg-name="Snooker: Snooker @ Apr 8 02:00 (VN):MAX NL  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Snooker @ Apr 8 02:00 (VN):MAX NL  11
+http://myxpanel.pro:80/live/Martin/Martin/763610.ts
+#EXTINF:-1 tvg-id="snookerzhaohanyangvsmahmoudelhareedyapr80200vnmaxnl09" tvg-name="Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX NL  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Netherlands | max sports",Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX NL  09
+http://myxpanel.pro:80/live/Martin/Martin/763612.ts
 #EXTINF:-1 tvg-id="nlespn1" tvg-name="|NL| ESPN 1" tvg-logo="https://logo.iptveditor.com/espn1.png" group-title="Netherlands | Sports",|NL| ESPN 1
 http://myxpanel.pro:80/live/Martin/Martin/265572.ts
 #EXTINF:-1 tvg-id="nlespn2" tvg-name="|NL| ESPN 2" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Netherlands | Sports",|NL| ESPN 2
@@ -4337,6 +4339,8 @@ http://myxpanel.pro:80/live/Martin/Martin/746503.ts
 http://myxpanel.pro:80/live/Martin/Martin/746502.ts
 #EXTINF:-1 tvg-id="maxno109" tvg-name=":MAX NO  109" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  109
 http://myxpanel.pro:80/live/Martin/Martin/746501.ts
+#EXTINF:-1 tvg-id="maxno13" tvg-name=":MAX NO  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  13
+http://myxpanel.pro:80/live/Martin/Martin/746597.ts
 #EXTINF:-1 tvg-id="maxno14" tvg-name=":MAX NO  14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  14
 http://myxpanel.pro:80/live/Martin/Martin/746596.ts
 #EXTINF:-1 tvg-id="maxno15" tvg-name=":MAX NO  15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  15
@@ -4509,28 +4513,28 @@ http://myxpanel.pro:80/live/Martin/Martin/746513.ts
 http://myxpanel.pro:80/live/Martin/Martin/746512.ts
 #EXTINF:-1 tvg-id="maxno99" tvg-name=":MAX NO  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",:MAX NO  99
 http://myxpanel.pro:80/live/Martin/Martin/746511.ts
-#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81100vnmaxno13" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX NO  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX NO  13
-http://myxpanel.pro:80/live/Martin/Martin/746597.ts
-#EXTINF:-1 tvg-id="snookerbulcsureveszvscraigsteadmanapr71700vnmaxno02" tvg-name="Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX NO  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX NO  02
-http://myxpanel.pro:80/live/Martin/Martin/746608.ts
-#EXTINF:-1 tvg-id="snookerbulcsúrévészvscraigsteadmanapr70200vnmaxno09" tvg-name="Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX NO  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX NO  09
-http://myxpanel.pro:80/live/Martin/Martin/746601.ts
-#EXTINF:-1 tvg-id="snookerharistahirvsconnorbenzeyapr72130vnmaxno06" tvg-name="Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX NO  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX NO  06
-http://myxpanel.pro:80/live/Martin/Martin/746604.ts
-#EXTINF:-1 tvg-id="snookerianburnsvssahilnayyarapr70200vnmaxno11" tvg-name="Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX NO  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX NO  11
-http://myxpanel.pro:80/live/Martin/Martin/746599.ts
-#EXTINF:-1 tvg-id="snookerkendohertyvspatrickwhelanapr72130vnmaxno03" tvg-name="Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX NO  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX NO  03
-http://myxpanel.pro:80/live/Martin/Martin/746607.ts
-#EXTINF:-1 tvg-id="snookerliampullenvsalfieburdenapr72130vnmaxno05" tvg-name="Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX NO  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX NO  05
-http://myxpanel.pro:80/live/Martin/Martin/746605.ts
-#EXTINF:-1 tvg-id="snookermarcofuvsminknutcharutapr70200vnmaxno10" tvg-name="Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX NO  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX NO  10
-http://myxpanel.pro:80/live/Martin/Martin/746600.ts
-#EXTINF:-1 tvg-id="snookerreanneevansvsvladislavgradinariapr72130vnmaxno04" tvg-name="Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX NO  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX NO  04
-http://myxpanel.pro:80/live/Martin/Martin/746606.ts
-#EXTINF:-1 tvg-id="snookersnookerapr71700vnmaxno01" tvg-name="Snooker: Snooker @ Apr 7 17:00 (VN):MAX NO  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Snooker @ Apr 7 17:00 (VN):MAX NO  01
+#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81059vnmaxno01" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX NO  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX NO  01
 http://myxpanel.pro:80/live/Martin/Martin/746609.ts
-#EXTINF:-1 tvg-id="snookerstevenhallworthvskreishhgurbaxaniapr70200vnmaxno08" tvg-name="Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX NO  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX NO  08
-http://myxpanel.pro:80/live/Martin/Martin/746602.ts
+#EXTINF:-1 tvg-id="cyclingscheldeprijsapr82145vnmaxno09" tvg-name="Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX NO  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX NO  09
+http://myxpanel.pro:80/live/Martin/Martin/746601.ts
+#EXTINF:-1 tvg-id="snookerfarakhajaibvsumutdikmeapr81700vnmaxno02" tvg-name="Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX NO  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX NO  02
+http://myxpanel.pro:80/live/Martin/Martin/746608.ts
+#EXTINF:-1 tvg-id="snookerhaydonpinheyvsjamieclarkeapr81700vnmaxno03" tvg-name="Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX NO  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX NO  03
+http://myxpanel.pro:80/live/Martin/Martin/746607.ts
+#EXTINF:-1 tvg-id="snookeriulianboikovswangxinboapr82130vnmaxno06" tvg-name="Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX NO  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX NO  06
+http://myxpanel.pro:80/live/Martin/Martin/746604.ts
+#EXTINF:-1 tvg-id="snookerlanyuhaovschatchapongnasaapr80200vnmaxno11" tvg-name="Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX NO  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX NO  11
+http://myxpanel.pro:80/live/Martin/Martin/746599.ts
+#EXTINF:-1 tvg-id="snookermichaelholtvsbaiyuluapr82130vnmaxno04" tvg-name="Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX NO  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX NO  04
+http://myxpanel.pro:80/live/Martin/Martin/746606.ts
+#EXTINF:-1 tvg-id="snookersandersonlamvsmichalszubarczykapr82130vnmaxno05" tvg-name="Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX NO  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX NO  05
+http://myxpanel.pro:80/live/Martin/Martin/746605.ts
+#EXTINF:-1 tvg-id="snookerscottdonaldsonvspeterlinesapr82130vnmaxno07" tvg-name="Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX NO  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX NO  07
+http://myxpanel.pro:80/live/Martin/Martin/746603.ts
+#EXTINF:-1 tvg-id="snookersnookerapr80200vnmaxno12" tvg-name="Snooker: Snooker @ Apr 8 02:00 (VN):MAX NO  12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Snooker @ Apr 8 02:00 (VN):MAX NO  12
+http://myxpanel.pro:80/live/Martin/Martin/746598.ts
+#EXTINF:-1 tvg-id="snookerzhaohanyangvsmahmoudelhareedyapr80200vnmaxno10" tvg-name="Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX NO  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Norway | max sports",Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX NO  10
+http://myxpanel.pro:80/live/Martin/Martin/746600.ts
 #EXTINF:-1 tvg-id="ptabolafhd" tvg-name="PT | A Bola FHD" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola FHD
 http://myxpanel.pro:80/live/Martin/Martin/273551.ts
 #EXTINF:-1 tvg-id="ptabolatv" tvg-name="PT | A Bola TV" tvg-logo="http://vod-logo.net/photos/6610ab62788d48080d499b9fe5e92761.png" group-title="PT | DESPORTO",PT | A Bola TV
@@ -4643,6 +4647,8 @@ http://myxpanel.pro:80/live/Martin/Martin/273565.ts
 http://myxpanel.pro:80/live/Martin/Martin/273564.ts
 #EXTINF:-1 tvg-id="maxse100" tvg-name=":MAX SE  100" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  100
 http://myxpanel.pro:80/live/Martin/Martin/732651.ts
+#EXTINF:-1 tvg-id="maxse13" tvg-name=":MAX SE  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  13
+http://myxpanel.pro:80/live/Martin/Martin/732745.ts
 #EXTINF:-1 tvg-id="maxse14" tvg-name=":MAX SE  14" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  14
 http://myxpanel.pro:80/live/Martin/Martin/732744.ts
 #EXTINF:-1 tvg-id="maxse15" tvg-name=":MAX SE  15" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  15
@@ -4815,28 +4821,28 @@ http://myxpanel.pro:80/live/Martin/Martin/732654.ts
 http://myxpanel.pro:80/live/Martin/Martin/732653.ts
 #EXTINF:-1 tvg-id="maxse99" tvg-name=":MAX SE  99" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",:MAX SE  99
 http://myxpanel.pro:80/live/Martin/Martin/732652.ts
-#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81100vnmaxse13" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX SE  13" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 11:00 (VN):MAX SE  13
-http://myxpanel.pro:80/live/Martin/Martin/732745.ts
-#EXTINF:-1 tvg-id="snookerbulcsureveszvscraigsteadmanapr71700vnmaxse02" tvg-name="Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX SE  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Bulcsu Revesz vs Craig Steadman @ Apr 7 17:00 (VN):MAX SE  02
-http://myxpanel.pro:80/live/Martin/Martin/732756.ts
-#EXTINF:-1 tvg-id="snookerbulcsúrévészvscraigsteadmanapr70200vnmaxse09" tvg-name="Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX SE  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Bulcsú Révész vs Craig Steadman @ Apr 7 02:00 (VN):MAX SE  09
-http://myxpanel.pro:80/live/Martin/Martin/732749.ts
-#EXTINF:-1 tvg-id="snookerharistahirvsconnorbenzeyapr72130vnmaxse06" tvg-name="Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX SE  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Haris Tahir vs Connor Benzey @ Apr 7 21:30 (VN):MAX SE  06
-http://myxpanel.pro:80/live/Martin/Martin/732752.ts
-#EXTINF:-1 tvg-id="snookerianburnsvssahilnayyarapr70200vnmaxse11" tvg-name="Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX SE  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Ian Burns vs Sahil Nayyar @ Apr 7 02:00 (VN):MAX SE  11
-http://myxpanel.pro:80/live/Martin/Martin/732747.ts
-#EXTINF:-1 tvg-id="snookerkendohertyvspatrickwhelanapr72130vnmaxse03" tvg-name="Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX SE  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Ken Doherty vs Patrick Whelan @ Apr 7 21:30 (VN):MAX SE  03
-http://myxpanel.pro:80/live/Martin/Martin/732755.ts
-#EXTINF:-1 tvg-id="snookerliampullenvsalfieburdenapr72130vnmaxse05" tvg-name="Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX SE  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Liam Pullen vs Alfie Burden @ Apr 7 21:30 (VN):MAX SE  05
-http://myxpanel.pro:80/live/Martin/Martin/732753.ts
-#EXTINF:-1 tvg-id="snookermarcofuvsminknutcharutapr70200vnmaxse10" tvg-name="Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX SE  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Marco Fu vs Mink Nutcharut @ Apr 7 02:00 (VN):MAX SE  10
-http://myxpanel.pro:80/live/Martin/Martin/732748.ts
-#EXTINF:-1 tvg-id="snookerreanneevansvsvladislavgradinariapr72130vnmaxse04" tvg-name="Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX SE  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Reanne Evans vs Vladislav Gradinari @ Apr 7 21:30 (VN):MAX SE  04
-http://myxpanel.pro:80/live/Martin/Martin/732754.ts
-#EXTINF:-1 tvg-id="snookersnookerapr71700vnmaxse01" tvg-name="Snooker: Snooker @ Apr 7 17:00 (VN):MAX SE  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Snooker @ Apr 7 17:00 (VN):MAX SE  01
+#EXTINF:-1 tvg-id="basketballhoustonrocketsphoenixsunsapr81059vnmaxse01" tvg-name="Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX SE  01" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Basketball: Houston Rockets @ Phoenix Suns @ Apr 8 10:59 (VN):MAX SE  01
 http://myxpanel.pro:80/live/Martin/Martin/732757.ts
-#EXTINF:-1 tvg-id="snookerstevenhallworthvskreishhgurbaxaniapr70200vnmaxse08" tvg-name="Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX SE  08" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Steven Hallworth vs Kreishh Gurbaxani @ Apr 7 02:00 (VN):MAX SE  08
-http://myxpanel.pro:80/live/Martin/Martin/732750.ts
+#EXTINF:-1 tvg-id="cyclingscheldeprijsapr82145vnmaxse09" tvg-name="Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX SE  09" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Cycling: Scheldeprijs @ Apr 8 21:45 (VN):MAX SE  09
+http://myxpanel.pro:80/live/Martin/Martin/732749.ts
+#EXTINF:-1 tvg-id="snookerfarakhajaibvsumutdikmeapr81700vnmaxse02" tvg-name="Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX SE  02" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Farakh Ajaib vs Umut Dikme @ Apr 8 17:00 (VN):MAX SE  02
+http://myxpanel.pro:80/live/Martin/Martin/732756.ts
+#EXTINF:-1 tvg-id="snookerhaydonpinheyvsjamieclarkeapr81700vnmaxse03" tvg-name="Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX SE  03" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Haydon Pinhey vs Jamie Clarke @ Apr 8 17:00 (VN):MAX SE  03
+http://myxpanel.pro:80/live/Martin/Martin/732755.ts
+#EXTINF:-1 tvg-id="snookeriulianboikovswangxinboapr82130vnmaxse06" tvg-name="Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX SE  06" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Iulian Boiko vs Wang Xinbo @ Apr 8 21:30 (VN):MAX SE  06
+http://myxpanel.pro:80/live/Martin/Martin/732752.ts
+#EXTINF:-1 tvg-id="snookerlanyuhaovschatchapongnasaapr80200vnmaxse11" tvg-name="Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX SE  11" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Lan Yuhao vs Chatchapong Nasa @ Apr 8 02:00 (VN):MAX SE  11
+http://myxpanel.pro:80/live/Martin/Martin/732747.ts
+#EXTINF:-1 tvg-id="snookermichaelholtvsbaiyuluapr82130vnmaxse04" tvg-name="Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX SE  04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Michael Holt vs Bai Yulu @ Apr 8 21:30 (VN):MAX SE  04
+http://myxpanel.pro:80/live/Martin/Martin/732754.ts
+#EXTINF:-1 tvg-id="snookersandersonlamvsmichalszubarczykapr82130vnmaxse05" tvg-name="Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX SE  05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Sanderson Lam vs Michal Szubarczyk @ Apr 8 21:30 (VN):MAX SE  05
+http://myxpanel.pro:80/live/Martin/Martin/732753.ts
+#EXTINF:-1 tvg-id="snookerscottdonaldsonvspeterlinesapr82130vnmaxse07" tvg-name="Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX SE  07" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Scott Donaldson vs Peter Lines @ Apr 8 21:30 (VN):MAX SE  07
+http://myxpanel.pro:80/live/Martin/Martin/732751.ts
+#EXTINF:-1 tvg-id="snookersnookerapr80200vnmaxse12" tvg-name="Snooker: Snooker @ Apr 8 02:00 (VN):MAX SE  12" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Snooker @ Apr 8 02:00 (VN):MAX SE  12
+http://myxpanel.pro:80/live/Martin/Martin/732746.ts
+#EXTINF:-1 tvg-id="snookerzhaohanyangvsmahmoudelhareedyapr80200vnmaxse10" tvg-name="Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX SE  10" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="Sweden | max sports",Snooker: Zhao Hanyang vs Mahmoud El Hareedy @ Apr 8 02:00 (VN):MAX SE  10
+http://myxpanel.pro:80/live/Martin/Martin/732748.ts
 #EXTINF:-1 tvg-id="maxus04" tvg-name=":MAX US 04" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 04
 http://myxpanel.pro:80/live/Martin/Martin/732307.ts
 #EXTINF:-1 tvg-id="maxus05" tvg-name=":MAX US 05" tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="USA | max sports",:MAX US 05
