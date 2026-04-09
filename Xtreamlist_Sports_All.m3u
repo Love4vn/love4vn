@@ -1703,24 +1703,28 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="enddamacalqadsiahallprimede" tvg-name="End | Damac - Al-Qadsiah | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Damac - Al-Qadsiah | all | PRIME-DE
+#EXTINF:-1 tvg-id="end2026upperaustrialadieslinztennisallprimede" tvg-name="End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="endbolognavsastonvillaallprimede" tvg-name="End | Bologna vs. Aston Villa | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Bologna vs. Aston Villa | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="endportovsnottinghamforestallprimede" tvg-name="End | Porto vs. Nottingham Forest | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Porto vs. Nottingham Forest | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="endrayovallecanovaekallprimede" tvg-name="End | Rayo Vallecano v AEK | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rayo Vallecano v AEK | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="endrayovallecanovsaekathenallprimede" tvg-name="End | Rayo Vallecano vs. AEK Athen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rayo Vallecano vs. AEK Athen | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="livefsvmainz05vsracingstraßburgallprimede" tvg-name="Live | FSV Mainz 05 vs. Racing Straßburg | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | FSV Mainz 05 vs. Racing Straßburg | all | PRIME-DE
+#EXTINF:-1 tvg-id="enddamacalqadsiahallprimede" tvg-name="End | Damac - Al-Qadsiah | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Damac - Al-Qadsiah | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="liveivorycoastmauritaniaallprimede" tvg-name="Live | Ivory Coast - Mauritania | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Ivory Coast - Mauritania | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="liverockleagueday4allprimede" tvg-name="Live | Rock League | Day 4 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Rock League | Day 4 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="liveshakhtardonetskvsazallprimede" tvg-name="Live | Shakhtar Donetsk vs. AZ | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Shakhtar Donetsk vs. AZ | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="next1604gmtiglesiasvssilyaginallprimede" tvg-name="Next | 16:04 (GMT) | Iglesias vs. Silyagin | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Iglesias vs. Silyagin | all | PRIME-DE
+#EXTINF:-1 tvg-id="endfreiburgvsceltavigoallprimede" tvg-name="End | Freiburg vs. Celta Vigo | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Freiburg vs. Celta Vigo | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="endjamiejonesvladislavgradinariwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Jamie Jones - Vladislav Gradinari WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Jamie Jones - Vladislav Gradinari WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662314.ts
+#EXTINF:-1 tvg-id="endmatchdayshowkonferenzallprimede" tvg-name="End | Matchday-Show & Konferenz | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Matchday-Show & Konferenz | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="endportovsnottinghamforestallprimede" tvg-name="End | Porto vs. Nottingham Forest | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Porto vs. Nottingham Forest | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="endrayovallecanovaekallprimede" tvg-name="End | Rayo Vallecano v AEK | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rayo Vallecano v AEK | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="endschachtardonezkvsazalkmaarallprimede" tvg-name="End | Schachtar Donezk vs. AZ Alkmaar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Schachtar Donezk vs. AZ Alkmaar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="endwislapłocksportingcpallprimede" tvg-name="End | Wisla Płock - Sporting CP | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Wisla Płock - Sporting CP | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="liverockleagueday4allprimede" tvg-name="Live | Rock League | Day 4 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Rock League | Day 4 | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
