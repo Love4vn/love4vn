@@ -769,9 +769,9 @@ http://myxpanel.pro:80/live/Martin/Martin/625734.ts
 http://myxpanel.pro:80/live/Martin/Martin/625743.ts
 #EXTINF:-1 tvg-id="usavsbelgiumapr102200vnbilliejeankingcuptennis26" tvg-name="USA vs Belgium @ Apr 10 22:00 (VN)- Billie Jean King Cup :Tennis  26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="LIVE | Tennis",USA vs Belgium @ Apr 10 22:00 (VN)- Billie Jean King Cup :Tennis  26
 http://myxpanel.pro:80/live/Martin/Martin/625732.ts
-#EXTINF:-1 tvg-id="uefa01barcelonavsatleticomadrid0200vn" tvg-name="UEFA  | 01 - Barcelona vs Atletico Madrid 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Barcelona vs Atletico Madrid 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa01bolognavsastonvilla0200vn" tvg-name="UEFA  | 01 - Bologna  vs Aston Villa  02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 01 - Bologna  vs Aston Villa  02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277950.ts
-#EXTINF:-1 tvg-id="uefa02psgvsliverpool0200vn" tvg-name="UEFA  | 02 - Psg vs Liverpool 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 02 - Psg vs Liverpool 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa02freiburgvsceltavigo0200vn" tvg-name="UEFA  | 02 - Freiburg vs Celta Vigo  02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 02 - Freiburg vs Celta Vigo  02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277949.ts
 #EXTINF:-1 tvg-id="uefa08aekathensvscelje2345vn" tvg-name="UEFA  | 08 - Aek Athens vs Celje 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA  | 08 - Aek Athens vs Celje 23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277943.ts
@@ -787,9 +787,9 @@ http://myxpanel.pro:80/live/Martin/Martin/277933.ts
 http://myxpanel.pro:80/live/Martin/Martin/277932.ts
 #EXTINF:-1 tvg-id="uefa20" tvg-name="UEFA 20:" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA 20:
 http://myxpanel.pro:80/live/Martin/Martin/277931.ts
-#EXTINF:-1 tvg-id="uefa03bragavsrealbetis2345vn" tvg-name="UEFA | 03 - Braga vs Real Betis 23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 03 - Braga vs Real Betis 23:45 (VN)
+#EXTINF:-1 tvg-id="uefa03portovsnottinghamforest0200vn" tvg-name="UEFA | 03 - Porto vs Nottingham Forest 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 03 - Porto vs Nottingham Forest 02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277948.ts
-#EXTINF:-1 tvg-id="uefa04astonvillavslille0200vn" tvg-name="UEFA | 04 - Aston Villa vs Lille 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 04 - Aston Villa vs Lille 02:00 (VN)
+#EXTINF:-1 tvg-id="uefa04rayovallecanovsaekathens2345vn" tvg-name="UEFA | 04 - Rayo Vallecano vs AEK Athens  23:45 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 04 - Rayo Vallecano vs AEK Athens  23:45 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277947.ts
 #EXTINF:-1 tvg-id="uefa05portovsstuttgart0200vn" tvg-name="UEFA | 05 - Porto vs Stuttgart 02:00 (VN)" tvg-logo="https://logos-download.com/wp-content/uploads/2017/11/UEFA_full_Logo_2012-700x700.png" group-title="LIVE | UEFA European Football",UEFA | 05 - Porto vs Stuttgart 02:00 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/277946.ts
@@ -1703,32 +1703,30 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="end2026upperaustrialadieslinztennisallprimede" tvg-name="End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2026 Upper Austria Ladies Linz Tennis | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="endalhilalalkholoodallprimede" tvg-name="End | Al-Hilal - Al-Kholood | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Al-Hilal - Al-Kholood | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="endastrosatrockiesallprimede" tvg-name="End | Astros at Rockies | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Astros at Rockies | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1604gmtbaskenlandrundfahrt4etappeuciworldtourmännergaldakogaldako1672kmallprimede" tvg-name="Next | 16:04 (GMT) | Baskenland-Rundfahrt | 4. Etappe UCI World Tour | Männer | Galdako - Galdako (167,2km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Baskenland-Rundfahrt | 4. Etappe UCI World Tour | Männer | Galdako - Galdako (167,2km) | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="endbarcelonavsatléticomadridallprimede" tvg-name="End | Barcelona vs. Atlético Madrid | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Barcelona vs. Atlético Madrid | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="enddiamondbacksatmetsallprimede" tvg-name="End | Diamondbacks at Mets | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Diamondbacks at Mets | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="endfarakhajaibumutdikmewmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Farakh Ajaib - Umut Dikme WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Farakh Ajaib - Umut Dikme WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="endhaydonpinheyjamieclarkewmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Haydon Pinhey - Jamie Clarke WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Haydon Pinhey - Jamie Clarke WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="endlanyuhaochatchapongnasawmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Lan Yuhao - Chatchapong Nasa WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Lan Yuhao - Chatchapong Nasa WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="endmarinersatrangersallprimede" tvg-name="End | Mariners at Rangers | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Mariners at Rangers | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="endpar3contestallprimede" tvg-name="End | Par-3 Contest | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Par-3 Contest | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="endrockleagueday3allprimede" tvg-name="End | Rock League | Day 3 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rock League | Day 3 | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1604gmtiulianboikowangxinbowmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Next | 16:04 (GMT) | Iulian Boiko - Wang Xinbo WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Iulian Boiko - Wang Xinbo WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="endzayasvsennislaunchpressconferenceallprimede" tvg-name="End | Zayas vs. Ennis: Launch Press Conference | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zayas vs. Ennis: Launch Press Conference | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="endzhaohanyangmahmoudelhareedywmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Zhao Hanyang - Mahmoud El Hareedy WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zhao Hanyang - Mahmoud El Hareedy WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+#EXTINF:-1 tvg-id="next1604gmtiulianboikowangxinbowmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Next | 16:04 (GMT) | Iulian Boiko - Wang Xinbo WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Iulian Boiko - Wang Xinbo WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+#EXTINF:-1 tvg-id="next1604gmtmichaelholtbaiyuluwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="Next | 16:04 (GMT) | Michael Holt - Bai Yulu WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Michael Holt - Bai Yulu WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="next1604gmtmichaelholtbaiyuluwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="Next | 16:04 (GMT) | Michael Holt - Bai Yulu WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Michael Holt - Bai Yulu WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
+#EXTINF:-1 tvg-id="next1604gmtradsportbaskenlandrundfahrt4etappedermännerallprimede" tvg-name="Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="next1604gmtradsportbaskenlandrundfahrt4etappedermännerallprimede" tvg-name="Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="next1604gmtradsportbaskenlandrundfahrt4etappedermännerallprimede" tvg-name="Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Radsport: Baskenlandrundfahrt: 4. Etappe der Männer | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="next1604gmtsandersonlammichalszubarczykwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Next | 16:04 (GMT) | Sanderson Lam - Michal Szubarczyk WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Sanderson Lam - Michal Szubarczyk WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="next1604gmtscottdonaldsonpeterlineswmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Next | 16:04 (GMT) | Scott Donaldson - Peter Lines WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | Scott Donaldson - Peter Lines WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="next1604gmtworldsnookertourallprimede" tvg-name="Next | 16:04 (GMT) | World Snooker Tour | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | World Snooker Tour | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="next1604gmtworldsnookertourallprimede" tvg-name="Next | 16:04 (GMT) | World Snooker Tour | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 16:04 (GMT) | World Snooker Tour | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
