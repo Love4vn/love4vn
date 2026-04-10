@@ -1747,6 +1747,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 #EXTINF:-1 tvg-id="end2blmultiview29spieltagfreitagallprimede" tvg-name="End | 2. BL: Multiview-29. Spieltag, Freitag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2. BL: Multiview-29. Spieltag, Freitag | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="endaugsburgvshoffenheimallprimede" tvg-name="End | Augsburg vs. Hoffenheim | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Augsburg vs. Hoffenheim | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="endchangbingyuprinratmukdawmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Chang Bingyu - Prin Ratmukda WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Chang Bingyu - Prin Ratmukda WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
 #EXTINF:-1 tvg-id="enddüsseldorfertusfortuna1895vskielersvholstein1900allprimede" tvg-name="End | Düsseldorfer TuS Fortuna 1895 vs. Kieler SV Holstein 1900 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Düsseldorfer TuS Fortuna 1895 vs. Kieler SV Holstein 1900 | all | PRIME-DE
@@ -1767,8 +1769,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
 #EXTINF:-1 tvg-id="endswitzerlandvczechiaallprimede" tvg-name="End | Switzerland v Czechia | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Switzerland v Czechia | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="liveaugsburgvshoffenheimallprimede" tvg-name="Live | Augsburg vs. Hoffenheim | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Augsburg vs. Hoffenheim | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
