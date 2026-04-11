@@ -553,6 +553,10 @@ http://myxpanel.pro:80/live/Martin/Martin/753823.ts
 http://myxpanel.pro:80/live/Martin/Martin/753822.ts
 #EXTINF:-1 tvg-id="friendly30" tvg-name="FRIENDLY 30:" tvg-logo="https://w7.pngwing.com/pngs/304/104/png-transparent-football-player-real-madrid-c-f-sports-association-football-angle-monochrome-computer-wallpaper.png" group-title="LIVE | Football FRIENDLY",FRIENDLY 30:
 http://myxpanel.pro:80/live/Martin/Martin/753821.ts
+#EXTINF:-1 tvg-id="golf05" tvg-name=":Golf  05" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  05
+http://myxpanel.pro:80/live/Martin/Martin/3112.ts
+#EXTINF:-1 tvg-id="golf06" tvg-name=":Golf  06" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  06
+http://myxpanel.pro:80/live/Martin/Martin/3111.ts
 #EXTINF:-1 tvg-id="golf07" tvg-name=":Golf  07" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  07
 http://myxpanel.pro:80/live/Martin/Martin/3110.ts
 #EXTINF:-1 tvg-id="golf08" tvg-name=":Golf  08" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  08
@@ -581,18 +585,14 @@ http://myxpanel.pro:80/live/Martin/Martin/3099.ts
 http://myxpanel.pro:80/live/Martin/Martin/3098.ts
 #EXTINF:-1 tvg-id="golf20" tvg-name=":Golf  20" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  20
 http://myxpanel.pro:80/live/Martin/Martin/3097.ts
-#EXTINF:-1 tvg-id="mastersamencorner1645vngolf05" tvg-name="Masters Amen Corner 16:45 (VN):Golf  05" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Masters Amen Corner 16:45 (VN):Golf  05
-http://myxpanel.pro:80/live/Martin/Martin/3112.ts
-#EXTINF:-1 tvg-id="mastersfeaturedgroups1600vngolf04" tvg-name="Masters Featured Groups 16:00 (VN):Golf  04" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Masters Featured Groups 16:00 (VN):Golf  04
+#EXTINF:-1 tvg-id="hemastersholes1516thirdround0645vngolf04" tvg-name="he Masters Holes 15 & 16 Third Round  06:45 (VN):Golf  04" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",he Masters Holes 15 & 16 Third Round  06:45 (VN):Golf  04
 http://myxpanel.pro:80/live/Martin/Martin/3113.ts
-#EXTINF:-1 tvg-id="mastersholes15and161715vngolf06" tvg-name="Masters Holes 15 and 16 17:15 (VN):Golf  06" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Masters Holes 15 and 16 17:15 (VN):Golf  06
-http://myxpanel.pro:80/live/Martin/Martin/3111.ts
-#EXTINF:-1 tvg-id="mastersholes45and61445vngolf02" tvg-name="Masters Holes 4, 5 and 6 14:45 (VN):Golf  02" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Masters Holes 4, 5 and 6 14:45 (VN):Golf  02
-http://myxpanel.pro:80/live/Martin/Martin/3115.ts
-#EXTINF:-1 tvg-id="mastersontherange1430vngolf01" tvg-name="Masters On The Range 14:30 (VN):Golf  01" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Masters On The Range 14:30 (VN):Golf  01
-http://myxpanel.pro:80/live/Martin/Martin/3116.ts
-#EXTINF:-1 tvg-id="morningsatthemasters1500vngolf03" tvg-name="Mornings at The Masters 15:00 (VN):Golf  03" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",Mornings at The Masters 15:00 (VN):Golf  03
+#EXTINF:-1 tvg-id="themastersamencornerthirdround1500vngolf03" tvg-name="The Masters Amen Corner Third Round  15:00 (VN):Golf  03" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",The Masters Amen Corner Third Round  15:00 (VN):Golf  03
 http://myxpanel.pro:80/live/Martin/Martin/3114.ts
+#EXTINF:-1 tvg-id="themastersholes456thirdroundgolf02" tvg-name="The Masters Holes 4 5 & 6 Third Round  :Golf  02" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",The Masters Holes 4 5 & 6 Third Round  :Golf  02
+http://myxpanel.pro:80/live/Martin/Martin/3115.ts
+#EXTINF:-1 tvg-id="themastersrahmspiethfeaturedgroupsthirdroundgolf01" tvg-name="The Masters Rahm & Spieth Featured Groups Third Round :Golf  01" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",The Masters Rahm & Spieth Featured Groups Third Round :Golf  01
+http://myxpanel.pro:80/live/Martin/Martin/3116.ts
 #EXTINF:-1 tvg-id="loi1longfordtownvbraywanderersuksat11thapr1315vnetsat11thapr0815vn" tvg-name="LOI  1 | Longford Town v Bray Wanderers // UK Sat 11th Apr 13:15 (VN) // ET Sat 11th Apr 08:15 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI  1 | Longford Town v Bray Wanderers // UK Sat 11th Apr 13:15 (VN) // ET Sat 11th Apr 08:15 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816010.ts
 #EXTINF:-1 tvg-id="loi06finnharpsvcorkcityukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
