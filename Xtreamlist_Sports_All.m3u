@@ -553,8 +553,6 @@ http://myxpanel.pro:80/live/Martin/Martin/753823.ts
 http://myxpanel.pro:80/live/Martin/Martin/753822.ts
 #EXTINF:-1 tvg-id="friendly30" tvg-name="FRIENDLY 30:" tvg-logo="https://w7.pngwing.com/pngs/304/104/png-transparent-football-player-real-madrid-c-f-sports-association-football-angle-monochrome-computer-wallpaper.png" group-title="LIVE | Football FRIENDLY",FRIENDLY 30:
 http://myxpanel.pro:80/live/Martin/Martin/753821.ts
-#EXTINF:-1 tvg-id="golf05themastersenespañolmastersgolftournamenttercerarondaapr11" tvg-name=":Golf  05 The Masters: En Español Masters Golf Tournament Tercera Ronda @ Apr 11" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  05 The Masters: En Español Masters Golf Tournament Tercera Ronda @ Apr 11
-http://myxpanel.pro:80/live/Martin/Martin/3112.ts
 #EXTINF:-1 tvg-id="golf06" tvg-name=":Golf  06" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  06
 http://myxpanel.pro:80/live/Martin/Martin/3111.ts
 #EXTINF:-1 tvg-id="golf07" tvg-name=":Golf  07" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",:Golf  07
@@ -593,6 +591,8 @@ http://myxpanel.pro:80/live/Martin/Martin/3114.ts
 http://myxpanel.pro:80/live/Martin/Martin/3115.ts
 #EXTINF:-1 tvg-id="themastersrahmspiethfeaturedgroupsthirdroundgolf01" tvg-name="The Masters Rahm & Spieth Featured Groups Third Round :Golf  01" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",The Masters Rahm & Spieth Featured Groups Third Round :Golf  01
 http://myxpanel.pro:80/live/Martin/Martin/3116.ts
+#EXTINF:-1 tvg-id="themastersenespañolmastersgolftournamenttercerarondaapr11golf05" tvg-name="The Masters: En Español Masters Golf Tournament Tercera Ronda @ Apr 11 :Golf  05" tvg-logo="https://res.cloudinary.com/usopc-prod/image/upload/v1681159851/Cropped-USA-Golf-Logo.jpg" group-title="LIVE | GOLF",The Masters: En Español Masters Golf Tournament Tercera Ronda @ Apr 11 :Golf  05
+http://myxpanel.pro:80/live/Martin/Martin/3112.ts
 #EXTINF:-1 tvg-id="loi1longfordtownvbraywanderersuksat11thapr1315vnetsat11thapr0815vn" tvg-name="LOI  1 | Longford Town v Bray Wanderers // UK Sat 11th Apr 13:15 (VN) // ET Sat 11th Apr 08:15 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI  1 | Longford Town v Bray Wanderers // UK Sat 11th Apr 13:15 (VN) // ET Sat 11th Apr 08:15 (VN)
 http://myxpanel.pro:80/live/Martin/Martin/816010.ts
 #EXTINF:-1 tvg-id="loi06finnharpsvcorkcityukfri3rdapr1335vnetfri3rdapr0835vn" tvg-name="LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)" tvg-logo="" group-title="LIVE | IRISH FOOTBALL",LOI 06 | Finn Harps v Cork City // UK Fri 3rd Apr 13:35 (VN) // ET Fri 3rd Apr 08:35 (VN)
@@ -1719,31 +1719,29 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
-#EXTINF:-1 tvg-id="end2blmultiview29spieltagfreitagallprimede" tvg-name="End | 2. BL: Multiview-29. Spieltag, Freitag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2. BL: Multiview-29. Spieltag, Freitag | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
-#EXTINF:-1 tvg-id="endalloteyvserastusallprimede" tvg-name="End | Allotey vs. Erastus | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Allotey vs. Erastus | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662311.ts
-#EXTINF:-1 tvg-id="endaugsburgvshoffenheimallprimede" tvg-name="End | Augsburg vs. Hoffenheim | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Augsburg vs. Hoffenheim | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="enddüsseldorfertusfortuna1895vskielersvholstein1900allprimede" tvg-name="End | Düsseldorfer TuS Fortuna 1895 vs. Kieler SV Holstein 1900 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Düsseldorfer TuS Fortuna 1895 vs. Kieler SV Holstein 1900 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662323.ts
-#EXTINF:-1 tvg-id="endfanzhengyilanyuhaowmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Fan Zhengyi - Lan Yuhao WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Fan Zhengyi - Lan Yuhao WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662317.ts
-#EXTINF:-1 tvg-id="endfreestylefriday10thaprilallprimede" tvg-name="End | Freestyle Friday | 10th April | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Freestyle Friday | 10th April | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="endfußball2bundesligaallespielealletore29spieltagfreitagallprimede" tvg-name="End | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Freitag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Freitag | all | PRIME-DE
+#EXTINF:-1 tvg-id="end2blmultiview29spieltagsamstagallprimede" tvg-name="End | 2. BL: Multiview-29. Spieltag, Samstag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | 2. BL: Multiview-29. Spieltag, Samstag | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
-#EXTINF:-1 tvg-id="endoliverlinesmarklloydwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Oliver Lines - Mark Lloyd WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Oliver Lines - Mark Lloyd WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+#EXTINF:-1 tvg-id="enddavidgilbertleonecrowleywmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | David Gilbert - Leone Crowley WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | David Gilbert - Leone Crowley WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
+#EXTINF:-1 tvg-id="enddavidgilbertleonecrowleywmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | David Gilbert - Leone Crowley WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | David Gilbert - Leone Crowley WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="endrealmadridvsgironaallprimede" tvg-name="End | Real Madrid vs. Girona | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Real Madrid vs. Girona | all | PRIME-DE
+#EXTINF:-1 tvg-id="endherthabscvs1fckaiserslauternallprimede" tvg-name="End | Hertha BSC vs. 1. FC Kaiserslautern | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Hertha BSC vs. 1. FC Kaiserslautern | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="endrockleagueday5allprimede" tvg-name="End | Rock League | Day 5 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Rock League | Day 5 | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="endsamcraigieumutdikmewmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Sam Craigie - Umut Dikme WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Sam Craigie - Umut Dikme WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="endsecondroundallprimede" tvg-name="End | Second Round | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Second Round | all | PRIME-DE
+#EXTINF:-1 tvg-id="endhosseinvafaeimichałszubarczykwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Hossein Vafaei - Michał Szubarczyk WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Hossein Vafaei - Michał Szubarczyk WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="endwesthamvswolvesallprimede" tvg-name="End | West Ham vs. Wolves | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | West Ham vs. Wolves | all | PRIME-DE
+#EXTINF:-1 tvg-id="endhosseinvafaeimichałszubarczykwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Hossein Vafaei - Michał Szubarczyk WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Hossein Vafaei - Michał Szubarczyk WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662317.ts
+#EXTINF:-1 tvg-id="endnasukawavsestradaallprimede" tvg-name="End | Nasukawa vs. Estrada | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Nasukawa vs. Estrada | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662323.ts
+#EXTINF:-1 tvg-id="endscpreußen06münstervsspvgggreutherfürthallprimede" tvg-name="End | SC Preußen 06 Münster vs. SpVgg Greuther Fürth | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | SC Preußen 06 Münster vs. SpVgg Greuther Fürth | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="endstuartbinghamxinbowangwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Stuart Bingham - Xinbo Wang WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Stuart Bingham - Xinbo Wang WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
+#EXTINF:-1 tvg-id="endstuartbinghamxinbowangwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Stuart Bingham - Xinbo Wang WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Stuart Bingham - Xinbo Wang WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662316.ts
+#EXTINF:-1 tvg-id="endzhouyuelongrobbiemcguiganwmqualifikationsheffieldenglischerkommentarallprimede" tvg-name="End | Zhou Yuelong - Robbie McGuigan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zhou Yuelong - Robbie McGuigan WM | Qualifikation | Sheffield | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="livebundesligaconferencematchday29allprimede" tvg-name="Live | Bundesliga Conference | Matchday 29 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Bundesliga Conference | Matchday 29 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662315.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
