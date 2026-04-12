@@ -1755,6 +1755,14 @@ http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
 #EXTINF:-1 tvg-id="endlondonlionssheffieldsharksallprimede" tvg-name="End | London Lions - Sheffield Sharks | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | London Lions - Sheffield Sharks | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
+#EXTINF:-1 tvg-id="endnicevshavreallprimede" tvg-name="End | Nice vs. Havre | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Nice vs. Havre | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662315.ts
+#EXTINF:-1 tvg-id="endparisroubaixuciworldtourfrauendenainroubaix1431kmallprimede" tvg-name="End | Paris-Roubaix UCI World Tour | Frauen | Denain – Roubaix (143,1km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Paris-Roubaix UCI World Tour | Frauen | Denain – Roubaix (143,1km) | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+#EXTINF:-1 tvg-id="endtoulousevslilleallprimede" tvg-name="End | Toulouse vs. Lille | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Toulouse vs. Lille | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662320.ts
+#EXTINF:-1 tvg-id="endzhangandabulcsureveszwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="liveanderlechtgentallprimede" tvg-name="Live | Anderlecht - Gent | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Anderlecht - Gent | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="livebolognavslecceallprimede" tvg-name="Live | Bologna vs. Lecce | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Bologna vs. Lecce | all | PRIME-DE
@@ -1769,16 +1777,8 @@ http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 http://myxpanel.pro:80/live/Martin/Martin/662312.ts
 #EXTINF:-1 tvg-id="livekingsleaguegermanymatchday6allprimede" tvg-name="Live | Kings League Germany | Matchday 6 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Kings League Germany | Matchday 6 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
-#EXTINF:-1 tvg-id="livenicevshavreallprimede" tvg-name="Live | Nice vs. Havre | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Nice vs. Havre | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662315.ts
-#EXTINF:-1 tvg-id="liveparisroubaixuciworldtourfrauendenainroubaix1431kmallprimede" tvg-name="Live | Paris-Roubaix UCI World Tour | Frauen | Denain – Roubaix (143,1km) | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Paris-Roubaix UCI World Tour | Frauen | Denain – Roubaix (143,1km) | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 #EXTINF:-1 tvg-id="liverockleagueday7allprimede" tvg-name="Live | Rock League | Day 7 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Rock League | Day 7 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662316.ts
-#EXTINF:-1 tvg-id="livetoulousevslilleallprimede" tvg-name="Live | Toulouse vs. Lille | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Toulouse vs. Lille | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="livezhangandabulcsureveszwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Live | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="atskysportaustria1ᵁᴴᴰ" tvg-name="|AT|  Sky Sport Austria 1 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT|  Sky Sport Austria 1 ᵁᴴᴰ
 http://myxpanel.pro:80/live/Martin/Martin/662369.ts
 #EXTINF:-1 tvg-id="atskysportaustria" tvg-name="|AT| Sky Sport Austria" tvg-logo="http://138.199.27.237:8080/AUSTRIA/SKYSPORTAUSTRIA.png" group-title="DE | SPORT",|AT| Sky Sport Austria
