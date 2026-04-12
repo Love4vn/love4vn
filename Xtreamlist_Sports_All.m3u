@@ -1753,8 +1753,12 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="endanderlechtgentallprimede" tvg-name="End | Anderlecht - Gent | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Anderlecht - Gent | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 #EXTINF:-1 tvg-id="endbolognavslecceallprimede" tvg-name="End | Bologna vs. Lecce | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Bologna vs. Lecce | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
+#EXTINF:-1 tvg-id="endceltavigovsoviedoallprimede" tvg-name="End | Celta Vigo vs. Oviedo | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Celta Vigo vs. Oviedo | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="endchelseavsmanchestercityallprimede" tvg-name="End | Chelsea vs. Manchester City | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Chelsea vs. Manchester City | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="endfinallutontownvsstockportcountyallprimede" tvg-name="End | Final: Luton Town vs. Stockport County | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Final: Luton Town vs. Stockport County | all | PRIME-DE
@@ -1769,10 +1773,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662318.ts
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="endzhangandabulcsureveszwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="End | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Zhang Anda - Bulcsu Revesz WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="liveanderlechtgentallprimede" tvg-name="Live | Anderlecht - Gent | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Anderlecht - Gent | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662322.ts
-#EXTINF:-1 tvg-id="liveceltavigovsoviedoallprimede" tvg-name="Live | Celta Vigo vs. Oviedo | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Celta Vigo vs. Oviedo | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="livefinalroundallprimede" tvg-name="Live | Final Round | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Final Round | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 #EXTINF:-1 tvg-id="livekingsleaguegermanymatchday6allprimede" tvg-name="Live | Kings League Germany | Matchday 6 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Kings League Germany | Matchday 6 | all | PRIME-DE
