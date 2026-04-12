@@ -1753,6 +1753,12 @@ http://myxpanel.pro:80/live/Martin/Martin/662440.ts
 http://myxpanel.pro:80/live/Martin/Martin/662438.ts
 #EXTINF:-1 tvg-id="denoevent" tvg-name="DE | No Event" tvg-logo="https://w7.pngwing.com/pngs/171/738/png-transparent-france-ligue-1-premier-league-serie-a-paris-saint-germain-f-c-mls-kodi-thumbnail.png" group-title="DE | SPORT",DE | No Event
 http://myxpanel.pro:80/live/Martin/Martin/662437.ts
+#EXTINF:-1 tvg-id="endelms4hvonbarcelonarenneneuropeanlemansseries1stationenglischerkommentarallprimede" tvg-name="End | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662321.ts
+#EXTINF:-1 tvg-id="endelms4hvonbarcelonarenneneuropeanlemansseries1stationenglischerkommentarallprimede" tvg-name="End | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662318.ts
+#EXTINF:-1 tvg-id="endfußball2bundesligaallespielealletore29spieltagsonntagallprimede" tvg-name="End | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Sonntag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Sonntag | all | PRIME-DE
+http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="endsardinienmx21rennenwmallprimede" tvg-name="End | Sardinien | MX2 | 1. Rennen WM | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Sardinien | MX2 | 1. Rennen WM | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662323.ts
 #EXTINF:-1 tvg-id="endsardinienmxgp1rennenwmallprimede" tvg-name="End | Sardinien | MXGP | 1. Rennen WM | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | Sardinien | MXGP | 1. Rennen WM | all | PRIME-DE
@@ -1761,12 +1767,6 @@ http://myxpanel.pro:80/live/Martin/Martin/662322.ts
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
 #EXTINF:-1 tvg-id="endwrccroatiarallyss20wolfpowerstagealansenj2allprimede" tvg-name="End | WRC Croatia Rally SS 20 - Wolf Power Stage, Alan - Senj 2 | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",End | WRC Croatia Rally SS 20 - Wolf Power Stage, Alan - Senj 2 | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662313.ts
-#EXTINF:-1 tvg-id="liveelms4hvonbarcelonarenneneuropeanlemansseries1stationenglischerkommentarallprimede" tvg-name="Live | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662321.ts
-#EXTINF:-1 tvg-id="liveelms4hvonbarcelonarenneneuropeanlemansseries1stationenglischerkommentarallprimede" tvg-name="Live | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | ELMS | 4h von Barcelona | Rennen European Le Mans Series | 1. Station | Englischer Kommentar | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662318.ts
-#EXTINF:-1 tvg-id="livefußball2bundesligaallespielealletore29spieltagsonntagallprimede" tvg-name="Live | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Sonntag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Fußball: 2. Bundesliga: Alle Spiele, alle Tore-29. Spieltag, Sonntag | all | PRIME-DE
-http://myxpanel.pro:80/live/Martin/Martin/662319.ts
 #EXTINF:-1 tvg-id="livejakjonesmarcofuwmqualifikationsheffieldoriginalsoundallprimede" tvg-name="Live | Jak Jones - Marco Fu WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Jak Jones - Marco Fu WM | Qualifikation | Sheffield | Original Sound | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="livekölnvsbremenallprimede" tvg-name="Live | Köln vs. Bremen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Köln vs. Bremen | all | PRIME-DE
@@ -5361,7 +5361,7 @@ http://myxpanel.pro:80/live/Martin/Martin/808392.ts
 http://myxpanel.pro:80/live/Martin/Martin/870.ts
 #EXTINF:-1 tvg-id="usanextlevelsportsnlse" tvg-name="USA Next Level Sports NLSE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Next_Level_Sports_%26_Entertainment.svg/revision/latest?cb=20231106224336" group-title="USA | SPORTS",USA Next Level Sports NLSE
 http://myxpanel.pro:80/live/Martin/Martin/294727.ts
-#EXTINF:-1 tvg-id="usaolympicchannel" tvg-name="USA Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA | SPORTS",USA Olympic Channel
+#EXTINF:-1 tvg-id="usaolympicchanneleventsonly" tvg-name="USA Olympic Channel (Events Only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="USA | SPORTS",USA Olympic Channel (Events Only)
 http://myxpanel.pro:80/live/Martin/Martin/866.ts
 #EXTINF:-1 tvg-id="usaovertime" tvg-name="USA Overtime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9601711e-66df-4bdb-ae7a-611b8673b90a/Light_Logo_LGrdx.png" group-title="USA | SPORTS",USA Overtime
 http://myxpanel.pro:80/live/Martin/Martin/808388.ts
