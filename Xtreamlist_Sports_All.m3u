@@ -1773,7 +1773,7 @@ http://myxpanel.pro:80/live/Martin/Martin/662317.ts
 http://myxpanel.pro:80/live/Martin/Martin/662321.ts
 #EXTINF:-1 tvg-id="live2blmultiview29spieltagsonntagallprimede" tvg-name="Live | 2. BL: Multiview-29. Spieltag, Sonntag | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | 2. BL: Multiview-29. Spieltag, Sonntag | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662320.ts
-#EXTINF:-1 tvg-id="next1904gmtkölnvsbremenallprimede" tvg-name="Next | 19:04 (GMT) | Köln vs. Bremen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 19:04 (GMT) | Köln vs. Bremen | all | PRIME-DE
+#EXTINF:-1 tvg-id="livekölnvsbremenallprimede" tvg-name="Live | Köln vs. Bremen | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Live | Köln vs. Bremen | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662311.ts
 #EXTINF:-1 tvg-id="next1904gmtsardinienmxgp1rennenwmallprimede" tvg-name="Next | 19:04 (GMT) | Sardinien | MXGP | 1. Rennen WM | all | PRIME-DE" tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="DE | SPORT",Next | 19:04 (GMT) | Sardinien | MXGP | 1. Rennen WM | all | PRIME-DE
 http://myxpanel.pro:80/live/Martin/Martin/662314.ts
