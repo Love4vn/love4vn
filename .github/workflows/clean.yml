@@ -1,29 +1,22 @@
 name: Clean M3U Playlist
-
 on:
+  schedule:
+    - cron: '20 * * * *'
   push:
     paths:
       - 'output.m3u'
-      - '.github/workflows/clean.yml'
   workflow_dispatch:
-
 jobs:
   clean:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-
       - name: Setup Rust
         uses: actions-rust-lang/setup-rust-toolchain@v1
-        with:
-          toolchain: stable
-
-      - name: Cache cargo registry
+      - name: Cache cargo
         uses: actions/cache@v3
         with:
           path: |
@@ -31,27 +24,17 @@ jobs:
             ~/.cargo/git
             target
           key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-cargo-
-
       - name: Build
         run: cargo build --release
-
       - name: Run cleaner
         run: cargo run --release
-
-      - name: Commit and push cleaned playlist
+      - name: Commit and push
         run: |
-          git config --global user.name "CXT Cleaner Bot"
-          git config --global user.email "cxt-bot@users.noreply.github.com"
-          
-          # Kiểm tra nếu có thay đổi
+          git config user.name "CXT Cleaner Bot"
+          git config user.email "cxt-bot@users.noreply.github.com"
           if [[ -n "$(git status --porcelain output_clean.m3u)" ]]; then
             git add output_clean.m3u
             git commit -m "Auto-clean output.m3u [skip ci]"
-            # Kéo thay đổi mới nhất từ remote và rebase để tránh conflict
             git pull --rebase origin main
             git push origin main
-          else
-            echo "No changes to commit."
           fi
