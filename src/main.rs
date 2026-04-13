@@ -4,7 +4,7 @@ use std::time::Duration;
 
 use chrono::{Utc, Duration as ChronoDuration};
 use futures::stream::{self, StreamExt};
-use reqwest::{Client, RequestBuilder};
+use reqwest::Client;
 use tokio::time::timeout;
 
 const CONCURRENT_REQUESTS: usize = 100;
@@ -30,7 +30,7 @@ enum EntryType {
     Metadata,
     StreamUrl,
     Comment,
-    VlcOpt, // #EXTVLCOPT
+    VlcOpt,
     Empty,
 }
 
@@ -156,7 +156,7 @@ fn parse_playlist_content(content: &str) -> Vec<PlaylistEntry> {
     for line in content.lines() {
         let line = line.trim();
         let entry_type = classify_line(line);
-        let mut entry = PlaylistEntry::new(line.to_string(), entry_type, index);
+        let mut entry = PlaylistEntry::new(line.to_string(), entry_type.clone(), index);
         index += 1;
 
         match entry_type {
@@ -191,8 +191,7 @@ fn parse_playlist_content(content: &str) -> Vec<PlaylistEntry> {
                 // For non-VLC and non-URL, clear pending options? Usually options only apply to next URL.
                 // But we keep them until a URL appears. However, if we encounter a new #EXTINF or comment, reset? 
                 // Standard M3U: #EXTVLCOPT lines before a URL belong to that URL.
-                // After a URL, options should be cleared. Let's clear after URL already handled.
-                // For safety, we clear pending options when we see a new #EXTINF or header.
+                // After a URL, options should be cleared. For safety, we clear pending options when we see a new #EXTINF or header.
                 if entry_type == EntryType::Metadata || entry_type == EntryType::Header {
                     pending_vlc_ua = None;
                     pending_vlc_cookie = None;
@@ -536,4 +535,4 @@ fn shorten_url(url: &str) -> String {
 struct ValidationResult {
     is_valid: bool,
     error: Option<String>,
-            }
+        }
