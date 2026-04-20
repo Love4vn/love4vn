@@ -14,9 +14,10 @@ jobs:
 
     steps:
       - name: 📥 Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: 🐍 Set Up Python
         uses: actions/setup-python@v4
@@ -57,7 +58,10 @@ jobs:
 
       - name: ⚙️ Run Xtreamlist to M3U Playlist
         run: python Xtreamlist2M3u.py
-
+        
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+        
       - name: 💾 Commit & Push Playlist
         run: |
           git config user.name "github-actions[bot]"
