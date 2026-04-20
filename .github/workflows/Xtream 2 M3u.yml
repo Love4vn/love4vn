@@ -59,8 +59,8 @@ jobs:
       - name: ⚙️ Run Xtreamlist to M3U Playlist
         run: python Xtreamlist2M3u.py
         
-      - name: Pull latest changes
-        run: git pull --rebase origin main
+      #continue-on-error: - name: Pull latest changes
+      #  run: git pull --rebase origin main
         
       - name: 💾 Commit & Push Playlist
         run: |
