@@ -3,7 +3,7 @@ name: 🔁 Xtream to M3U Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0/8 * * * *'  # ⏰ Hourly refresh
+    - cron: '0 */2 * * *'  # ⏰ Hourly refresh
   push:
     paths:
       - 'Xtream2M3u.py'
