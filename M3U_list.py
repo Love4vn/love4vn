@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 from urllib.parse import unquote, urljoin
 
 # -------------------- CẤU HÌNH --------------------
+CHECK_HEALTH = False   # Đặt False để tắt kiểm tra link sống (chạy rất nhanh), True để bật kiểm tra (chậm hơn)
 SPECIAL_URL = "https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u"
 
 # Danh sách kênh VTV (chuẩn)
@@ -39,7 +40,7 @@ SPORTS_INCLUDE_KEYWORDS = [
     'telemundo', 'sooka', 'peacock', 'tv3 max', 'movistar', 'cazétv', 'cazetv', 'tv360'
 ]
 
-# Từ khóa loại trừ (không phải thể thao) - Đã được thu gọn, chỉ giữ các từ khóa đặc trưng
+# Từ khóa loại trừ (không phải thể thao)
 SPORTS_EXCLUDE_KEYWORDS = [
     'cricket', 'nhl', 'rugby', 'doku', 'tehlike', 'macer', 'orman', 'ada', 'dönüş', 'ejderha', 'elio',
     'brescia', 'dora', 'taş', 'sol dorado', 'the man who', 'bay', 'tüyü', 'pesinde', 'devi', '2 macera',
@@ -88,12 +89,8 @@ SPORTS_EXCLUDE_KEYWORDS = [
     'astro欢', 'dangal'
 ]
 
-# DANH SÁCH TỪ KHÓA LOẠI TRỪ PHIM
-MOVIE_EXCLUDE_KEYWORDS = [
-    'man [', 'man! (', 'woman [', 'wo man [',
-]
+MOVIE_EXCLUDE_KEYWORDS = ['man [', 'man! (', 'woman [', 'wo man [']
 
-# Map đổi tên kênh thể thao
 SPORTS_RENAME_MAP = {
     "Sky Sports Action UK NOW": "Sky Sports Action UK (NOW)",
     "Sky Sports F1 UK NOW": "Sky Sports F1 UK (NOW)",
@@ -115,18 +112,10 @@ SPORTS_RENAME_MAP = {
     "ช่อง": " ",
 }
 
-# Thứ tự ưu tiên trong từng group
 VTV_ORDER = {name: i for i, name in enumerate(VTV_CHANNELS)}
 ENT_ORDER = {name: i for i, name in enumerate(ENTERTAINMENT_CHANNELS)}
+GROUP_ORDER = {"Kênh VTV": 1, "Giải Trí": 2, "Thể Thao": 3, "Trực tiếp": 4}
 
-GROUP_ORDER = {
-    "Kênh VTV": 1,
-    "Giải Trí": 2,
-    "Thể Thao": 3,
-    "Trực tiếp": 4
-}
-
-# EPG SOURCES (giữ lại các nguồn chính, có thể giảm bớt nếu muốn nhanh hơn)
 EPG_SOURCES = [
     "https://hnlive.dramahay.xyz/epg.xml",
     "https://raw.githubusercontent.com/mrprince/epg/refs/heads/main/epg.xml.gz",
@@ -144,7 +133,6 @@ EPG_SOURCES = [
     "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml"
 ]
 
-# Cache cho việc resolve playlist
 PLAYLIST_CACHE = {}
 
 # -------------------- HÀM TIỆN ÍCH --------------------
@@ -217,6 +205,9 @@ def resolve_m3u8_url(url, max_depth=1, session=None):
         return url
 
 def check_channel_health(url, timeout=2):
+    # Nếu CHECK_HEALTH = False thì luôn trả về True (bỏ qua kiểm tra)
+    if not CHECK_HEALTH:
+        return True
     if url.startswith('udp://'):
         return True
     try:
@@ -388,11 +379,12 @@ def get_m3u_links():
 # -------------------- MAIN --------------------
 def main():
     start_time = time.time()
+    print(f"CHẾ ĐỘ KIỂM TRA HEALTH: {'BẬT' if CHECK_HEALTH else 'TẮT (chạy nhanh)'}")
     vtv_set = build_normalized_set(VTV_CHANNELS)
     ent_set = build_normalized_set(ENTERTAINMENT_CHANNELS)
     m3u_links = get_m3u_links()
 
-    # Tải EPG (giảm worker xuống 5 để không quá tải)
+    # Tải EPG
     epg_mapping = {}
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(get_epg_mapping, url) for url in EPG_SOURCES]
@@ -423,7 +415,7 @@ def main():
     except Exception as e:
         print(f"Lỗi link đặc biệt: {e}")
 
-    # Xử lý các link M3U còn lại (worker 10)
+    # Xử lý các link M3U còn lại
     with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [executor.submit(fetch_and_parse_m3u, url) for url in m3u_links if url != SPECIAL_URL]
         for future in as_completed(futures):
@@ -445,8 +437,8 @@ def main():
             unique_urls.add(ch['url'])
             unique_channels.append(ch)
 
-    # Kiểm tra health và resolve playlist (worker 50)
-    print("Đang kiểm tra kênh lỗi...")
+    # Kiểm tra health và resolve playlist (nếu CHECK_HEALTH=False thì bỏ qua health check)
+    print("Đang xử lý resolve playlist và kiểm tra kênh...")
     valid_channels = []
     with ThreadPoolExecutor(max_workers=50) as executor:
         future_to_ch = {executor.submit(final_check_and_resolve, ch): ch for ch in unique_channels}
